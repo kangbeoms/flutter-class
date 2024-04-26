@@ -1,0 +1,1876 @@
+"car_brand","car_model","car_price","car_fuel","car_transmission","car_mileage","car_age"
+"Hyundai"," Creta 1.6 CRDi SX Option",15000,"Diesel","manual",41000,9
+"Hyundai"," i20 1.2 Magna",2244,"gasoline","manual",45807,14
+"Hyundai"," i20 Magna Optional 1.2",5688,"gasoline","manual",35487,10
+"Hyundai"," Elantra 2.0 SX Option AT",10620,"gasoline","automatic",46374,10
+"Hyundai"," Elantra CRDi",5100,"Diesel","manual",58005,16
+"Hyundai"," Xcent 1.1 CRDi S",4620,"Diesel","manual",75000,10
+"Hyundai"," Grand i10 Sportz",4320,"gasoline","manual",54000,9
+"Hyundai"," i10 Asta",2484,"gasoline","manual",32000,14
+"Hyundai"," Creta 1.4 E Plus Diesel",12600,"Diesel","manual",13000,6
+"Hyundai"," i10 Sportz 1.2 AT",4176,"gasoline","automatic",45178,12
+"Hyundai"," i10 Sportz 1.2",2700,"gasoline","manual",95980,15
+"Hyundai"," Grand i10 Sportz",6900,"gasoline","manual",16000,8
+"Hyundai"," Verna Transform SX VGT CRDi",4140,"Diesel","manual",70002,14
+"Hyundai"," i20 1.4 CRDi Sportz",4560,"Diesel","manual",78958,13
+"Hyundai"," i20 Asta 1.2",5580,"gasoline","manual",30180,10
+"Hyundai"," i20 2015-2017 Asta",3240,"gasoline","manual",66000,15
+"Hyundai"," Verna 1.6 SX CRDI (O) AT",6300,"Diesel","automatic",40000,10
+"Hyundai"," Verna CRDi 1.6 SX Option",13140,"Diesel","manual",10250,6
+"Hyundai"," Verna VTVT 1.6 AT SX Plus",13800,"gasoline","automatic",12645,5
+"Hyundai"," EON Magna Plus",5076,"gasoline","manual",14322,5
+"Hyundai"," i10 Magna 1.2",3300,"gasoline","manual",60000,11
+"Hyundai"," Grand i10 1.2 Kappa Asta",7800,"gasoline","manual",1000,5
+"Hyundai"," i20 Asta 1.4 CRDi",10020,"Diesel","manual",29000,10
+"Hyundai"," Verna 1.6 SX",5520,"Diesel","manual",62000,12
+"Hyundai"," i10 Magna 1.1",4848,"gasoline","manual",52340,7
+"Hyundai"," i10 Magna",4260,"gasoline","manual",43571,9
+"Hyundai"," i20 Asta Option 1.2",7200,"gasoline","manual",61012,8
+"Hyundai"," Verna 1.6 SX",5700,"Diesel","manual",117837,12
+"Hyundai"," Creta 1.6 VTVT S",9780,"gasoline","manual",27057,9
+"Hyundai"," i10 Magna 1.1",3480,"gasoline","manual",44000,12
+"Hyundai"," i20 Active 1.2 SX",9864,"gasoline","manual",25166,6
+"Hyundai"," Santa Fe 4x4 AT",8400,"Diesel","automatic",67000,13
+"Hyundai"," i20 1.2 Magna Executive",7524,"gasoline","manual",14960,6
+"Hyundai"," i20 Sportz 1.4 CRDi",8640,"Diesel","manual",56847,9
+"Hyundai"," Grand i10 CRDi Era",5700,"Diesel","manual",33000,7
+"Hyundai"," Accent CRDi",2160,"Diesel","manual",160538,18
+"Hyundai"," i10 Era",2100,"gasoline","manual",83000,14
+"Hyundai"," Tucson 2.0 e-VGT 2WD AT GLS",26388,"Diesel","automatic",51346,6
+"Hyundai"," Grand i10 Magna",4500,"gasoline","manual",16514,10
+"Hyundai"," Verna CRDi 1.6 SX",3120,"Diesel","manual",143275,16
+"Hyundai"," i20 1.2 Sportz",3360,"gasoline","manual",52000,14
+"Hyundai"," Creta 1.6 CRDi SX",16500,"Diesel","manual",28000,8
+"Hyundai"," i10 Sportz",3900,"gasoline","manual",36000,14
+"Hyundai"," Verna 1.6 SX VTVT (O)",5136,"gasoline","manual",54308,12
+"Hyundai"," i20 Magna Optional 1.4 CRDi",3732,"Diesel","manual",46000,11
+"Hyundai"," i20 Sportz AT 1.4",7152,"gasoline","automatic",45051,10
+"Hyundai"," i10 Magna 1.2",3720,"gasoline","manual",74000,14
+"Hyundai"," i10 Magna 1.2 iTech SE",3360,"gasoline","manual",45275,12
+"Hyundai"," i20 1.4 CRDi Asta",6600,"Diesel","manual",83000,12
+"Hyundai"," i10 Sportz AT",3540,"gasoline","automatic",37000,15
+"Hyundai"," i20 Asta 1.2",3960,"gasoline","manual",79152,13
+"Hyundai"," i20 Asta Option 1.2",9192,"gasoline","manual",24973,8
+"Hyundai"," EON D Lite Plus",4260,"gasoline","manual",27904,8
+"Hyundai"," Verna 1.6 SX",6300,"Diesel","manual",80000,12
+"Hyundai"," i10 Magna 1.2",3240,"gasoline","manual",620000,15
+"Hyundai"," Grand i10 AT Asta",6924,"gasoline","automatic",37081,9
+"Hyundai"," Xcent 1.1 CRDi Base",4800,"Diesel","manual",74310,9
+"Hyundai"," Verna Transform VTVT",3000,"gasoline","manual",95000,14
+"Hyundai"," EON Magna Plus",3900,"gasoline","manual",37000,10
+"Hyundai"," Verna 1.6 SX VTVT",5940,"gasoline","manual",49768,13
+"Hyundai"," Accent GLE",960,"gasoline","manual",5834,19
+"Hyundai"," i20 Active SX Petrol",8280,"gasoline","manual",40250,7
+"Hyundai"," EON Magna Plus",2700,"gasoline","manual",20800,9
+"Hyundai"," Grand i10 SportZ Edition",6600,"gasoline","manual",40322,6
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",14436,"gasoline","manual",23163,7
+"Hyundai"," EON Era Plus",4872,"gasoline","manual",13102,6
+"Hyundai"," EON D Lite",3120,"gasoline","manual",20600,10
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",16524,"gasoline","automatic",29952,7
+"Hyundai"," i20 1.2 Asta Option",9576,"gasoline","manual",26185,7
+"Hyundai"," i20 2015-2017 Asta 1.2",8640,"gasoline","manual",6800,8
+"Hyundai"," Xcent 1.1 CRDi S Celebration Edition",6300,"Diesel","manual",51000,8
+"Hyundai"," Grand i10 CRDi Magna",5520,"Diesel","manual",14000,7
+"Hyundai"," Santro Xing GLS",2664,"gasoline","manual",46000,16
+"Hyundai"," Grand i10 Sportz",5400,"gasoline","manual",27000,9
+"Hyundai"," Verna 1.6 SX",5760,"Diesel","manual",37873,11
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",18600,"Diesel","automatic",32000,8
+"Hyundai"," i10 Era",2784,"gasoline","manual",59000,14
+"Hyundai"," Grand i10 Sportz",5760,"gasoline","manual",8500,7
+"Hyundai"," Santro Xing GLS",2760,"gasoline","manual",80227,15
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",16272,"gasoline","manual",8587,5
+"Hyundai"," Creta 1.6 SX",9600,"gasoline","manual",69434,8
+"Hyundai"," Santa Fe 4X4",10032,"Diesel","manual",65278,11
+"Hyundai"," i20 Asta 1.4 CRDi",8100,"Diesel","manual",43900,10
+"Hyundai"," Verna 1.6 SX CRDI (O) AT",9972,"Diesel","automatic",77240,5
+"Hyundai"," i20 1.2 Spotz",7380,"gasoline","manual",42362,8
+"Hyundai"," i20 1.2 Magna",6900,"gasoline","manual",59000,9
+"Hyundai"," Verna 1.6 SX CRDi (O)",6960,"Diesel","manual",72000,12
+"Hyundai"," Verna 1.6 CRDi SX",12840,"Diesel","manual",38056,7
+"Hyundai"," Xcent 1.2 Kappa S",5220,"gasoline","manual",7400,10
+"Hyundai"," EON Era Plus",3480,"gasoline","manual",68764,9
+"Hyundai"," EON Sportz",4740,"gasoline","manual",14077,8
+"Hyundai"," i20 Asta 1.4 CRDi",5580,"Diesel","manual",67407,10
+"Hyundai"," i20 Sportz Option",4200,"gasoline","manual",48454,11
+"Hyundai"," Xcent 1.2 Kappa S Option",6144,"gasoline","manual",28360,7
+"Hyundai"," i10 Sportz",3180,"gasoline","manual",25000,11
+"Hyundai"," Verna 1.6 CRDI",11028,"Diesel","manual",37882,8
+"Hyundai"," i20 1.4 Magna ABS",3360,"Diesel","manual",47000,15
+"Hyundai"," Grand i10 CRDi Sportz",4980,"Diesel","manual",64000,10
+"Hyundai"," Verna CRDi SX",1800,"Diesel","manual",170000,16
+"Hyundai"," i20 Asta Option 1.2",7560,"gasoline","manual",21000,8
+"Hyundai"," i10 Magna Optional 1.1L",2760,"gasoline","manual",80400,16
+"Hyundai"," Verna 1.6 SX CRDi (O)",6300,"Diesel","manual",75200,12
+"Hyundai"," i20 Asta 1.4 CRDi",7800,"Diesel","manual",86157,9
+"Hyundai"," i20 Asta",4920,"gasoline","manual",64000,15
+"Hyundai"," EON Era Plus",5256,"gasoline","manual",36700,8
+"Hyundai"," i10 Sportz",3300,"gasoline","manual",35000,13
+"Hyundai"," Grand i10 Asta",6768,"gasoline","manual",74515,7
+"Hyundai"," Verna 1.6 VTVT",9456,"gasoline","manual",37688,7
+"Hyundai"," Xcent 1.2 Kappa SX Option",5640,"gasoline","manual",41721,9
+"Hyundai"," i20 1.2 Magna",3900,"gasoline","manual",67714,14
+"Hyundai"," Verna Transform VTVT",3720,"gasoline","manual",51000,14
+"Hyundai"," Grand i10 1.2 CRDi Magna",5880,"Diesel","manual",14000,7
+"Hyundai"," Accent GLS",2400,"gasoline","manual",72000,16
+"Hyundai"," i10 Sportz AT",6096,"gasoline","automatic",41016,10
+"Hyundai"," Verna 1.6 SX",7500,"Diesel","manual",67000,12
+"Hyundai"," Creta 1.6 SX",13080,"gasoline","manual",21000,8
+"Hyundai"," Verna 1.6 SX",6240,"Diesel","manual",98000,13
+"Hyundai"," i20 Magna 1.2",7020,"gasoline","manual",19500,6
+"Hyundai"," Verna 1.6 SX VTVT",6720,"gasoline","manual",67000,10
+"Hyundai"," i20 1.2 Asta Option",7620,"gasoline","manual",11000,6
+"Hyundai"," Verna 1.6 SX VTVT (O)",5400,"gasoline","manual",35000,11
+"Hyundai"," i10 Sportz",5460,"gasoline","manual",21456,8
+"Hyundai"," i20 Asta Option 1.2",6300,"gasoline","manual",37000,9
+"Hyundai"," i20 Asta Option 1.2",8568,"gasoline","manual",58620,7
+"Hyundai"," i20 1.2 Sportz",4200,"gasoline","manual",71172,12
+"Hyundai"," i20 1.4 Asta",8760,"Diesel","manual",12000,7
+"Hyundai"," i20 1.4 Asta Option",9840,"Diesel","manual",43000,7
+"Hyundai"," Grand i10 CRDi Magna",5496,"Diesel","manual",52625,8
+"Hyundai"," i10 Magna 1.1",4908,"gasoline","manual",60138,10
+"Hyundai"," Verna 1.6 CRDi EX AT",6840,"Diesel","automatic",66000,11
+"Hyundai"," Santro Xing GL Plus",2100,"gasoline","manual",31000,11
+"Hyundai"," Verna 1.6 SX CRDi (O)",8532,"Diesel","manual",72996,9
+"Hyundai"," i20 1.2 Asta Option",9324,"gasoline","manual",15985,6
+"Hyundai"," i20 Magna 1.2",6420,"gasoline","manual",70089,10
+"Hyundai"," Grand i10 AT Asta",6684,"gasoline","automatic",61717,9
+"Hyundai"," Xcent 1.2 CRDi S",7080,"Diesel","manual",25302,6
+"Hyundai"," Creta 1.6 VTVT S",11316,"gasoline","manual",47016,8
+"Hyundai"," i10 Sportz",3480,"gasoline","manual",69000,14
+"Hyundai"," i10 Magna",3120,"gasoline","manual",66770,14
+"Hyundai"," i10 Magna 1.1",4092,"gasoline","manual",58472,10
+"Hyundai"," EON Sportz",4500,"gasoline","manual",23360,7
+"Hyundai"," Creta 1.6 CRDi SX",11100,"Diesel","manual",43000,9
+"Hyundai"," Creta 1.6 SX Plus Diesel",16260,"Diesel","manual",63770,7
+"Hyundai"," Elantra CRDi SX",10128,"Diesel","manual",53615,9
+"Hyundai"," Verna CRDi SX",8640,"Diesel","manual",82966,11
+"Hyundai"," i20 1.2 Asta",4380,"gasoline","manual",71000,11
+"Hyundai"," i20 Sportz Diesel",4440,"Diesel","manual",71000,12
+"Hyundai"," Xcent 1.2 Kappa Base",5820,"gasoline","manual",48163,8
+"Hyundai"," Grand i10 AT Asta",8316,"gasoline","automatic",19168,7
+"Hyundai"," i10 Era",2160,"gasoline","manual",84000,16
+"Hyundai"," Accent GLS 1.6",1440,"gasoline","manual",47300,20
+"Hyundai"," i20 1.2 Sportz",3960,"gasoline","manual",41980,13
+"Hyundai"," Accent GLE",3000,"gasoline","manual",58000,14
+"Hyundai"," Santro Xing GL",1740,"gasoline","manual",93000,16
+"Hyundai"," Grand i10 AT Asta",5400,"gasoline","automatic",37632,10
+"Hyundai"," Verna 1.6 SX VTVT (O) AT",6444,"gasoline","automatic",54957,12
+"Hyundai"," i20 Sportz 1.4 CRDi",7440,"Diesel","manual",26000,9
+"Hyundai"," i20 1.2 Magna",2700,"gasoline","manual",18000,14
+"Hyundai"," Verna 1.6 SX",8100,"Diesel","manual",63003,10
+"Hyundai"," i20 Asta (o) 1.4 CRDi (Diesel)",6600,"Diesel","manual",67000,10
+"Hyundai"," Xcent 1.1 CRDi S",8388,"Diesel","manual",14656,8
+"Hyundai"," Xcent 1.1 CRDi S",4200,"Diesel","manual",80000,8
+"Hyundai"," Grand i10 Asta Option",7056,"gasoline","manual",44178,8
+"Hyundai"," i20 1.2 Magna",5520,"gasoline","manual",35000,9
+"Hyundai"," Santro Xing GL",2940,"gasoline","manual",58163,14
+"Hyundai"," i10 Era 1.1",2640,"gasoline","manual",51000,12
+"Hyundai"," i10 Sportz",2304,"gasoline","manual",43002,15
+"Hyundai"," Grand i10 Sportz",3840,"gasoline","manual",29000,11
+"Hyundai"," i20 Asta 1.4 CRDi (Diesel)",4176,"Diesel","manual",93401,14
+"Hyundai"," i20 1.2 Sportz Option",3900,"gasoline","manual",61000,14
+"Hyundai"," Creta 1.6 VTVT S",10524,"gasoline","manual",36855,8
+"Hyundai"," i10 Magna 1.2",4104,"gasoline","manual",46821,11
+"Hyundai"," i10 Asta AT",4140,"gasoline","automatic",64984,13
+"Hyundai"," EON D Lite Plus",4380,"gasoline","manual",17729,11
+"Hyundai"," Verna CRDi 1.6 SX Option",7212,"Diesel","manual",89614,10
+"Hyundai"," i20 Sportz Option",4800,"gasoline","manual",50000,12
+"Hyundai"," Verna CRDi SX",6420,"Diesel","manual",94900,12
+"Hyundai"," Verna 1.6 SX VTVT",7740,"gasoline","manual",52001,8
+"Hyundai"," EON Era",3000,"gasoline","manual",18000,10
+"Hyundai"," i20 Magna 1.4 CRDi",8220,"Diesel","manual",33016,8
+"Hyundai"," i10 Magna AT",3588,"gasoline","automatic",60000,15
+"Hyundai"," Grand i10 CRDi Magna",6048,"Diesel","manual",57738,8
+"Hyundai"," Grand i10 1.2 Kappa Magna",6000,"gasoline","manual",8471,7
+"Hyundai"," Grand i10 1.2 Kappa Asta",7176,"gasoline","manual",20000,7
+"Hyundai"," Grand i10 1.2 Kappa Magna",5724,"gasoline","manual",50234,6
+"Hyundai"," Xcent 1.2 Kappa SX",4320,"gasoline","manual",32000,8
+"Hyundai"," i20 1.2 Magna",3600,"gasoline","manual",65000,14
+"Hyundai"," i10 Era",3720,"gasoline","manual",46230,11
+"Hyundai"," i20 1.2 Asta",7800,"gasoline","manual",5000,6
+"Hyundai"," Verna VTVT 1.6 AT SX Option",8640,"gasoline","automatic",40600,9
+"Hyundai"," Verna CRDi 1.6 AT SX Option",7080,"Diesel","automatic",87000,11
+"Hyundai"," i10 Magna Optional 1.1L",2340,"gasoline","manual",27089,14
+"Hyundai"," Verna 1.6 SX VTVT (O) AT",13920,"gasoline","automatic",16100,7
+"Hyundai"," Xcent 1.1 CRDi Base",4800,"Diesel","manual",170000,8
+"Hyundai"," i10 Sportz",2520,"gasoline","manual",62500,15
+"Hyundai"," i20 Magna Optional 1.4 CRDi",5580,"Diesel","manual",12400,10
+"Hyundai"," Creta 1.6 SX Plus Diesel",17784,"Diesel","manual",52383,7
+"Hyundai"," i10 Sportz",4644,"gasoline","manual",16900,9
+"Hyundai"," i10 Sportz",3300,"gasoline","manual",62334,11
+"Hyundai"," Accent Executive",2400,"gasoline","manual",52325,14
+"Hyundai"," Xcent 1.2 VTVT S",6600,"gasoline","manual",54000,10
+"Hyundai"," i20 Asta 1.4 CRDi",7740,"Diesel","manual",46950,9
+"Hyundai"," Grand i10 Sportz",6480,"gasoline","manual",17125,7
+"Hyundai"," i20 1.2 Magna",2760,"gasoline","manual",18000,14
+"Hyundai"," Grand i10 CRDi Sportz Celebration Edition",7188,"Diesel","manual",35070,6
+"Hyundai"," i10 Sportz 1.2",2040,"gasoline","manual",40000,15
+"Hyundai"," i20 Asta",2388,"gasoline","manual",43000,15
+"Hyundai"," Grand i10 AT Asta",5880,"gasoline","automatic",29631,9
+"Hyundai"," i20 Magna Optional 1.2",4404,"gasoline","manual",63777,11
+"Hyundai"," Grand i10 CRDi Magna",4188,"Diesel","manual",45000,10
+"Hyundai"," Verna CRDi 1.4 E",2280,"Diesel","manual",121097,16
+"Hyundai"," i10 Sportz AT",5268,"gasoline","automatic",61517,10
+"Hyundai"," i20 Magna 1.4 CRDi",5796,"Diesel","manual",66823,9
+"Hyundai"," i20 Asta 1.4 CRDi",5400,"Diesel","manual",107000,12
+"Hyundai"," Xcent 1.2 Kappa SX",5988,"gasoline","manual",10200,8
+"Hyundai"," Santro Xing GL",3336,"gasoline","manual",20842,13
+"Hyundai"," Santa Fe 4WD AT",17280,"Diesel","automatic",110000,10
+"Hyundai"," Grand i10 1.2 Kappa Sportz AT",9060,"gasoline","automatic",20667,6
+"Hyundai"," Grand i10 1.2 Kappa Sportz",7404,"gasoline","manual",18453,5
+"Hyundai"," Verna CRDi 1.6 SX",3000,"Diesel","manual",96578,16
+"Hyundai"," Verna 1.6 SX",6900,"Diesel","manual",65900,12
+"Hyundai"," Creta 1.6 VTVT E Plus",12900,"gasoline","manual",26246,7
+"Hyundai"," i20 Era 1.4 CRDi",5280,"Diesel","manual",46566,10
+"Hyundai"," Getz 1.5 CRDi GVS",2160,"Diesel","manual",97359,15
+"Hyundai"," Verna 1.6 SX CRDi (O)",5136,"Diesel","manual",70707,12
+"Hyundai"," Grand i10 1.2 Kappa Magna AT",7440,"gasoline","automatic",3000,6
+"Hyundai"," i10 Era 1.1 iTech SE",2700,"gasoline","manual",52000,14
+"Hyundai"," Verna CRDi SX",7200,"Diesel","manual",75000,11
+"Hyundai"," i20 1.2 Spotz",7464,"gasoline","manual",18673,7
+"Hyundai"," EON Era Plus",3300,"gasoline","manual",11583,8
+"Hyundai"," Verna 1.6 SX CRDI (O) AT",9612,"Diesel","automatic",44875,8
+"Hyundai"," i20 Asta 1.2",6060,"gasoline","manual",42575,9
+"Hyundai"," Verna 1.6 VTVT S",9000,"gasoline","manual",89000,9
+"Hyundai"," i20 1.4 Asta (AT)",3900,"gasoline","automatic",72000,15
+"Hyundai"," Elite i20 Petrol Asta",10692,"gasoline","manual",13460,7
+"Hyundai"," Verna 1.6 VTVT EX AT",8028,"gasoline","automatic",35642,10
+"Hyundai"," Elantra 2.0 SX Option AT",19620,"gasoline","automatic",9500,7
+"Hyundai"," i20 1.4 CRDi Asta",3540,"Diesel","manual",37000,13
+"Hyundai"," Creta 1.6 SX Automatic Diesel",15000,"Diesel","automatic",55000,8
+"Hyundai"," i20 Asta (o)",6600,"gasoline","manual",42365,10
+"Hyundai"," i10 Sportz",3600,"gasoline","manual",49000,12
+"Hyundai"," Verna 1.6 SX VTVT",6240,"gasoline","manual",48000,10
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",11820,"gasoline","manual",68000,8
+"Hyundai"," Verna 1.6 CRDI",4500,"Diesel","manual",74000,13
+"Hyundai"," Creta 1.6 CRDi SX",15120,"Diesel","manual",38767,7
+"Hyundai"," Elantra CRDi SX AT",10500,"Diesel","automatic",51000,11
+"Hyundai"," Verna 1.6 CRDI",5160,"Diesel","manual",32000,10
+"Hyundai"," Grand i10 1.2 CRDi Sportz Option",4620,"Diesel","manual",42277,10
+"Hyundai"," Grand i10 Asta Option",6900,"gasoline","manual",50000,9
+"Hyundai"," i10 Magna 1.2",1980,"gasoline","manual",62000,16
+"Hyundai"," EON Era",3984,"gasoline","manual",65060,11
+"Hyundai"," EON Magna Plus",2760,"gasoline","manual",20000,11
+"Hyundai"," i20 1.2 Sportz Option",3900,"gasoline","manual",32200,13
+"Hyundai"," i20 1.4 CRDi Asta",5400,"Diesel","manual",60788,12
+"Hyundai"," i20 1.2 Sportz",5400,"gasoline","manual",52237,12
+"Hyundai"," Verna 1.6 SX",6000,"Diesel","manual",128000,12
+"Hyundai"," i10 Era 1.1",2640,"gasoline","manual",54000,13
+"Hyundai"," i10 Magna(O) with Sun Roof",2400,"gasoline","manual",68000,16
+"Hyundai"," i10 Magna 1.2",2520,"gasoline","manual",81402,14
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",15300,"gasoline","manual",2500,6
+"Hyundai"," Grand i10 CRDi Sportz Celebration Edition",6600,"Diesel","manual",34429,7
+"Hyundai"," Grand i10 AT Asta",8496,"gasoline","automatic",23576,7
+"Hyundai"," Verna 1.6 SX VTVT (O)",9336,"gasoline","manual",52191,9
+"Hyundai"," i20 1.4 Asta CRDi with AVN",8100,"Diesel","manual",77076,8
+"Hyundai"," i10 Magna",2820,"gasoline","manual",21000,11
+"Hyundai"," i20 1.2 Sportz Option",5712,"gasoline","manual",55804,10
+"Hyundai"," EON Sportz",4380,"gasoline","manual",31829,7
+"Hyundai"," i20 1.2 Spotz",9360,"gasoline","manual",22684,6
+"Hyundai"," Grand i10 1.2 Kappa Magna",5880,"gasoline","manual",12248,7
+"Hyundai"," Grand i10 Sportz",5436,"gasoline","manual",81605,8
+"Hyundai"," Verna 1.6 SX VTVT AT",7800,"gasoline","automatic",34200,10
+"Hyundai"," Grand i10 1.2 Kappa Sportz",7236,"gasoline","manual",10393,6
+"Hyundai"," i10 Sportz AT",4752,"gasoline","automatic",21000,11
+"Hyundai"," i20 1.4 CRDi Asta",5520,"Diesel","manual",113562,13
+"Hyundai"," i20 1.2 Magna Executive",7500,"gasoline","manual",58500,7
+"Hyundai"," Verna CRDi SX",5100,"Diesel","manual",108242,13
+"Hyundai"," i10 Era 1.1",4440,"gasoline","manual",34697,11
+"Hyundai"," i20 1.2 Sportz",4800,"gasoline","manual",58000,12
+"Hyundai"," Accent GLE",1080,"gasoline","manual",45200,19
+"Hyundai"," Grand i10 Sportz",6768,"gasoline","manual",36840,9
+"Hyundai"," Elite i20 Petrol Asta",10008,"gasoline","manual",32851,6
+"Hyundai"," Grand i10 Sportz",6048,"gasoline","manual",19947,8
+"Hyundai"," i20 1.2 Magna",4080,"gasoline","manual",37442,13
+"Hyundai"," Grand i10 Magna",4800,"gasoline","manual",42355,10
+"Hyundai"," i20 1.2 Magna Executive",8340,"gasoline","manual",28470,8
+"Hyundai"," EON 1.0 Kappa Magna Plus Optional",3300,"gasoline","manual",9759,10
+"Hyundai"," i20 Sportz 1.2",8100,"gasoline","manual",8000,7
+"Hyundai"," Xcent 1.2 Kappa AT S Option",4800,"gasoline","automatic",53000,9
+"Hyundai"," Verna 1.6 SX VTVT (O)",6300,"gasoline","manual",21107,11
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",15744,"gasoline","manual",19623,7
+"Hyundai"," Grand i10 1.2 Kappa Asta",7212,"gasoline","manual",43041,8
+"Hyundai"," Grand i10 1.2 Kappa Magna",6000,"gasoline","manual",31184,7
+"Hyundai"," Verna 1.6 SX",8376,"Diesel","manual",83558,10
+"Hyundai"," EON D Lite Plus",2340,"gasoline","manual",36000,11
+"Hyundai"," Xcent 1.1 CRDi S",6600,"Diesel","manual",58000,9
+"Hyundai"," i20 Sportz Petrol",3300,"gasoline","manual",73000,14
+"Hyundai"," Elantra CRDi SX",7500,"Diesel","manual",98008,12
+"Hyundai"," i20 1.2 Magna Executive",7524,"gasoline","manual",27339,5
+"Hyundai"," Verna 1.6 CRDi SX",10380,"Diesel","manual",25000,7
+"Hyundai"," Grand i10 Asta",4200,"gasoline","manual",37000,10
+"Hyundai"," i20 Magna",3180,"gasoline","manual",37000,12
+"Hyundai"," Elantra 1.6 SX Option AT",10680,"Diesel","automatic",49000,10
+"Hyundai"," i20 Magna 1.4 CRDi",8400,"Diesel","manual",29000,9
+"Hyundai"," i20 1.2 Magna",3240,"gasoline","manual",82000,13
+"Hyundai"," i10 Sportz 1.2",2520,"gasoline","manual",77000,14
+"Hyundai"," i10 Era",2400,"gasoline","manual",70000,17
+"Hyundai"," Grand i10 1.2 Kappa Magna",6636,"gasoline","manual",46493,6
+"Hyundai"," i10 Sportz 1.2",2340,"gasoline","manual",68000,15
+"Hyundai"," i10 Era 1.1",2400,"gasoline","manual",85445,16
+"Hyundai"," Xcent 1.1 CRDi Base",4440,"Diesel","manual",54000,9
+"Hyundai"," i10 Sportz",3900,"gasoline","manual",60000,10
+"Hyundai"," Grand i10 Sportz",6120,"gasoline","manual",1800,6
+"Hyundai"," i20 Magna",3900,"gasoline","manual",100000,12
+"Hyundai"," Grand i10 1.2 Kappa Sportz",6900,"gasoline","manual",9434,6
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",13164,"Diesel","automatic",37024,7
+"Hyundai"," EON D Lite Plus",2364,"gasoline","manual",26008,10
+"Hyundai"," i20 1.2 Sportz",6120,"gasoline","manual",42000,9
+"Hyundai"," i10 Magna AT",3120,"gasoline","automatic",21000,15
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",14400,"Diesel","automatic",55100,8
+"Hyundai"," i10 Magna",2940,"gasoline","manual",58235,12
+"Hyundai"," i20 Asta 1.4 CRDi",8760,"Diesel","manual",44487,8
+"Hyundai"," i10 Magna",3780,"gasoline","manual",34951,9
+"Hyundai"," i20 Magna",3960,"gasoline","manual",54000,12
+"Hyundai"," Creta 1.6 SX Plus Diesel",16020,"Diesel","manual",44865,7
+"Hyundai"," Verna VTVT 1.6 SX Option",6300,"gasoline","manual",57478,11
+"Hyundai"," i20 1.4 CRDi Magna",4500,"Diesel","manual",75000,13
+"Hyundai"," Verna 1.6 SX CRDI (O) AT",9300,"Diesel","automatic",75000,6
+"Hyundai"," i10 Sportz 1.2",2520,"gasoline","manual",62000,14
+"Hyundai"," Grand i10 Sportz",6516,"gasoline","manual",26038,8
+"Hyundai"," Elantra CRDi SX",10800,"Diesel","manual",125928,12
+"Hyundai"," i20 1.4 CRDi Magna",4740,"Diesel","manual",71360,12
+"Hyundai"," Xcent 1.2 VTVT SX",4404,"gasoline","manual",64241,10
+"Hyundai"," Verna 1.6 CRDi EX MT",7968,"Diesel","manual",37451,8
+"Hyundai"," Grand i10 Asta Option",6000,"gasoline","manual",25000,8
+"Hyundai"," Grand i10 1.2 Kappa Magna AT",8112,"gasoline","automatic",5354,6
+"Hyundai"," Santa Fe 4x4 AT",12900,"Diesel","automatic",43000,12
+"Hyundai"," Grand i10 CRDi Magna",5856,"Diesel","manual",35000,9
+"Hyundai"," EON Era Plus",2388,"gasoline","manual",60000,12
+"Hyundai"," i10 Magna 1.2",3360,"gasoline","manual",70600,14
+"Hyundai"," Grand i10 AT Asta",9120,"gasoline","automatic",22526,7
+"Hyundai"," Sonata Embera 2.0L CRDi MT",5880,"Diesel","manual",65000,15
+"Hyundai"," Verna 1.4 VTVT",5400,"gasoline","manual",33425,9
+"Hyundai"," Creta 1.6 CRDi SX Option",14280,"Diesel","manual",41000,9
+"Hyundai"," i10 Magna 1.1",2520,"gasoline","manual",62000,13
+"Hyundai"," Accent GLE 1",3180,"gasoline","manual",55000,17
+"Hyundai"," Verna SX CRDi AT",6540,"Diesel","automatic",71000,10
+"Hyundai"," i10 Sportz 1.2",4380,"gasoline","manual",45000,12
+"Hyundai"," Grand i10 1.2 Kappa Asta",7068,"gasoline","manual",37429,8
+"Hyundai"," Santro LP zipPlus",2316,"gasoline","manual",52146,20
+"Hyundai"," Grand i10 1.2 Kappa Sportz",5160,"gasoline","manual",20780,9
+"Hyundai"," Creta 1.6 CRDi SX",11940,"Diesel","manual",83950,9
+"Hyundai"," Elite i20 Asta Option",9036,"gasoline","manual",59450,7
+"Hyundai"," i10 Sportz",3000,"gasoline","manual",84000,16
+"Hyundai"," Santa Fe 2WD AT",11400,"Diesel","automatic",86000,12
+"Hyundai"," i20 1.4 CRDi Magna",4680,"Diesel","manual",51000,12
+"Hyundai"," EON D Lite Plus",4104,"gasoline","manual",31412,9
+"Hyundai"," EON D Lite Plus",4428,"gasoline","manual",54884,11
+"Hyundai"," Creta 1.6 SX Option",13200,"gasoline","manual",24347,8
+"Hyundai"," i20 1.4 CRDi Magna",3288,"Diesel","manual",60000,12
+"Hyundai"," Verna 1.6 SX",4800,"Diesel","manual",92000,12
+"Hyundai"," Tucson 2.0 Dual VTVT 2WD AT GL",21300,"gasoline","automatic",13000,8
+"Hyundai"," i20 1.2 Era",4080,"gasoline","manual",35000,9
+"Hyundai"," i20 Asta 1.4 CRDi (Diesel)",4740,"Diesel","manual",68000,15
+"Hyundai"," Grand i10 AT Asta",6480,"gasoline","automatic",18000,8
+"Hyundai"," i20 Magna",2820,"gasoline","manual",46946,15
+"Hyundai"," i20 Magna 1.4 CRDi",6024,"Diesel","manual",64399,9
+"Hyundai"," Creta 1.6 SX Plus Diesel",15000,"Diesel","manual",41713,8
+"Hyundai"," Santa Fe 4WD AT",25200,"Diesel","automatic",59000,9
+"Hyundai"," Verna 1.6 VTVT EX AT",7140,"gasoline","automatic",24000,11
+"Hyundai"," i20 Sportz 1.2",7560,"gasoline","manual",30292,8
+"Hyundai"," i20 Sportz 1.4 CRDi",6768,"Diesel","manual",55000,10
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",14808,"gasoline","manual",36458,7
+"Hyundai"," i10 Asta Sunroof AT",3480,"gasoline","automatic",54000,13
+"Hyundai"," Elantra 2.0 SX Option AT",16680,"gasoline","automatic",28000,8
+"Hyundai"," i20 Sportz 1.2",5940,"gasoline","manual",50000,9
+"Hyundai"," Elantra 2.0 SX Option AT",11628,"gasoline","automatic",58239,9
+"Hyundai"," i10 Sportz",3840,"gasoline","manual",42591,12
+"Hyundai"," i20 1.4 CRDi Sportz",5400,"Diesel","manual",67000,12
+"Hyundai"," Verna 1.6 SX CRDI (O) AT",9600,"Diesel","automatic",97000,10
+"Hyundai"," Verna 1.6 VTVT",6600,"gasoline","manual",73000,12
+"Hyundai"," Grand i10 Asta",2760,"gasoline","manual",44300,10
+"Hyundai"," Xcent 1.2 Kappa S Option",7392,"gasoline","manual",21495,8
+"Hyundai"," i10 Sportz",3420,"gasoline","manual",59000,12
+"Hyundai"," Verna 1.6 SX CRDi (O)",5220,"Diesel","manual",47000,11
+"Hyundai"," i10 Sportz",4404,"gasoline","manual",47003,10
+"Hyundai"," Grand i10 Asta",7608,"gasoline","manual",20492,6
+"Hyundai"," i10 Magna",3792,"gasoline","manual",65423,13
+"Hyundai"," EON Era Plus",4200,"gasoline","manual",52000,7
+"Hyundai"," Grand i10 CRDi Sportz",4500,"Diesel","manual",25135,10
+"Hyundai"," i20 1.2 Sportz",5880,"gasoline","manual",40000,11
+"Hyundai"," Creta 1.6 CRDi SX",11040,"Diesel","manual",51000,8
+"Hyundai"," i20 2015-2017 1.4 Magna ABS",5100,"Diesel","manual",64000,12
+"Hyundai"," i20 1.2 Sportz",7200,"gasoline","manual",29634,9
+"Hyundai"," Verna 1.6 VTVT",7440,"gasoline","manual",24000,12
+"Hyundai"," Grand i10 1.2 CRDi Sportz",7104,"Diesel","manual",20773,7
+"Hyundai"," Santro Xing GL Plus",3240,"gasoline","manual",41125,10
+"Hyundai"," Verna 1.6 VTVT",4440,"gasoline","manual",68000,13
+"Hyundai"," i20 Magna 1.4 CRDi (Diesel)",4680,"Diesel","manual",51873,11
+"Hyundai"," Xcent 1.2 Kappa S Option",4200,"gasoline","manual",39871,9
+"Hyundai"," i10 Magna",2400,"gasoline","manual",71600,17
+"Hyundai"," Xcent 1.2 Kappa S Option",4140,"gasoline","manual",42000,10
+"Hyundai"," i20 Sportz 1.2",7368,"gasoline","manual",61823,8
+"Hyundai"," EON Era Plus",3600,"gasoline","manual",70000,8
+"Hyundai"," Xcent 1.2 VTVT S",7440,"gasoline","manual",65743,9
+"Hyundai"," i10 Magna 1.1",4752,"gasoline","manual",64466,11
+"Hyundai"," Xcent 1.2 CRDi E Plus",4260,"Diesel","manual",69000,7
+"Hyundai"," Creta 1.6 SX Option",12300,"gasoline","manual",29477,8
+"Hyundai"," Grand i10 Sportz",5736,"gasoline","manual",59767,8
+"Hyundai"," i20 2015-2017 1.2 Asta",3300,"gasoline","manual",72000,14
+"Hyundai"," Verna 1.6 SX VTVT",7140,"gasoline","manual",11000,10
+"Hyundai"," i10 Era 1.1",2580,"gasoline","manual",70000,13
+"Hyundai"," Santro Xing GLS",2220,"gasoline","manual",69775,17
+"Hyundai"," Verna CRDi ABS",2400,"Diesel","manual",120000,16
+"Hyundai"," Grand i10 CRDi Asta",4800,"Diesel","manual",116905,10
+"Hyundai"," i10 Sportz AT",4596,"gasoline","automatic",32824,13
+"Hyundai"," Santro Xing GLS",1632,"gasoline","manual",35008,14
+"Hyundai"," Verna 1.4 VTVT",9600,"gasoline","manual",36000,8
+"Hyundai"," i20 Sportz 1.2",6900,"gasoline","manual",14001,7
+"Hyundai"," EON Magna Plus",4200,"gasoline","manual",12000,7
+"Hyundai"," Santro GLS II - Euro II",3780,"gasoline","manual",65000,13
+"Hyundai"," EON D Lite Plus",3000,"gasoline","manual",84600,11
+"Hyundai"," Verna 1.6 SX",5400,"Diesel","manual",103814,13
+"Hyundai"," i10 Era",3744,"gasoline","manual",56075,11
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",15876,"Diesel","automatic",38593,8
+"Hyundai"," i10 Magna",2340,"gasoline","manual",38235,16
+"Hyundai"," i10 Sportz 1.2",2640,"gasoline","manual",37000,13
+"Hyundai"," Grand i10 Asta",4260,"gasoline","manual",90000,11
+"Hyundai"," i10 Sportz",5424,"gasoline","manual",47324,12
+"Hyundai"," i20 2015-2017 Magna 1.2",6480,"gasoline","manual",20600,8
+"Hyundai"," i20 Sportz Option 1.2",7140,"gasoline","manual",38000,8
+"Hyundai"," i10 Sportz 1.2",3840,"gasoline","manual",60000,13
+"Hyundai"," i20 Magna",2700,"gasoline","manual",30675,15
+"Hyundai"," EON Magna",3132,"gasoline","manual",55000,9
+"Hyundai"," Verna CRDi 1.6 SX Option",13800,"Diesel","manual",50000,7
+"Hyundai"," EON Era Plus",3300,"gasoline","manual",38000,9
+"Hyundai"," Grand i10 CRDi Sportz",5400,"Diesel","manual",46522,8
+"Hyundai"," Grand i10 CRDi SportZ Edition",5952,"Diesel","manual",66337,9
+"Hyundai"," Verna Transform SX VTVT",4080,"gasoline","manual",61000,13
+"Hyundai"," Creta 1.6 CRDi SX Option",17100,"Diesel","manual",11554,8
+"Hyundai"," Getz GLS ABS",960,"gasoline","manual",91000,19
+"Hyundai"," Grand i10 AT Asta",7092,"gasoline","automatic",33931,9
+"Hyundai"," Grand i10 1.2 Kappa Sportz Option",7728,"gasoline","manual",13916,5
+"Hyundai"," Grand i10 Sportz",5520,"gasoline","manual",14000,9
+"Hyundai"," i20 Asta 1.2",8652,"gasoline","manual",17560,8
+"Hyundai"," i20 1.2 Asta Option",9000,"gasoline","manual",8000,7
+"Hyundai"," Creta 1.6 CRDi SX",15480,"Diesel","manual",27000,7
+"Hyundai"," i10 Era",3180,"gasoline","manual",60000,12
+"Hyundai"," i10 Sportz AT",4092,"gasoline","automatic",37229,12
+"Hyundai"," Creta 1.6 CRDi SX",15936,"Diesel","manual",40459,7
+"Hyundai"," i10 Magna",5160,"gasoline","manual",43766,12
+"Hyundai"," i20 1.4 Sportz",11016,"Diesel","manual",18521,6
+"Hyundai"," Verna 1.6 SX CRDI (O) AT",6120,"Diesel","automatic",48000,10
+"Hyundai"," Verna 1.6 SX",6840,"Diesel","manual",62000,10
+"Hyundai"," Tucson CRDi",6000,"Diesel","manual",103515,17
+"Hyundai"," Santro Xing GLS",2700,"gasoline","manual",68282,16
+"Hyundai"," EON Era Plus",4104,"gasoline","manual",8500,7
+"Hyundai"," i20 Active 1.2 SX Dual Tone",8700,"gasoline","manual",6000,8
+"Hyundai"," Verna CRDi",6120,"Diesel","manual",70000,13
+"Hyundai"," i20 Active S Diesel",7080,"Diesel","manual",81310,9
+"Hyundai"," Grand i10 Sportz",5400,"gasoline","manual",23000,7
+"Hyundai"," Verna 1.6 CRDi S",10800,"Diesel","manual",31000,8
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",17748,"Diesel","automatic",50170,7
+"Hyundai"," Santa Fe 2WD AT",15480,"Diesel","automatic",110000,10
+"Hyundai"," EON D Lite Plus Option",3000,"gasoline","manual",60000,7
+"Hyundai"," i20 Sportz 1.2",4380,"gasoline","manual",92408,11
+"Hyundai"," Verna 1.6 SX VTVT (O)",9000,"gasoline","manual",45000,10
+"Hyundai"," i10 Sportz",4320,"gasoline","manual",7000,8
+"Hyundai"," i20 Magna 1.4 CRDi (Diesel)",8880,"Diesel","manual",14061,7
+"Hyundai"," Getz GLE",2100,"gasoline","manual",44000,18
+"Hyundai"," Verna 1.6 SX VTVT (O)",5040,"gasoline","manual",61600,13
+"Hyundai"," Santro GLS II - Euro II",1920,"gasoline","manual",100000,15
+"Hyundai"," i20 Asta (o) 1.4 CRDi (Diesel)",7020,"Diesel","manual",82450,10
+"Hyundai"," Grand i10 1.2 Kappa Sportz",7284,"gasoline","manual",20689,6
+"Hyundai"," i20 1.2 Magna",4860,"gasoline","manual",38214,12
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",17100,"Diesel","automatic",58671,8
+"Hyundai"," i20 1.4 CRDi Sportz",4932,"Diesel","manual",90000,12
+"Hyundai"," i10 Era",1908,"gasoline","manual",55000,14
+"Hyundai"," Grand i10 1.2 Kappa Sportz",6660,"gasoline","manual",3958,6
+"Hyundai"," Verna 1.6 SX CRDi (O)",9396,"Diesel","manual",16159,8
+"Hyundai"," Accent CRDi",1020,"Diesel","manual",150000,19
+"Hyundai"," i20 Active 1.2 SX",9828,"gasoline","manual",35043,7
+"Hyundai"," Verna 1.6 SX VTVT (O)",7380,"gasoline","manual",66930,11
+"Hyundai"," Santa Fe 4WD AT",17400,"Diesel","automatic",100000,9
+"Hyundai"," Santro GLS II - Euro II",3900,"gasoline","manual",43000,12
+"Hyundai"," i20 Sportz 1.2",3360,"gasoline","manual",40300,11
+"Hyundai"," Getz GLS",540,"gasoline","manual",86000,19
+"Hyundai"," i10 Magna 1.2",3420,"gasoline","manual",51000,12
+"Hyundai"," Grand i10 Asta",7680,"gasoline","manual",61578,8
+"Hyundai"," EON Era Plus",4428,"gasoline","manual",15334,6
+"Hyundai"," i20 Asta Option 1.2",6600,"gasoline","manual",39000,9
+"Hyundai"," i20 Sportz Diesel",4044,"Diesel","manual",68439,13
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",15000,"Diesel","automatic",65800,9
+"Hyundai"," EON Era Plus",3120,"gasoline","manual",22000,11
+"Hyundai"," Grand i10 1.2 CRDi Sportz Option",6900,"Diesel","manual",26877,7
+"Hyundai"," Santro Xing GLS",2760,"gasoline","manual",95291,16
+"Hyundai"," i20 Sportz 1.2",5760,"gasoline","manual",32000,9
+"Hyundai"," Grand i10 1.2 Kappa Sportz",7020,"gasoline","manual",10000,6
+"Hyundai"," Accent GLS",2280,"gasoline","manual",80000,16
+"Hyundai"," Grand i10 Era",3420,"gasoline","manual",19500,10
+"Hyundai"," Grand i10 Asta Option",5880,"gasoline","manual",30000,10
+"Hyundai"," Grand i10 Sportz",5700,"gasoline","manual",10770,8
+"Hyundai"," EON Era Plus",3000,"gasoline","manual",91000,9
+"Hyundai"," i20 1.2 Spotz",7140,"gasoline","manual",14000,7
+"Hyundai"," i20 1.4 CRDi Magna",3720,"Diesel","manual",94500,14
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",17712,"gasoline","automatic",32807,6
+"Hyundai"," Verna 1.6 SX VTVT",6600,"gasoline","manual",9000,10
+"Hyundai"," i10 Magna AT",3540,"gasoline","automatic",58483,16
+"Hyundai"," i10 Sportz 1.2",3600,"gasoline","manual",50000,14
+"Hyundai"," Verna 1.6 EX VTVT",5508,"gasoline","manual",58000,10
+"Hyundai"," i20 Asta Option 1.2",8340,"gasoline","manual",19860,7
+"Hyundai"," Tucson CRDi",2100,"Diesel","manual",80000,18
+"Hyundai"," Verna 1.6 SX",8988,"Diesel","manual",39791,10
+"Hyundai"," i20 Asta 1.2",7560,"gasoline","manual",39000,9
+"Hyundai"," Verna 1.6 VTVT",3540,"gasoline","manual",36226,13
+"Hyundai"," Santro Xing GL",1380,"gasoline","manual",60170,15
+"Hyundai"," i10 Magna 1.2",4884,"gasoline","manual",49045,7
+"Hyundai"," Xcent 1.2 CRDi S",4200,"Diesel","manual",50000,8
+"Hyundai"," Verna CRDi SX ABS",3600,"Diesel","manual",150000,16
+"Hyundai"," Verna 1.6 SX VTVT",7320,"gasoline","manual",11000,10
+"Hyundai"," EON Era Plus",3540,"gasoline","manual",66510,9
+"Hyundai"," i20 1.4 Asta CRDi with AVN",4800,"Diesel","manual",75000,12
+"Hyundai"," Verna CRDi",5340,"Diesel","manual",72010,14
+"Hyundai"," i20 1.4 Asta",7620,"Diesel","manual",57000,9
+"Hyundai"," i20 1.2 Magna",3900,"gasoline","manual",52359,13
+"Hyundai"," i20 Magna Optional 1.4 CRDi",5100,"Diesel","manual",55362,12
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",17400,"Diesel","automatic",13000,7
+"Hyundai"," Xcent 1.1 CRDi Base",5040,"Diesel","manual",135000,8
+"Hyundai"," i20 1.4 Sportz",10332,"Diesel","manual",32251,5
+"Hyundai"," i10 Sportz AT",3720,"gasoline","automatic",60510,15
+"Hyundai"," Verna 1.6 VTVT",6420,"gasoline","manual",34620,11
+"Hyundai"," i10 Era 1.1",3420,"gasoline","manual",56000,14
+"Hyundai"," i10 Sportz",5568,"gasoline","manual",32776,11
+"Hyundai"," i20 Asta",4056,"gasoline","manual",30754,14
+"Hyundai"," Grand i10 Sportz",7008,"gasoline","manual",33284,7
+"Hyundai"," Grand i10 1.2 Kappa Magna AT",8208,"gasoline","automatic",12153,5
+"Hyundai"," Grand i10 Magna",5100,"gasoline","manual",22000,8
+"Hyundai"," Grand i10 1.2 Kappa Sportz Option",6720,"gasoline","manual",14700,7
+"Hyundai"," Verna 1.6 SX",4680,"Diesel","manual",34994,13
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",17232,"gasoline","automatic",23875,6
+"Hyundai"," Grand i10 Asta",6600,"gasoline","manual",51866,8
+"Hyundai"," Grand i10 1.2 Kappa Asta",7296,"gasoline","manual",62788,7
+"Hyundai"," EON D Lite",2520,"gasoline","manual",30000,11
+"Hyundai"," Elantra CRDi SX",9000,"Diesel","manual",36000,12
+"Hyundai"," Verna 1.6 EX VTVT",5280,"gasoline","manual",14800,12
+"Hyundai"," Verna SX CRDi AT",6900,"Diesel","automatic",104000,13
+"Hyundai"," i20 Sportz AT 1.4",5700,"gasoline","automatic",72000,11
+"Hyundai"," Creta 1.6 CRDi SX",16248,"Diesel","manual",54321,5
+"Hyundai"," Verna 1.6 SX VTVT",7800,"gasoline","manual",51000,8
+"Hyundai"," Verna 1.6 CRDi EX AT",8100,"Diesel","automatic",114000,11
+"Hyundai"," Santro Xing GL",2256,"gasoline","manual",35268,16
+"Hyundai"," Santro Xing GLS",3984,"gasoline","manual",43337,12
+"Hyundai"," Grand i10 Magna AT",6540,"gasoline","automatic",9000,8
+"Hyundai"," Verna Transform CRDi VGT SX ABS",4200,"Diesel","manual",120000,14
+"Hyundai"," Creta 1.6 CRDi SX",16428,"Diesel","manual",37247,7
+"Hyundai"," Sonata Transform 2.4 GDi MT",15300,"gasoline","manual",12000,10
+"Hyundai"," Creta 1.6 CRDi SX Option",16500,"Diesel","manual",40158,7
+"Hyundai"," Elantra CRDi SX AT",10200,"Diesel","automatic",48823,11
+"Hyundai"," i10 Magna 1.2",2652,"gasoline","manual",35082,13
+"Hyundai"," Grand i10 CRDi Sportz",6840,"Diesel","manual",75700,8
+"Hyundai"," i10 Asta 1.2 AT with Sunroof",4800,"gasoline","automatic",54348,13
+"Hyundai"," i10 Magna 1.2",3600,"gasoline","manual",75049,11
+"Hyundai"," i20 Sportz AT 1.4",5280,"gasoline","automatic",58000,12
+"Hyundai"," EON 1.0 Magna Plus Option O",5340,"gasoline","manual",30711,7
+"Hyundai"," i20 1.4 CRDi Magna",2880,"Diesel","manual",38277,13
+"Hyundai"," i20 Magna 1.4 CRDi",5100,"Diesel","manual",64000,10
+"Hyundai"," Grand i10 Sportz",5880,"gasoline","manual",15000,9
+"Hyundai"," i20 1.4 CRDi Sportz",5400,"Diesel","manual",32720,10
+"Hyundai"," Xcent 1.2 Kappa AT SX Option",6960,"gasoline","automatic",59800,9
+"Hyundai"," Verna 1.6 SX",7440,"Diesel","manual",65000,12
+"Hyundai"," i20 Magna Optional 1.4 CRDi",4800,"Diesel","manual",70000,12
+"Hyundai"," i10 Magna",4500,"gasoline","manual",51000,10
+"Hyundai"," Grand i10 Magna",4500,"gasoline","manual",21000,8
+"Hyundai"," Grand i10 SportZ Edition",5700,"gasoline","manual",50000,9
+"Hyundai"," i10 Magna 1.1 iTech SE",5124,"gasoline","manual",42883,7
+"Hyundai"," Verna 1.6 CRDI AT SX Option",10320,"Diesel","automatic",27000,8
+"Hyundai"," i10 Sportz Option",4260,"gasoline","manual",45000,11
+"Hyundai"," i20 1.2 Asta Option",10680,"gasoline","manual",11691,6
+"Hyundai"," Verna Transform SX VGT CRDi",4620,"Diesel","manual",118077,14
+"Hyundai"," Verna 1.6 SX VTVT (O) AT",9000,"gasoline","automatic",36300,12
+"Hyundai"," Getz GVS",2160,"gasoline","manual",90000,19
+"Hyundai"," i20 Sportz Option Diesel",5988,"Diesel","manual",42600,12
+"Hyundai"," i20 Sportz Option",6384,"gasoline","manual",17858,10
+"Hyundai"," i10 Sportz",3840,"gasoline","manual",53000,12
+"Hyundai"," EON Magna Plus",3600,"gasoline","manual",19000,9
+"Hyundai"," Santro Xing GLS",2760,"gasoline","manual",80931,16
+"Hyundai"," i20 Asta 1.4 CRDi",4932,"Diesel","manual",129000,11
+"Hyundai"," Getz GLS",2220,"gasoline","manual",63181,18
+"Hyundai"," Elite i20 Petrol Sportz",7740,"gasoline","manual",13460,8
+"Hyundai"," Elite i20 Petrol Sportz",7320,"gasoline","manual",30292,8
+"Hyundai"," Grand i10 1.2 Kappa Asta",5280,"gasoline","manual",61325,10
+"Hyundai"," i10 Sportz",3600,"gasoline","manual",26966,14
+"Hyundai"," i20 1.2 Asta Option",9300,"gasoline","manual",12000,7
+"Hyundai"," Grand i10 Magna",5976,"gasoline","manual",48031,10
+"Hyundai"," i10 Magna AT",3600,"gasoline","automatic",50902,15
+"Hyundai"," Elantra CRDi SX",8340,"Diesel","manual",40000,11
+"Hyundai"," Grand i10 1.2 Kappa Sportz",6600,"gasoline","manual",33496,10
+"Hyundai"," i20 Asta Option 1.2",6780,"gasoline","manual",25000,9
+"Hyundai"," Creta 1.6 CRDi SX",14400,"Diesel","manual",42244,8
+"Hyundai"," i20 Sportz Option 1.2",8064,"gasoline","manual",44238,8
+"Hyundai"," Sonata Transform 2.4 GDi AT",7200,"gasoline","automatic",41000,11
+"Hyundai"," Verna 1.6 SX",6600,"Diesel","manual",83678,12
+"Hyundai"," Xcent 1.1 CRDi S Option",5940,"Diesel","manual",58000,9
+"Hyundai"," i20 Asta 1.4 CRDi",7200,"Diesel","manual",54339,9
+"Hyundai"," i20 Asta Option 1.4 CRDi",11016,"Diesel","manual",24153,7
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",13740,"gasoline","automatic",27000,8
+"Hyundai"," Santro GLS II - Euro II",3192,"gasoline","manual",66400,12
+"Hyundai"," Verna 1.4 EX",6660,"Diesel","manual",93000,12
+"Hyundai"," Grand i10 Asta Option AT",8268,"gasoline","automatic",27417,7
+"Hyundai"," i20 Magna Optional 1.2",5580,"gasoline","manual",44525,10
+"Hyundai"," Grand i10 1.2 CRDi Sportz",7140,"Diesel","manual",48000,6
+"Hyundai"," Verna 1.4 CX VTVT",6300,"gasoline","manual",19000,10
+"Hyundai"," i10 Asta Sunroof AT",5028,"gasoline","automatic",89000,11
+"Hyundai"," Elantra CRDi SX AT",8160,"Diesel","automatic",71000,11
+"Hyundai"," Verna 1.6 SX VTVT",4800,"gasoline","manual",58000,13
+"Hyundai"," Sonata Embera 2.0L CRDi AT",6300,"Diesel","automatic",94000,15
+"Hyundai"," EON Era Plus",2160,"gasoline","manual",70000,11
+"Hyundai"," Grand i10 CRDi Sportz",4452,"Diesel","manual",63210,11
+"Hyundai"," Xcent 1.2 VTVT E Plus",6000,"gasoline","manual",31000,6
+"Hyundai"," i10 Era",2388,"gasoline","manual",60000,16
+"Hyundai"," i10 Magna 1.2 iTech SE",3540,"gasoline","manual",9489,13
+"Hyundai"," Creta 1.4 E Plus Diesel",11880,"Diesel","manual",35000,7
+"Hyundai"," i20 1.2 Spotz",9096,"gasoline","manual",20632,6
+"Hyundai"," Grand i10 CRDi Magna",4788,"Diesel","manual",73042,10
+"Hyundai"," Santa Fe 4WD AT",25644,"Diesel","automatic",28881,8
+"Hyundai"," Verna 1.4 CRDi GL",4920,"Diesel","manual",38000,12
+"Hyundai"," Verna 1.6 CRDi S",7920,"Diesel","manual",57000,9
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",17220,"gasoline","automatic",32434,6
+"Hyundai"," Verna VTVT 1.6 AT EX",6528,"gasoline","automatic",37086,11
+"Hyundai"," i20 2015-2017 Sportz AT 1.4",4620,"gasoline","automatic",56200,12
+"Hyundai"," Verna Transform VTVT",3120,"gasoline","manual",51500,13
+"Hyundai"," Xcent 1.2 CRDi E Plus",6588,"Diesel","manual",60500,7
+"Hyundai"," Elantra CRDi SX AT",19200,"Diesel","automatic",22000,8
+"Hyundai"," i20 1.2 Spotz",7740,"gasoline","manual",3900,7
+"Hyundai"," Xcent 1.1 CRDi Base",5280,"Diesel","manual",106092,8
+"Hyundai"," Xcent 1.1 CRDi Base",5400,"Diesel","manual",73000,7
+"Hyundai"," i10 Sportz 1.2",4140,"gasoline","manual",29000,14
+"Hyundai"," Xcent 1.2 Kappa S",4620,"gasoline","manual",51000,10
+"Hyundai"," Grand i10 Sportz",5640,"gasoline","manual",13436,8
+"Hyundai"," Xcent 1.1 CRDi S",5400,"Diesel","manual",63141,8
+"Hyundai"," Verna SX CRDi AT",6768,"Diesel","automatic",51000,11
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",17400,"Diesel","automatic",33000,8
+"Hyundai"," i20 Sportz Option Diesel",4140,"Diesel","manual",67914,11
+"Hyundai"," i10 Sportz AT",3480,"gasoline","automatic",62282,12
+"Hyundai"," Grand i10 Sportz",6960,"gasoline","manual",43698,6
+"Hyundai"," Grand i10 Asta Option AT",8664,"gasoline","automatic",28052,7
+"Hyundai"," Grand i10 1.2 Kappa Sportz",5844,"gasoline","manual",29091,8
+"Hyundai"," Verna 1.6 SX VTVT AT",9000,"gasoline","automatic",45000,10
+"Hyundai"," i20 1.2 Spotz",8532,"gasoline","manual",51612,7
+"Hyundai"," Grand i10 CRDi Magna",5532,"Diesel","manual",71904,11
+"Hyundai"," Grand i10 CRDi Magna",4860,"Diesel","manual",33000,10
+"Hyundai"," i20 Magna 1.4 CRDi",6420,"Diesel","manual",44000,9
+"Hyundai"," i20 2015-2017 1.2 Magna",3300,"gasoline","manual",39000,12
+"Hyundai"," Grand i10 AT Asta",6600,"gasoline","automatic",15000,9
+"Hyundai"," Xcent 1.2 Kappa S",4980,"gasoline","manual",12500,10
+"Hyundai"," Verna 1.6 SX CRDi (O)",7800,"Diesel","manual",52000,12
+"Hyundai"," Verna CRDi",2700,"Diesel","manual",90000,16
+"Hyundai"," Creta 1.4 CRDi S",12204,"Diesel","manual",42784,8
+"Hyundai"," Verna 1.6 CRDI SX Option",17136,"Diesel","manual",30529,5
+"Hyundai"," EON Era",2760,"gasoline","manual",68128,13
+"Hyundai"," EON Era",3900,"gasoline","manual",30000,8
+"Hyundai"," i10 Sportz 1.2",4140,"gasoline","manual",59000,11
+"Hyundai"," Grand i10 Asta Option",6180,"gasoline","manual",13000,7
+"Hyundai"," i20 Magna 1.4 CRDi (Diesel)",4140,"Diesel","manual",45000,9
+"Hyundai"," Grand i10 Sportz",4500,"gasoline","manual",26000,11
+"Hyundai"," i20 1.2 Spotz",8340,"gasoline","manual",5000,7
+"Hyundai"," i20 Magna",2676,"gasoline","manual",38000,14
+"Hyundai"," Xcent 1.2 Kappa SX Option",3000,"gasoline","manual",50000,8
+"Hyundai"," Santro Xing GLS",1800,"gasoline","manual",115000,14
+"Hyundai"," Verna 1.6 SX VTVT",6000,"gasoline","manual",41500,11
+"Hyundai"," Verna VTVT 1.6 SX",10440,"gasoline","manual",5000,6
+"Hyundai"," Accent GLE",2460,"gasoline","manual",32773,14
+"Hyundai"," i20 1.2 Sportz",6300,"gasoline","manual",19008,8
+"Hyundai"," Verna VTVT 1.6 SX",6924,"gasoline","manual",32542,12
+"Hyundai"," i20 1.2 Sportz",3900,"gasoline","manual",72000,13
+"Hyundai"," Sonata GOLD",1800,"gasoline","manual",44200,21
+"Hyundai"," i10 Sportz 1.1L",4308,"gasoline","manual",7200,8
+"Hyundai"," Grand i10 Sportz",7224,"gasoline","manual",23540,7
+"Hyundai"," i20 Sportz 1.2",5316,"gasoline","manual",35000,9
+"Hyundai"," EON Magna",3180,"gasoline","manual",47000,10
+"Hyundai"," Grand i10 AT Asta",6864,"gasoline","automatic",69053,9
+"Hyundai"," Grand i10 CRDi Sportz",4200,"Diesel","manual",43068,10
+"Hyundai"," i10 Magna",4380,"gasoline","manual",50436,13
+"Hyundai"," Grand i10 AT Asta",6480,"gasoline","automatic",21000,10
+"Hyundai"," Elantra CRDi SX",8400,"Diesel","manual",45000,10
+"Hyundai"," Santro Xing GL Plus",1920,"gasoline","manual",79000,12
+"Hyundai"," Accent GLE",720,"gasoline","manual",110000,20
+"Hyundai"," EON D Lite Plus",4068,"gasoline","manual",45407,10
+"Hyundai"," i10 Magna AT",4608,"gasoline","automatic",50058,13
+"Hyundai"," Creta 1.4 E Plus Diesel",12984,"Diesel","manual",41641,6
+"Hyundai"," i20 1.2 Magna Executive",7800,"gasoline","manual",17000,6
+"Hyundai"," i20 Asta",5100,"gasoline","manual",24000,13
+"Hyundai"," Grand i10 Asta",4500,"gasoline","manual",15305,9
+"Hyundai"," Verna 1.6 VTVT AT SX",10836,"gasoline","automatic",33858,6
+"Hyundai"," i20 1.2 Sportz",3840,"gasoline","manual",54000,13
+"Hyundai"," i20 Active 1.4 SX Dual Tone",7188,"Diesel","manual",27000,9
+"Hyundai"," i20 Sportz 1.4 CRDi",6540,"Diesel","manual",60000,11
+"Hyundai"," Verna 1.6 SX VTVT (O) AT",6720,"gasoline","automatic",44000,11
+"Hyundai"," i20 Asta Optional with Sunroof 1.2",4440,"gasoline","manual",50000,12
+"Hyundai"," i20 Sportz 1.4 CRDi",4260,"Diesel","manual",25500,11
+"Hyundai"," i20 Sportz 1.4 CRDi",4680,"Diesel","manual",70933,11
+"Hyundai"," Verna 1.6 SX CRDi (O)",6900,"Diesel","manual",58000,10
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",16188,"gasoline","automatic",21363,7
+"Hyundai"," Grand i10 CRDi Magna",4200,"Diesel","manual",42000,10
+"Hyundai"," Creta 1.6 SX Automatic Diesel",13500,"Diesel","automatic",14000,6
+"Hyundai"," i20 Sportz 1.4 CRDi",8400,"Diesel","manual",25500,7
+"Hyundai"," Creta 1.6 CRDi SX Option",12600,"Diesel","manual",61786,9
+"Hyundai"," i20 Sportz 1.2",7140,"gasoline","manual",6000,8
+"Hyundai"," i10 Sportz 1.1L",2700,"gasoline","manual",15590,13
+"Hyundai"," i20 1.2 Sportz Option",7356,"gasoline","manual",69681,8
+"Hyundai"," i10 Sportz 1.2 AT",4620,"gasoline","automatic",15200,11
+"Hyundai"," i20 Sportz 1.4 CRDi",7800,"Diesel","manual",74000,8
+"Hyundai"," Verna 1.6 CRDi SX",7800,"Diesel","manual",62542,9
+"Hyundai"," i20 Asta 1.2",8508,"gasoline","manual",40310,8
+"Hyundai"," Grand i10 1.2 Kappa Asta",7800,"gasoline","manual",10000,6
+"Hyundai"," EON D Lite Plus Option",3060,"gasoline","manual",25350,8
+"Hyundai"," Verna 1.6 SX VTVT",8100,"gasoline","manual",45000,10
+"Hyundai"," Creta 1.6 CRDi SX Option",14556,"Diesel","manual",44887,7
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",14988,"gasoline","manual",15731,7
+"Hyundai"," i20 1.2 Asta with AVN",7464,"gasoline","manual",20045,9
+"Hyundai"," i10 Magna 1.2 iTech SE",2700,"gasoline","manual",31000,12
+"Hyundai"," EON D Lite Plus",3192,"gasoline","manual",20000,9
+"Hyundai"," Creta 1.6 VTVT S",15000,"gasoline","manual",26000,8
+"Hyundai"," i10 Magna 1.2",3180,"gasoline","manual",40496,13
+"Hyundai"," Creta 1.6 VTVT S",10800,"gasoline","manual",48200,9
+"Hyundai"," EON Era Plus",3120,"gasoline","manual",60500,12
+"Hyundai"," Creta 1.6 SX Option",13572,"gasoline","manual",47183,7
+"Hyundai"," Elantra CRDi SX",7020,"Diesel","manual",42000,11
+"Hyundai"," i10 Magna 1.1",3840,"gasoline","manual",49000,11
+"Hyundai"," Verna 1.6 SX",7860,"Diesel","manual",65254,12
+"Hyundai"," Verna 1.6 SX",8280,"Diesel","manual",95000,10
+"Hyundai"," Creta 1.6 SX Option Diesel",13740,"Diesel","manual",101065,7
+"Hyundai"," Verna 1.6 CRDI",6000,"Diesel","manual",72000,13
+"Hyundai"," i20 1.2 Magna",2280,"gasoline","manual",45000,14
+"Hyundai"," Xcent 1.2 Kappa AT S Option",6300,"gasoline","automatic",69000,10
+"Hyundai"," i10 Magna 1.1",3288,"gasoline","manual",53213,11
+"Hyundai"," i10 Era",2700,"gasoline","manual",57000,15
+"Hyundai"," Santro Xing GL Plus",2820,"gasoline","manual",53000,12
+"Hyundai"," Verna VTVT 1.6 SX",9300,"gasoline","manual",46676,10
+"Hyundai"," Santro Xing XG",1980,"gasoline","manual",79000,19
+"Hyundai"," i10 Asta",2988,"gasoline","manual",43000,13
+"Hyundai"," EON Era Plus",4812,"gasoline","manual",34063,9
+"Hyundai"," i10 Magna 1.2",2580,"gasoline","manual",38002,13
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",11400,"gasoline","manual",26000,9
+"Hyundai"," Xcent 1.2 Kappa S Option",6528,"gasoline","manual",36216,8
+"Hyundai"," Verna 1.6 SX CRDI (O) AT",9300,"Diesel","automatic",57539,10
+"Hyundai"," i20 Sportz Option",3120,"gasoline","manual",62489,14
+"Hyundai"," Verna Transform Xxi ABS",4740,"gasoline","manual",60000,13
+"Hyundai"," Accent GLE",1200,"gasoline","manual",123200,19
+"Hyundai"," i20 Sportz 1.2",6912,"gasoline","manual",40901,9
+"Hyundai"," i10 Magna 1.2",5184,"gasoline","manual",36264,11
+"Hyundai"," i10 Magna 1.1L",2280,"gasoline","manual",60000,15
+"Hyundai"," Santro Xing GL",2580,"gasoline","manual",61449,12
+"Hyundai"," i10 Era 1.1",2160,"gasoline","manual",82203,16
+"Hyundai"," i20 1.2 Magna",4884,"gasoline","manual",44612,10
+"Hyundai"," Grand i10 Asta Option AT",6420,"gasoline","automatic",15000,8
+"Hyundai"," Grand i10 1.2 Kappa Sportz",7044,"gasoline","manual",38712,7
+"Hyundai"," i20 1.2 Magna",4380,"gasoline","manual",52000,14
+"Hyundai"," EON Magna",3420,"gasoline","manual",27886,8
+"Hyundai"," i20 Asta Option 1.4 CRDi",8436,"Diesel","manual",99362,8
+"Hyundai"," Xcent 1.2 Kappa S",7452,"gasoline","manual",38932,7
+"Hyundai"," Xcent 1.1 CRDi S",7140,"Diesel","manual",29000,8
+"Hyundai"," i10 Sportz",5400,"gasoline","manual",19947,8
+"Hyundai"," i10 Sportz 1.2 AT",3720,"gasoline","automatic",70816,13
+"Hyundai"," Grand i10 Sportz",7248,"gasoline","manual",47774,7
+"Hyundai"," i20 Magna 1.2",5880,"gasoline","manual",21000,9
+"Hyundai"," i10 Sportz",3360,"gasoline","manual",90000,10
+"Hyundai"," EON Era Plus",4608,"gasoline","manual",57759,11
+"Hyundai"," i10 Asta",4680,"gasoline","manual",75915,9
+"Hyundai"," Verna CRDi ABS",4200,"Diesel","manual",160000,15
+"Hyundai"," i20 Sportz 1.4 CRDi",8400,"Diesel","manual",72495,9
+"Hyundai"," Verna 1.6 CRDi AT S",10440,"Diesel","automatic",33000,8
+"Hyundai"," Grand i10 1.2 Kappa Magna",5760,"gasoline","manual",4500,6
+"Hyundai"," Grand i10 1.2 Kappa Asta",6792,"gasoline","manual",51223,7
+"Hyundai"," Elite i20 Petrol Asta",7848,"gasoline","manual",56911,8
+"Hyundai"," Elite i20 Petrol Asta",7464,"gasoline","manual",37540,8
+"Hyundai"," Grand i10 1.2 Kappa Asta",7188,"gasoline","manual",22500,7
+"Hyundai"," i20 1.2 Magna Executive",7200,"gasoline","manual",17431,7
+"Hyundai"," Verna 1.6 SX VTVT (O)",7020,"gasoline","manual",61566,10
+"Hyundai"," Verna 1.6 SX VTVT (O)",6300,"gasoline","manual",52000,11
+"Hyundai"," Santa Fe 4x4 AT",20400,"Diesel","automatic",58000,10
+"Hyundai"," i10 Sportz AT",4200,"gasoline","automatic",58000,12
+"Hyundai"," i10 Sportz",5844,"gasoline","manual",41008,9
+"Hyundai"," Xcent 1.1 CRDi SX Option",7200,"Diesel","manual",65000,10
+"Hyundai"," Verna VTVT 1.6 SX Option",9564,"gasoline","manual",52378,8
+"Hyundai"," i20 Magna Optional 1.2",5340,"gasoline","manual",445000,11
+"Hyundai"," i10 Sportz 1.2",5388,"gasoline","manual",47439,10
+"Hyundai"," Xcent 1.2 Kappa AT SX Option",7608,"gasoline","automatic",45560,8
+"Hyundai"," Elite i20 Petrol Asta",9516,"gasoline","manual",18553,6
+"Hyundai"," Santa Fe 4X4",10680,"Diesel","manual",148000,13
+"Hyundai"," i20 2015-2017 1.2 Asta with AVN",3600,"gasoline","manual",50000,14
+"Hyundai"," Verna CRDi SX",7800,"Diesel","manual",79663,11
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",15300,"gasoline","automatic",25000,7
+"Hyundai"," Xcent 1.1 CRDi Base",4680,"Diesel","manual",60000,10
+"Hyundai"," i20 Asta 1.4 CRDi",5400,"Diesel","manual",80000,12
+"Hyundai"," EON Magna Plus",4548,"gasoline","manual",26568,9
+"Hyundai"," Creta 1.6 CRDi SX Option",15900,"Diesel","manual",51000,8
+"Hyundai"," i20 1.2 Magna",3000,"gasoline","manual",36000,13
+"Hyundai"," i10 Sportz 1.1L",3600,"gasoline","manual",24350,9
+"Hyundai"," EON Era",3852,"gasoline","manual",8243,7
+"Hyundai"," Santro Xing GLS",1860,"gasoline","manual",136642,15
+"Hyundai"," Santro Xing GLS",3108,"gasoline","manual",60000,13
+"Hyundai"," i20 Magna 1.2",7908,"gasoline","manual",14064,7
+"Hyundai"," i10 Era 1.1 iTech SE",2280,"gasoline","manual",72672,16
+"Hyundai"," i20 Magna",4920,"gasoline","manual",59000,11
+"Hyundai"," Creta 1.6 CRDi SX Option",16536,"Diesel","manual",60083,7
+"Hyundai"," Grand i10 1.2 CRDi Asta",6516,"Diesel","manual",81828,9
+"Hyundai"," Grand i10 AT Asta",6120,"gasoline","automatic",46000,9
+"Hyundai"," Verna 1.6 SX CRDi (O)",8040,"Diesel","manual",48158,11
+"Hyundai"," Verna SX CRDi AT",7200,"Diesel","automatic",83000,12
+"Hyundai"," i20 Active 1.4 SX",9108,"Diesel","manual",37746,6
+"Hyundai"," EON D Lite Plus",3540,"gasoline","manual",45010,11
+"Hyundai"," Santro Xing GLS",2040,"gasoline","manual",75000,14
+"Hyundai"," Santa Fe 2WD AT",19500,"Diesel","automatic",48000,10
+"Hyundai"," Grand i10 AT Asta",7560,"gasoline","automatic",36139,8
+"Hyundai"," Creta 1.6 CRDi SX",15000,"Diesel","manual",44000,7
+"Hyundai"," Xcent 1.1 CRDi Base",5400,"Diesel","manual",100000,8
+"Hyundai"," i10 Magna",2700,"gasoline","manual",55980,14
+"Hyundai"," i20 Sportz 1.4 CRDi",5016,"Diesel","manual",49700,12
+"Hyundai"," Verna 1.4 EX",7800,"Diesel","manual",79000,11
+"Hyundai"," Verna 1.6 CRDi AT SX",11172,"Diesel","automatic",42876,8
+"Hyundai"," i20 Sportz Petrol",4140,"gasoline","manual",62020,13
+"Hyundai"," Elite i20 Petrol Sportz",8784,"gasoline","manual",14223,6
+"Hyundai"," Grand i10 AT Asta",7440,"gasoline","automatic",21000,8
+"Hyundai"," i20 Magna",3360,"gasoline","manual",95000,14
+"Hyundai"," Grand i10 AT Asta",5760,"gasoline","automatic",32000,9
+"Hyundai"," Santro Xing XG",1080,"gasoline","manual",80000,21
+"Hyundai"," Xcent 1.2 Kappa Base",5880,"gasoline","manual",23000,9
+"Hyundai"," Accent GLE",2940,"gasoline","manual",56000,12
+"Hyundai"," Xcent 1.2 VTVT E",6000,"gasoline","manual",40000,6
+"Hyundai"," Verna VTVT 1.6 SX Option",14256,"gasoline","manual",12336,5
+"Hyundai"," Verna Xi (Petrol)",2700,"gasoline","manual",60000,15
+"Hyundai"," Xcent 1.2 Kappa AT SX Option",6540,"gasoline","automatic",41000,9
+"Hyundai"," i10 Era 1.1",3300,"gasoline","manual",49000,11
+"Hyundai"," Grand i10 1.2 Kappa Sportz Option",5700,"gasoline","manual",15356,7
+"Hyundai"," Creta 1.6 CRDi SX Option",13080,"Diesel","manual",78046,9
+"Hyundai"," EON D Lite Plus",4452,"gasoline","manual",64624,8
+"Hyundai"," Santa Fe 4X2",14700,"Diesel","manual",74000,11
+"Hyundai"," Elite i20 Sportz Plus",7536,"gasoline","manual",37460,7
+"Hyundai"," Grand i10 Asta Option",9420,"gasoline","manual",31576,7
+"Hyundai"," Creta 1.6 SX Option Diesel",12960,"Diesel","manual",93000,8
+"Hyundai"," Creta 1.6 SX Plus Diesel",15600,"Diesel","manual",29000,9
+"Hyundai"," Verna SX CRDi AT",7500,"Diesel","automatic",41000,12
+"Hyundai"," i20 1.2 Asta",5400,"gasoline","manual",47000,13
+"Hyundai"," Xcent 1.2 Kappa S",6672,"gasoline","manual",45960,9
+"Hyundai"," i10 Magna",3180,"gasoline","manual",41000,13
+"Hyundai"," Verna 1.6 SX CRDi (O)",7020,"Diesel","manual",69573,11
+"Hyundai"," Elantra CRDi SX",18684,"Diesel","manual",41871,5
+"Hyundai"," Creta 1.6 VTVT S",13800,"gasoline","manual",40000,8
+"Hyundai"," Santa Fe 4X4",10056,"Diesel","manual",67901,11
+"Hyundai"," EON Sportz",4332,"gasoline","manual",46897,7
+"Hyundai"," EON Era Plus",3000,"gasoline","manual",54680,9
+"Hyundai"," Santro D Lite",840,"gasoline","manual",140000,23
+"Hyundai"," Xcent 1.1 CRDi S",8196,"Diesel","manual",32257,7
+"Hyundai"," Xcent 1.1 CRDi Base",4140,"Diesel","manual",82000,7
+"Hyundai"," i20 Sportz Option 1.2",5940,"gasoline","manual",36000,9
+"Hyundai"," i20 Sportz 1.2",8148,"gasoline","manual",16725,8
+"Hyundai"," i20 Sportz 1.4 CRDi",5280,"Diesel","manual",68000,12
+"Hyundai"," i10 Sportz",5592,"gasoline","manual",31446,10
+"Hyundai"," Grand i10 Asta",6600,"gasoline","manual",25000,9
+"Hyundai"," i20 Asta 1.2",7200,"gasoline","manual",57000,8
+"Hyundai"," i20 Sportz Diesel",3240,"Diesel","manual",62000,14
+"Hyundai"," i10 Era",4068,"gasoline","manual",65807,11
+"Hyundai"," EON Sportz",4968,"gasoline","manual",14799,10
+"Hyundai"," i20 1.4 CRDi Sportz",8400,"Diesel","manual",68525,9
+"Hyundai"," Creta 1.6 CRDi SX Option",14712,"Diesel","manual",52553,8
+"Hyundai"," Xcent 1.1 CRDi SX",4788,"Diesel","manual",58000,10
+"Hyundai"," Verna 1.6 SX VTVT (O)",10104,"gasoline","manual",19387,7
+"Hyundai"," i20 Sportz 1.2",6900,"gasoline","manual",24001,8
+"Hyundai"," Creta 1.6 SX Option Executive",15900,"gasoline","manual",44383,6
+"Hyundai"," Creta 1.6 SX",11640,"gasoline","manual",69000,8
+"Hyundai"," Grand i10 CRDi Sportz",6252,"Diesel","manual",60993,7
+"Hyundai"," Grand i10 CRDi Sportz",5664,"Diesel","manual",51134,10
+"Hyundai"," i10 Sportz",2532,"gasoline","manual",48000,15
+"Hyundai"," Verna CRDi 1.6 SX Option",3480,"Diesel","manual",109606,16
+"Hyundai"," Creta 1.6 SX Option Diesel",19524,"Diesel","manual",24864,5
+"Hyundai"," i20 1.2 Magna",3300,"gasoline","manual",57500,14
+"Hyundai"," Grand i10 CRDi SportZ Edition",3900,"Diesel","manual",58000,10
+"Hyundai"," Grand i10 CRDi Sportz",6600,"Diesel","manual",57824,8
+"Hyundai"," i20 Active 1.4 SX",8340,"Diesel","manual",62679,8
+"Hyundai"," i10 Sportz 1.2",3420,"gasoline","manual",18000,9
+"Hyundai"," EON Era Plus",3660,"gasoline","manual",30158,9
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",14220,"gasoline","automatic",28000,8
+"Hyundai"," i10 Magna AT",3984,"gasoline","automatic",30566,14
+"Hyundai"," i10 Magna 1.2",3336,"gasoline","manual",55231,12
+"Hyundai"," Sonata 2.4 GDI",9480,"gasoline","manual",45000,11
+"Hyundai"," Elite i20 Asta Option",10536,"gasoline","manual",21134,5
+"Hyundai"," Verna 1.6 SX",7488,"Diesel","manual",60519,9
+"Hyundai"," Verna CRDi 1.6 SX Option",6600,"Diesel","manual",79225,11
+"Hyundai"," Verna 1.6 CRDi S",7560,"Diesel","manual",85000,9
+"Hyundai"," Grand i10 CRDi Magna",4752,"Diesel","manual",63776,9
+"Hyundai"," Elite i20 Petrol Asta",6720,"gasoline","manual",28133,9
+"Hyundai"," i20 Magna 1.4 CRDi",6600,"Diesel","manual",55697,9
+"Hyundai"," i20 Magna",3000,"gasoline","manual",58000,14
+"Hyundai"," Grand i10 Magna",4680,"gasoline","manual",31200,10
+"Hyundai"," EON Magna Plus",3000,"gasoline","manual",45000,12
+"Hyundai"," Verna 1.6 SX",4560,"Diesel","manual",67000,13
+"Hyundai"," i20 Sportz 1.4 CRDi",7080,"Diesel","manual",118211,9
+"Hyundai"," i10 Sportz",4500,"gasoline","manual",20000,9
+"Hyundai"," Getz 1.3 GLS",1320,"gasoline","manual",143000,17
+"Hyundai"," i20 1.2 Spotz",6900,"gasoline","manual",32450,8
+"Hyundai"," i20 Asta 1.2",8244,"gasoline","manual",35441,9
+"Hyundai"," EON D Lite Plus",3948,"gasoline","manual",29832,8
+"Hyundai"," Verna 1.6 SX VTVT AT",6600,"gasoline","automatic",48656,10
+"Hyundai"," Verna CRDi 1.6 AT SX Plus",6300,"Diesel","automatic",79000,12
+"Hyundai"," Grand i10 CRDi Magna",4980,"Diesel","manual",79000,10
+"Hyundai"," i20 Asta 1.2",5700,"gasoline","manual",41000,9
+"Hyundai"," i20 Magna Optional 1.2",6444,"gasoline","manual",14925,9
+"Hyundai"," i20 Asta Optional with Sunroof 1.2",5484,"gasoline","manual",62132,11
+"Hyundai"," i10 Era 1.1",1980,"gasoline","manual",55410,16
+"Hyundai"," Verna 1.6 SX CRDi (O)",7500,"Diesel","manual",45000,12
+"Hyundai"," Creta 1.6 SX Option",14556,"gasoline","manual",53322,6
+"Hyundai"," i10 Magna 1.2",2880,"gasoline","manual",62000,14
+"Hyundai"," i20 1.2 Asta",5460,"gasoline","manual",41681,10
+"Hyundai"," Verna XXi ABS (Petrol)",3120,"gasoline","manual",38000,16
+"Hyundai"," Elantra 1.6 SX",9000,"Diesel","manual",170000,11
+"Hyundai"," Xcent 1.2 Kappa S",4200,"gasoline","manual",146000,8
+"Hyundai"," i20 1.4 CRDi Magna",3540,"Diesel","manual",60000,11
+"Hyundai"," i20 Asta",3180,"gasoline","manual",28000,15
+"Hyundai"," Santa Fe 4X4",9000,"Diesel","manual",58200,12
+"Hyundai"," Creta 1.6 SX",14136,"gasoline","manual",17665,6
+"Hyundai"," i10 Magna",3864,"gasoline","manual",37333,12
+"Hyundai"," i20 1.2 Spotz",9180,"gasoline","manual",48407,6
+"Hyundai"," i10 Sportz 1.2",2760,"gasoline","manual",72400,14
+"Hyundai"," Grand i10 1.2 CRDi Sportz",7536,"Diesel","manual",32663,6
+"Hyundai"," EON Era Plus",4140,"gasoline","manual",43993,9
+"Hyundai"," Grand i10 CRDi Sportz",6600,"Diesel","manual",30000,8
+"Hyundai"," Grand i10 1.2 CRDi Sportz",5100,"Diesel","manual",59261,9
+"Hyundai"," i20 1.2 Asta Option",8700,"gasoline","manual",19000,8
+"Hyundai"," i10 Sportz 1.2 AT",4380,"gasoline","automatic",54534,11
+"Hyundai"," i20 Sportz AT 1.4",4500,"gasoline","automatic",55000,12
+"Hyundai"," i20 Active SX Dual Tone Petrol",10320,"gasoline","manual",1000,5
+"Hyundai"," i20 Magna 1.2",6600,"gasoline","manual",53000,9
+"Hyundai"," Creta 1.6 CRDi SX",15960,"Diesel","manual",50129,7
+"Hyundai"," i10 Magna",3540,"gasoline","manual",63265,11
+"Hyundai"," Xcent 1.1 CRDi Base",4560,"Diesel","manual",76000,8
+"Hyundai"," Xcent 1.2 CRDi S",5040,"Diesel","manual",51000,7
+"Hyundai"," i20 Active 1.2 S",6960,"gasoline","manual",12000,9
+"Hyundai"," Verna 1.6 CRDI AT SX Option",11376,"Diesel","automatic",36931,7
+"Hyundai"," i20 Asta Option 1.2",6600,"gasoline","manual",45000,9
+"Hyundai"," i20 1.2 Sportz",4260,"gasoline","manual",85155,14
+"Hyundai"," Elantra CRDi S",9300,"Diesel","manual",65000,9
+"Hyundai"," Grand i10 1.2 Kappa Magna",2700,"gasoline","manual",45252,14
+"Hyundai"," Verna 1.6 CRDi AT SX",11676,"Diesel","automatic",42024,8
+"Hyundai"," i20 2015-2017 Sportz 1.2",7800,"gasoline","manual",10000,7
+"Hyundai"," Grand i10 CRDi Magna",4800,"Diesel","manual",50000,9
+"Hyundai"," Grand i10 Sportz",5340,"gasoline","manual",26946,8
+"Hyundai"," EON Era",3120,"gasoline","manual",28700,9
+"Hyundai"," Verna 1.6 SX",6840,"Diesel","manual",85350,11
+"Hyundai"," Santa Fe 4x4 AT",27600,"Diesel","automatic",36000,8
+"Hyundai"," Grand i10 CRDi Sportz",5880,"Diesel","manual",58397,9
+"Hyundai"," i10 Era",4812,"gasoline","manual",34952,8
+"Hyundai"," i20 1.2 Magna",6180,"gasoline","manual",56127,11
+"Hyundai"," Xcent 1.2 CRDi S",6000,"Diesel","manual",26000,8
+"Hyundai"," Accent GLE",900,"gasoline","manual",130000,23
+"Hyundai"," Verna Xi (Petrol)",2220,"gasoline","manual",137148,15
+"Hyundai"," i20 Magna",2880,"gasoline","manual",69000,15
+"Hyundai"," Grand i10 Asta Option",5100,"gasoline","manual",26000,9
+"Hyundai"," i20 1.4 Asta",8340,"Diesel","manual",27000,7
+"Hyundai"," Creta 1.6 SX Option Diesel",16584,"Diesel","manual",47392,8
+"Hyundai"," i20 Active 1.4 SX Dual Tone",7440,"Diesel","manual",49716,8
+"Hyundai"," Verna 1.4 CRDi",8700,"Diesel","manual",79000,8
+"Hyundai"," i10 Sportz",3708,"gasoline","manual",57184,12
+"Hyundai"," Creta 1.6 CRDi AT SX Plus",15180,"Diesel","automatic",26000,9
+"Hyundai"," Grand i10 Magna",5100,"gasoline","manual",22129,8
+"Hyundai"," i10 Era",3960,"gasoline","manual",60634,13
+"Hyundai"," Grand i10 Asta",3768,"gasoline","manual",41000,10
+"Hyundai"," i10 Magna 1.2",3000,"gasoline","manual",62000,12
+"Hyundai"," i20 1.2 Magna",4332,"gasoline","manual",63991,13
+"Hyundai"," Creta 1.6 CRDi SX",16068,"Diesel","manual",37023,8
+"Hyundai"," Creta 1.6 CRDi SX Option",13200,"Diesel","manual",47250,9
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",14328,"gasoline","manual",17702,7
+"Hyundai"," Creta 1.6 SX Plus Dual Tone Petrol",15036,"gasoline","manual",38271,7
+"Hyundai"," Grand i10 Sportz",3900,"gasoline","manual",28000,11
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",15120,"gasoline","automatic",32854,6
+"Hyundai"," Verna SX CRDi AT",7800,"Diesel","automatic",97000,12
+"Hyundai"," Creta 1.4 CRDi S Plus",14580,"Diesel","manual",55687,8
+"Hyundai"," i20 Asta 1.2",6780,"gasoline","manual",31045,10
+"Hyundai"," Creta 1.6 SX Plus Diesel",16008,"Diesel","manual",35480,6
+"Hyundai"," i20 Asta 1.4 CRDi",8376,"Diesel","manual",46162,9
+"Hyundai"," Verna 1.6 SX VTVT",6900,"gasoline","manual",9200,10
+"Hyundai"," Elantra CRDi SX",18000,"Diesel","manual",35000,6
+"Hyundai"," Verna 1.6 i ABS",2340,"gasoline","manual",80000,17
+"Hyundai"," i10 Sportz",3780,"gasoline","manual",70000,12
+"Hyundai"," i10 Asta",4500,"gasoline","manual",86000,13
+"Hyundai"," Verna 1.6 SX VTVT",13848,"gasoline","manual",6028,5
+"Hyundai"," i10 Era 1.1 iTech SE",3564,"gasoline","manual",65727,12
+"Hyundai"," Verna 1.6 VTVT",5700,"gasoline","manual",70000,11
+"Hyundai"," i20 1.4 Asta Optional With Sunroof",4380,"Diesel","manual",77332,14
+"Hyundai"," Grand i10 Asta Option AT",7188,"gasoline","automatic",17489,7
+"Hyundai"," Creta 1.6 SX Plus Petrol Automatic",13140,"gasoline","automatic",22982,8
+"Hyundai"," i10 Sportz",3540,"gasoline","manual",54500,11
+"Hyundai"," Verna VTVT 1.6 AT SX Plus",5100,"gasoline","automatic",75059,12
+"Hyundai"," Elite i20 Diesel Asta Option",9180,"Diesel","manual",6820,6
+"Hyundai"," Verna 1.6 SX VTVT (O)",5400,"gasoline","manual",49000,11
+"Hyundai"," Creta 1.6 CRDi SX",15120,"Diesel","manual",29000,8
+"Hyundai"," i20 Magna Optional 1.2",5748,"gasoline","manual",42315,10
+"Hyundai"," Verna CRDi",3480,"Diesel","manual",64514,15
+"Hyundai"," Verna 1.6 SX VTVT",8880,"gasoline","manual",35000,8
+"Hyundai"," Grand i10 Sportz",4800,"gasoline","manual",53000,9
+"Hyundai"," i20 1.2 Asta",8220,"gasoline","manual",9000,7
+"Hyundai"," Verna SX CRDi AT",10788,"Diesel","automatic",65000,10
+"Hyundai"," Verna 1.6 CRDi SX",8388,"Diesel","manual",60000,9
+"Hyundai"," Grand i10 1.2 Kappa Magna",5700,"gasoline","manual",46000,7
+"Hyundai"," Creta 1.4 CRDi S Plus",12300,"Diesel","manual",32000,9
+"Hyundai"," i10 Magna 1.1",4260,"gasoline","manual",31965,9
+"Hyundai"," Verna 1.6 SX VTVT",9588,"gasoline","manual",41534,7
+"Hyundai"," i20 1.4 Sportz",7632,"Diesel","manual",40175,6
+"Hyundai"," Xcent 1.2 Kappa SX",7260,"gasoline","manual",15029,7
+"Hyundai"," Grand i10 CRDi Sportz",6600,"Diesel","manual",76362,9
+"Hyundai"," i10 Sportz 1.2 AT",3000,"gasoline","automatic",57000,14
+"Hyundai"," Accent GLE",2760,"gasoline","manual",62364,16
+"Hyundai"," Verna 1.6 SX CRDi (O)",7200,"Diesel","manual",89000,12
+"Hyundai"," i10 Magna 1.2",3420,"gasoline","manual",84045,15
+"Hyundai"," i20 Sportz Option 1.2",9204,"gasoline","manual",12800,5
+"Hyundai"," Santa Fe 4WD AT",24804,"Diesel","automatic",45794,8
+"Hyundai"," Santro Xing GLS",1740,"gasoline","manual",42000,15
+"Hyundai"," Grand i10 CRDi Sportz",4788,"Diesel","manual",65000,10
+"Hyundai"," i10 Sportz 1.1L",3540,"gasoline","manual",84000,11
+"Hyundai"," Creta 1.6 CRDi SX",15372,"Diesel","manual",30519,7
+"Hyundai"," Getz GLE",2340,"gasoline","manual",58307,17
+"Hyundai"," i20 Asta Option 1.2",5880,"gasoline","manual",36000,9
+"Hyundai"," i10 Sportz",3120,"gasoline","manual",39000,13
+"Hyundai"," i20 Asta 1.4 CRDi",3900,"Diesel","manual",33249,12
+"Hyundai"," Xcent 1.2 Kappa S Option",4500,"gasoline","manual",52000,10
+"Hyundai"," i10 Sportz 1.2",4200,"gasoline","manual",84912,13
+"Hyundai"," Creta 1.6 CRDi SX Option",14700,"Diesel","manual",70000,9
+"Hyundai"," i10 Magna 1.2",2820,"gasoline","manual",29000,12
+"Hyundai"," Verna CRDi",2220,"Diesel","manual",200000,18
+"Hyundai"," i10 Sportz 1.2",4080,"gasoline","manual",28000,9
+"Hyundai"," Grand i10 Sportz",7428,"gasoline","manual",22831,7
+"Hyundai"," Grand i10 Magna",4500,"gasoline","manual",21000,9
+"Hyundai"," i20 Magna Optional 1.4 CRDi",4380,"Diesel","manual",64500,11
+"Hyundai"," i20 1.4 Sportz",9300,"Diesel","manual",30000,6
+"Hyundai"," i20 Sportz 1.4 CRDi",7620,"Diesel","manual",55036,8
+"Hyundai"," Santro Xing GL Plus",2760,"gasoline","manual",60000,11
+"Hyundai"," Grand i10 CRDi Asta",6600,"Diesel","manual",50000,8
+"Hyundai"," Grand i10 1.2 Kappa Sportz",6084,"gasoline","manual",28147,8
+"Hyundai"," Grand i10 Sportz",4620,"gasoline","manual",20000,9
+"Hyundai"," Elite i20 Petrol Asta",9540,"gasoline","manual",11000,8
+"Hyundai"," Grand i10 Asta",4140,"gasoline","manual",37000,10
+"Hyundai"," i20 Sportz 1.2",6960,"gasoline","manual",42000,9
+"Hyundai"," i20 Diesel Asta Option",9300,"Diesel","manual",31000,6
+"Hyundai"," Creta 1.6 SX",15840,"gasoline","manual",9900,6
+"Hyundai"," Accent GLE",840,"gasoline","manual",50000,19
+"Hyundai"," Verna 1.6 SX",5688,"Diesel","manual",58646,12
+"Hyundai"," i20 Magna 1.4 CRDi (Diesel)",5220,"Diesel","manual",53340,10
+"Hyundai"," Creta 1.6 CRDi SX",14280,"Diesel","manual",63738,8
+"Hyundai"," Verna VTVT 1.6 AT SX Option",15420,"gasoline","automatic",8000,6
+"Hyundai"," Santro Xing GL",1668,"gasoline","manual",65000,16
+"Hyundai"," Verna 1.6 CRDi EX MT",5640,"Diesel","manual",53280,11
+"Hyundai"," i20 Asta Option 1.2",9732,"gasoline","manual",14618,7
+"Hyundai"," i20 2015-2017 Magna",3288,"gasoline","manual",80561,14
+"Hyundai"," Getz GLS",1020,"gasoline","manual",100000,19
+"Hyundai"," Elantra SX",9960,"gasoline","manual",55619,10
+"Hyundai"," i20 Sportz 1.2",6300,"gasoline","manual",68010,10
+"Hyundai"," Getz GLE",2640,"gasoline","manual",66800,17
+"Hyundai"," Xcent 1.1 CRDi S",4800,"Diesel","manual",100000,9
+"Audi"," A4 New 2.0 TDI Multitronic",21288,"Diesel","automatic",40670,11
+"Audi"," A6 2011-2015 35 TFSI Technology",28200,"gasoline","automatic",55985,9
+"Audi"," A6 2.7 TDI",13800,"Diesel","automatic",35000,14
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",25716,"Diesel","automatic",13648,9
+"Audi"," A4 2.0 TDI Multitronic",16200,"Diesel","automatic",65664,12
+"Audi"," A6 2.0 TDI Design Edition",35400,"Diesel","automatic",56000,10
+"Audi"," A6 2011-2015 35 TDI Premium",47496,"Diesel","automatic",48367,6
+"Audi"," A4 3.0 TDI Quattro Premium",11760,"Diesel","automatic",30000,14
+"Audi"," RS5 Coupe",44400,"gasoline","automatic",23000,11
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",27984,"Diesel","automatic",48214,9
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",22800,"Diesel","automatic",62500,12
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",27540,"Diesel","automatic",40000,10
+"Audi"," Q3 2012-2015 35 TDI Quattro Premium Plus",23880,"Diesel","automatic",64103,9
+"Audi"," A8 L 3.0 TDI quattro",54000,"Diesel","automatic",56000,12
+"Audi"," Q7 3.0 TDI Quattro Technology",84432,"Diesel","automatic",11287,6
+"Audi"," A6 2011-2015 2.0 TDI Technology",32136,"Diesel","automatic",31652,9
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",24924,"Diesel","automatic",61726,10
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",26340,"Diesel","automatic",51495,10
+"Audi"," Q7 45 TDI Quattro Technology",75204,"Diesel","automatic",97430,7
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",15540,"Diesel","automatic",99000,16
+"Audi"," A3 35 TDI Attraction",19800,"Diesel","automatic",79271,10
+"Audi"," Q3 35 TDI Quattro Premium",30852,"Diesel","automatic",37542,7
+"Audi"," A6 35 TFSI Matrix",29400,"gasoline","automatic",47000,8
+"Audi"," Q5 30 TDI quattro Premium Plus",46800,"Diesel","automatic",38000,10
+"Audi"," Q3 35 TDI Quattro Premium Plus",24444,"Diesel","automatic",86642,8
+"Audi"," Q7 4.2 TDI Quattro Technology",58692,"Diesel","automatic",51002,8
+"Audi"," A6 2011-2015 35 TDI Technology",45072,"Diesel","automatic",41041,7
+"Audi"," TT 2.0 TFSI",35400,"gasoline","automatic",12100,11
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",14760,"Diesel","automatic",202082,12
+"Audi"," Q7 4.2 TDI Quattro Technology",35724,"Diesel","automatic",79926,10
+"Audi"," A6 2011-2015 35 TFSI Technology",29064,"gasoline","automatic",58953,8
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",14400,"Diesel","automatic",94000,15
+"Audi"," Q3 35 TDI Quattro Premium",30000,"Diesel","automatic",61000,9
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",28668,"Diesel","automatic",49964,10
+"Audi"," Q7 3.0 TDI Quattro Technology",21600,"Diesel","automatic",120300,16
+"Audi"," A6 2.0 TDI Design Edition",34800,"Diesel","automatic",48000,10
+"Audi"," Q5 2008-2012 2.0 TDI",30552,"Diesel","automatic",13452,11
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",23400,"Diesel","automatic",45979,11
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",52020,"Diesel","automatic",46983,9
+"Audi"," Q3 2012-2015 35 TDI Quattro Premium Plus",27300,"Diesel","automatic",76927,9
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",22740,"Diesel","automatic",31000,11
+"Audi"," A6 3.0 TDI quattro",14484,"Diesel","automatic",48040,15
+"Audi"," A4 2.0 TDI",13188,"Diesel","automatic",46000,13
+"Audi"," A4 2.0 TDI",17400,"Diesel","automatic",47346,12
+"Audi"," A4 2.0 TDI Multitronic",15000,"Diesel","automatic",59000,13
+"Audi"," TT 40 TFSI",42000,"gasoline","automatic",7000,12
+"Audi"," A6 2011-2015 2.0 TDI",28788,"Diesel","automatic",70181,11
+"Audi"," Q5 30 TDI quattro Premium",52488,"Diesel","automatic",40318,7
+"Audi"," Q3 2.0 TDI",24000,"Diesel","automatic",60000,10
+"Audi"," A4 2.0 TDI",11940,"Diesel","automatic",34000,15
+"Audi"," Q3 2012-2015 2.0 TDI Quattro Premium Plus",21300,"Diesel","automatic",84000,11
+"Audi"," A4 35 TDI Technology",30000,"Diesel","automatic",45000,9
+"Audi"," Q3 2012-2015 2.0 TDI Quattro Premium Plus",17400,"Diesel","automatic",60000,11
+"Audi"," Q7 4.2 TDI Quattro Technology",61200,"Diesel","automatic",50000,10
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",46728,"Diesel","automatic",53735,9
+"Audi"," Q7 35 TDI Quattro Premium Plus",45600,"Diesel","automatic",65938,9
+"Audi"," Q3 2.0 TDI Quattro",25200,"Diesel","automatic",60000,11
+"Audi"," Q5 3.0 TDI Quattro",54744,"Diesel","automatic",32496,6
+"Audi"," Q3 2.0 TDI Quattro",18300,"Diesel","automatic",45000,11
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",17220,"Diesel","automatic",77395,10
+"Audi"," TT 2.0 TFSI",32820,"gasoline","automatic",14262,10
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",25872,"Diesel","automatic",57456,10
+"Audi"," A4 2.0 TDI",16800,"Diesel","automatic",36000,11
+"Audi"," Q7 45 TDI Quattro Technology",80400,"Diesel","automatic",20002,8
+"Audi"," A7 2011-2015 3.0 TDI Quattro",34500,"Diesel","automatic",42000,13
+"Audi"," Q3 2.0 TDI Quattro",32400,"Diesel","automatic",45000,8
+"Audi"," Q5 2.0 TDI Premium Plus",47400,"Diesel","automatic",43000,8
+"Audi"," Q5 2008-2012 3.0 TDI",52800,"Diesel","automatic",25000,10
+"Audi"," Q7 35 TDI Quattro Technology",57600,"Diesel","automatic",21000,9
+"Audi"," Q7 45 TDI Quattro Premium Plus",87528,"Diesel","automatic",6773,5
+"Audi"," Q7 4.2 FSI quattro",14388,"gasoline","automatic",71000,16
+"Audi"," A4 35 TDI Premium",29688,"Diesel","automatic",68193,8
+"Audi"," Q5 3.0 TDI Quattro Technology",39540,"Diesel","automatic",11964,9
+"Audi"," Q3 35 TDI Quattro Premium Plus",33636,"Diesel","automatic",58661,8
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",29400,"Diesel","automatic",21000,10
+"Audi"," Q5 2.0 TDI",42000,"Diesel","automatic",56000,9
+"Audi"," Q5 30 TDI quattro Premium Plus",46740,"Diesel","automatic",38000,10
+"Audi"," A4 New 2.0 TDI Multitronic",12420,"Diesel","automatic",60000,12
+"Audi"," A7 2011-2015 3.0 TDI Quattro",29928,"Diesel","automatic",60336,10
+"Audi"," A4 3.0 TDI Quattro Premium",19332,"Diesel","automatic",46913,12
+"Audi"," A6 2011-2015 2.0 TDI",24144,"Diesel","automatic",62012,10
+"Audi"," A4 2.0 TDI",15828,"Diesel","automatic",45330,11
+"Audi"," Q5 30 TDI quattro Premium Plus",47364,"Diesel","automatic",42747,9
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",21600,"Diesel","automatic",70000,10
+"Audi"," A3 35 TDI Technology",27000,"Diesel","automatic",22000,7
+"Audi"," A4 2.0 TDI",21000,"Diesel","automatic",82002,11
+"Audi"," Q5 2008-2012 2.0 TDI",27600,"Diesel","automatic",53000,13
+"Audi"," A4 New 2.0 TDI Multitronic",16200,"Diesel","automatic",44555,12
+"Audi"," A4 2.0 TDI",17400,"Diesel","automatic",67000,11
+"Audi"," A4 2.0 TDI 177 Bhp Technology Edition",30000,"Diesel","automatic",24000,10
+"Audi"," A6 2.7 TDI",10740,"Diesel","automatic",30000,15
+"Audi"," A4 2.0 TDI Multitronic",17400,"Diesel","automatic",105000,13
+"Audi"," A4 2.0 TDI",16200,"Diesel","automatic",45200,11
+"Audi"," Q3 35 TDI Quattro Premium",22800,"Diesel","automatic",110000,9
+"Audi"," A4 35 TDI Premium",30000,"Diesel","automatic",50000,9
+"Audi"," Q7 3.0 TDI Quattro Technology",43800,"Diesel","automatic",88000,12
+"Audi"," Q5 2.0 TDI Premium Plus",18000,"Diesel","automatic",74500,12
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",30024,"Diesel","automatic",66882,10
+"Audi"," A4 2.0 TFSI",14400,"gasoline","automatic",38000,13
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",22200,"Diesel","automatic",58000,10
+"Audi"," A4 2.0 TDI",28800,"Diesel","automatic",60000,10
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",18600,"Diesel","automatic",87000,11
+"Audi"," A6 3.0 TDI quattro",25200,"Diesel","automatic",50000,13
+"Audi"," A4 2.0 TDI",16740,"Diesel","automatic",85000,13
+"Audi"," Q3 2012-2015 35 TDI Quattro Premium",21900,"Diesel","automatic",48000,9
+"Audi"," A4 35 TDI Premium Sport",33600,"Diesel","automatic",11000,8
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",46800,"Diesel","automatic",79000,12
+"Audi"," A4 35 TDI Premium",30900,"Diesel","automatic",39644,8
+"Audi"," Q7 3.0 TDI quattro",26400,"Diesel","automatic",98000,13
+"Audi"," Q7 35 TDI Quattro Technology",63732,"Diesel","automatic",28733,8
+"Audi"," A4 2.0 TDI Premium Sport Limited Edition",28140,"Diesel","automatic",21979,9
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",24048,"Diesel","automatic",57773,10
+"Audi"," Q7 35 TDI Quattro Technology",63000,"Diesel","automatic",21000,9
+"Audi"," A4 1.8 TFSI",10200,"gasoline","automatic",38001,14
+"Audi"," Q5 2.0 TDI Technology",42000,"Diesel","automatic",50000,10
+"Audi"," A6 2.8 FSI",12600,"gasoline","automatic",41000,16
+"Audi"," A8 L 3.0 TDI quattro",16200,"Diesel","automatic",55000,15
+"Audi"," Q3 35 TDI Quattro Premium Plus",33000,"Diesel","automatic",51000,9
+"Audi"," A6 3.0 TDI quattro",13800,"Diesel","automatic",45000,16
+"Audi"," Q3 2012-2015 35 TDI Quattro Premium",22500,"Diesel","automatic",48000,9
+"Audi"," Q7 35 TDI Quattro Premium Plus",46800,"Diesel","automatic",72132,8
+"Audi"," A6 2011-2015 2.0 TDI",24684,"Diesel","automatic",70998,11
+"Audi"," A6 35 TDI Matrix",28800,"Diesel","automatic",56000,10
+"Audi"," A6 35 TDI Matrix",30000,"Diesel","automatic",62000,10
+"Audi"," A4 2.0 TDI Multitronic",24600,"Diesel","automatic",53000,10
+"Audi"," A6 2.7 TDI",27000,"Diesel","automatic",90000,11
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",41856,"Diesel","automatic",51076,10
+"Audi"," A6 2011-2015 3.0 TDI Quattro Premium Plus",34800,"Diesel","automatic",50001,12
+"Audi"," Q5 2.0 TDI Premium Plus",39000,"Diesel","automatic",44000,11
+"Audi"," A7 2011-2015 Sportback",33600,"Diesel","automatic",24720,12
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",30372,"Diesel","automatic",32205,9
+"Audi"," A4 30 TFSI Premium Plus",26076,"gasoline","automatic",61221,7
+"Audi"," A4 New 2.0 TDI Multitronic",12300,"Diesel","automatic",69000,12
+"Audi"," Q3 30 TDI Premium FWD",32400,"Diesel","automatic",31000,7
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",17400,"Diesel","automatic",60001,11
+"Audi"," Q3 35 TDI Quattro Premium Plus",34800,"Diesel","automatic",38000,9
+"Audi"," A4 1.8 TFSI",11400,"gasoline","automatic",53000,13
+"Audi"," A6 2.0 TDI Design Edition",19800,"Diesel","automatic",27090,12
+"Audi"," A6 2011-2015 35 TDI Technology",29100,"Diesel","automatic",42000,9
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",27000,"Diesel","automatic",40000,10
+"Audi"," Q7 3.0 TDI quattro",34260,"Diesel","automatic",91743,12
+"Audi"," A4 2.0 TDI Multitronic",22200,"Diesel","automatic",74002,12
+"Audi"," A4 35 TDI Premium",30768,"Diesel","automatic",39237,8
+"Audi"," A6 35 TDI Matrix",47808,"Diesel","automatic",36824,7
+"Audi"," A6 2.7 TDI",9600,"Diesel","automatic",78000,15
+"Audi"," A4 New 2.0 TDI Multitronic",19200,"Diesel","automatic",60000,12
+"Audi"," Q5 3.0 TDI Quattro Technology",44196,"Diesel","automatic",43827,7
+"Audi"," A6 2011-2015 2.0 TDI",20004,"Diesel","automatic",54862,10
+"Audi"," A4 2.0 TDI Multitronic",12000,"Diesel","automatic",59000,14
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",21000,"Diesel","automatic",40000,10
+"Audi"," A4 35 TDI Premium",28500,"Diesel","automatic",58970,9
+"Audi"," Q5 2.0 TDI Premium Plus",30852,"Diesel","automatic",87652,10
+"Audi"," A6 2.7 TDI",13800,"Diesel","automatic",112719,13
+"Audi"," A6 35 TFSI Matrix",49800,"gasoline","automatic",22000,6
+"Audi"," A4 2.0 TDI",21900,"Diesel","automatic",76000,11
+"Audi"," Q7 35 TDI Quattro Technology",58512,"Diesel","automatic",32545,8
+"Audi"," Q3 2012-2015 2.0 TDI Quattro Premium Plus",25800,"Diesel","automatic",65000,10
+"Audi"," RS5 Coupe",48600,"gasoline","automatic",23312,11
+"Audi"," Q5 2.0 TDI Premium Plus",35568,"Diesel","automatic",60146,9
+"Audi"," A4 3.0 TDI Quattro",30024,"Diesel","automatic",35463,9
+"Audi"," Q5 2.0 TDI",25800,"Diesel","automatic",71000,11
+"Audi"," Q5 30 TDI quattro Premium Plus",43200,"Diesel","automatic",63000,9
+"Audi"," A4 2.0 TDI Multitronic",9576,"Diesel","automatic",88000,15
+"Audi"," Q3 35 TDI Quattro Premium",28500,"Diesel","automatic",28000,9
+"Audi"," Q5 2.0 TDI Premium Plus",34800,"Diesel","automatic",53900,10
+"Audi"," Q3 30 TDI Premium FWD",39276,"Diesel","automatic",22060,6
+"Audi"," A4 35 TDI Premium Plus",25992,"Diesel","automatic",13506,9
+"Audi"," Q5 3.0 TDI Quattro",41400,"Diesel","automatic",63000,9
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",23760,"Diesel","automatic",56500,11
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",39024,"Diesel","automatic",72469,10
+"Audi"," Q7 35 TDI Quattro Technology",60264,"Diesel","automatic",45180,8
+"Audi"," A4 2.0 TDI Multitronic",13200,"Diesel","automatic",58000,13
+"Audi"," Q7 4.2 TDI Quattro Technology",57600,"Diesel","automatic",50000,9
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",21000,"Diesel","automatic",50000,12
+"Audi"," A4 35 TDI Premium",30000,"Diesel","automatic",60000,9
+"Audi"," Q7 3.0 TDI Quattro Technology",54000,"Diesel","automatic",60000,10
+"Audi"," A6 3.0 TDI quattro",9696,"Diesel","automatic",52830,15
+"Audi"," Q7 3.0 TDI Quattro Technology",36600,"Diesel","automatic",102865,10
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",57000,"Diesel","automatic",50000,9
+"Audi"," A4 New 2.0 TDI Multitronic",12240,"Diesel","automatic",60000,12
+"Audi"," Q5 30 TDI quattro Premium Plus",46464,"Diesel","automatic",47293,8
+"Audi"," Q7 4.2 TDI Quattro Technology",21012,"Diesel","automatic",73000,14
+"Audi"," Q3 2.0 TDI",22800,"Diesel","automatic",105000,11
+"Audi"," A4 35 TDI Technology Edition",39492,"Diesel","automatic",38163,5
+"Audi"," Q3 35 TDI Quattro Premium Plus",38316,"Diesel","automatic",42366,7
+"Audi"," A4 2.0 TDI Multitronic",27600,"Diesel","automatic",13000,9
+"Audi"," A6 3.0 TDI quattro",9000,"Diesel","automatic",50000,16
+"Audi"," A4 35 TDI Technology Edition",32400,"Diesel","automatic",30000,9
+"Audi"," Q3 2012-2015 35 TDI Quattro Premium Plus",28200,"Diesel","automatic",42000,8
+"Audi"," A6 2.7 TDI",13800,"Diesel","automatic",35010,14
+"Audi"," A3 35 TDI Premium",23100,"Diesel","automatic",20003,8
+"Audi"," Q5 2008-2012 2.0 TDI",28416,"Diesel","automatic",80127,11
+"Audi"," A4 2.0 TDI",23400,"Diesel","automatic",52000,11
+"Audi"," A4 35 TDI Technology",51600,"Diesel","automatic",14000,7
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",19500,"Diesel","automatic",88000,11
+"Audi"," A4 New 2.0 TDI Multitronic",11700,"Diesel","automatic",17000,16
+"Audi"," A6 2011-2015 35 TDI Technology",43200,"Diesel","automatic",50000,9
+"Audi"," Q7 4.2 TDI Quattro Technology",62028,"Diesel","automatic",56238,9
+"Audi"," A4 35 TDI Premium Plus",29244,"Diesel","automatic",28469,10
+"Audi"," A3 35 TDI Premium Plus",22680,"Diesel","automatic",39000,8
+"Audi"," Q7 45 TDI Quattro Technology",81600,"Diesel","automatic",59500,7
+"Audi"," A4 2.0 TDI 177 Bhp Technology Edition",31200,"Diesel","automatic",29000,10
+"Audi"," Q5 2008-2012 2.0 TFSI Quattro",12000,"gasoline","automatic",99100,15
+"Audi"," A4 2.0 TDI Premium Sport Limited Edition",30972,"Diesel","automatic",44811,9
+"Audi"," Q5 2008-2012 2.0 TDI",30000,"Diesel","automatic",44999,10
+"Audi"," A4 1.8 TFSI Technology Edition",21000,"gasoline","automatic",80000,12
+"Audi"," Q7 3.0 TDI quattro",37692,"Diesel","automatic",118218,10
+"Audi"," Q3 2.0 TDI",26400,"Diesel","automatic",60000,11
+"Audi"," A4 2.0 TDI",21600,"Diesel","automatic",54000,13
+"Audi"," A4 2.0 TDI Multitronic",19500,"Diesel","automatic",88000,12
+"Audi"," Q5 2.0 TDI",34800,"Diesel","automatic",72000,11
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",45480,"Diesel","automatic",45000,10
+"Audi"," A4 2.0 TDI",18252,"Diesel","automatic",55730,10
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",59748,"Diesel","automatic",31075,8
+"Audi"," Q5 30 TDI quattro Premium",30588,"Diesel","automatic",52000,9
+"Audi"," A6 35 TDI Matrix",42600,"Diesel","automatic",20000,9
+"Audi"," Q3 2012-2015 2.0 TDI Quattro Premium Plus",27600,"Diesel","automatic",63716,11
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",30900,"Diesel","automatic",29063,10
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",38400,"Diesel","automatic",58000,10
+"Audi"," A4 2.0 TDI",11940,"Diesel","automatic",46000,15
+"Audi"," A6 2011-2015 35 TDI Technology",38400,"Diesel","automatic",37500,9
+"Audi"," A4 2.0 TDI",10200,"Diesel","automatic",46000,15
+"Audi"," A4 3.0 TDI Quattro",29400,"Diesel","automatic",30000,10
+"Audi"," Q5 2008-2012 2.0 TDI",30768,"Diesel","automatic",12467,11
+"Audi"," Q5 2008-2012 2.0 TFSI Quattro",21600,"gasoline","automatic",59967,13
+"Audi"," A4 2.0 TDI",27000,"Diesel","automatic",37600,10
+"Audi"," A6 2011-2015 2.0 TDI Premium Plus",25200,"Diesel","automatic",85000,11
+"Audi"," Q7 3.0 TDI Quattro Premium Plus",51396,"Diesel","automatic",55662,9
+"Audi"," A4 2.0 TDI 177 Bhp Premium Plus",26400,"Diesel","automatic",40000,10
+"Audi"," A6 2011-2015 35 TDI Technology",43104,"Diesel","automatic",55975,7
+"Audi"," A4 2.0 TDI Celebration Edition",11700,"Diesel","automatic",57000,13
+"Audi"," Q5 3.0 TDI Quattro Technology",54624,"Diesel","automatic",29091,6
+"Audi"," Q3 2.0 TDI",26100,"Diesel","automatic",65630,10
+"Audi"," A4 35 TDI Premium Plus",19824,"Diesel","automatic",58629,11
+"Audi"," A6 2011-2015 2.0 TDI",21072,"Diesel","automatic",91903,11
+"Mercedes-Benz"," New C-Class C 220 CDI BE Avantgare",33600,"Diesel","automatic",78500,10
+"Mercedes-Benz"," M-Class ML 350 CDI",33600,"Diesel","automatic",85000,11
+"Mercedes-Benz"," New C-Class C 200 CGI Avantgarde",32040,"gasoline","automatic",58000,9
+"Mercedes-Benz"," New C-Class 200 CDI Classic",12000,"Diesel","manual",65000,13
+"Mercedes-Benz"," C-Class Progressive C 220d",42804,"Diesel","automatic",15369,5
+"Mercedes-Benz"," B Class B200 CDI",20100,"Diesel","automatic",53753,10
+"Mercedes-Benz"," New C-Class 200 K AT",11220,"gasoline","automatic",28352,15
+"Mercedes-Benz"," SLC 43 AMG",64800,"gasoline","automatic",13372,7
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",21540,"Diesel","automatic",44965,10
+"Mercedes-Benz"," S Class 2005 2013 S 500",36000,"gasoline","automatic",35277,14
+"Mercedes-Benz"," B Class B180",13500,"gasoline","automatic",29000,11
+"Mercedes-Benz"," New C-Class C 220 CDI Style",40392,"Diesel","automatic",23550,7
+"Mercedes-Benz"," GLC 220",51000,"Diesel","automatic",44414,8
+"Mercedes-Benz"," E-Class E250 CDI Avantgrade",38400,"Diesel","automatic",37382,10
+"Mercedes-Benz"," B Class B180",14352,"gasoline","automatic",37245,10
+"Mercedes-Benz"," New C-Class C250 Avantgarde",12600,"gasoline","automatic",30500,14
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",47292,"Diesel","automatic",29161,6
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",21744,"Diesel","automatic",55980,9
+"Mercedes-Benz"," GLE 350d",73548,"Diesel","automatic",29819,7
+"Mercedes-Benz"," New C-Class C 220 CDI CLASSIC",21600,"Diesel","manual",57000,10
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",22368,"Diesel","automatic",77771,9
+"Mercedes-Benz"," GLA Class 200 CDI SPORT",24312,"Diesel","automatic",48000,9
+"Mercedes-Benz"," GLE 250d",68400,"Diesel","automatic",29000,7
+"Mercedes-Benz"," GLA Class 200 CDI",24000,"Diesel","automatic",38000,9
+"Mercedes-Benz"," New C-Class 220",31200,"Diesel","manual",25000,10
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Avantgarde",31800,"Diesel","automatic",59364,10
+"Mercedes-Benz"," B Class B180",14124,"gasoline","automatic",41380,10
+"Mercedes-Benz"," E-Class 2015-2017 E250 Edition E",44400,"Diesel","automatic",33900,7
+"Mercedes-Benz"," S Class 2005 2013 S 350 CDI",75372,"Diesel","automatic",56451,7
+"Mercedes-Benz"," GL-Class 2007 2012 350 CDI Luxury",33600,"Diesel","automatic",85001,14
+"Mercedes-Benz"," New C-Class 220 CDI AT",22800,"Diesel","automatic",35299,11
+"Mercedes-Benz"," GLC 43 AMG Coupe",85188,"gasoline","automatic",22397,6
+"Mercedes-Benz"," New C-Class C 200 CGI Avantgarde",10200,"gasoline","automatic",50000,13
+"Mercedes-Benz"," E-Class E 220 d",61716,"gasoline","automatic",26405,6
+"Mercedes-Benz"," New C-Class 220 CDI MT",27600,"Diesel","manual",45000,10
+"Mercedes-Benz"," GLS 350d 4MATIC",67200,"Diesel","automatic",129000,7
+"Mercedes-Benz"," A Class A200 CDI Sport",22296,"Diesel","automatic",35437,8
+"Mercedes-Benz"," S Class 2005 2013 S 350 CDI",22200,"Diesel","automatic",137000,14
+"Mercedes-Benz"," E-Class 280 CDI",11148,"Diesel","automatic",80464,15
+"Mercedes-Benz"," E-Class 2009-2013 E 250 Elegance",12900,"gasoline","automatic",50645,14
+"Mercedes-Benz"," New C-Class Progressive C 200",46788,"gasoline","automatic",13190,5
+"Mercedes-Benz"," S Class 2005 2013 S 350 L",22800,"gasoline","automatic",47088,18
+"Mercedes-Benz"," GLC 220d 4MATIC Style",58200,"Diesel","automatic",10003,6
+"Mercedes-Benz"," E-Class 2009-2013 E200 CGI Blue Efficiency",15000,"gasoline","automatic",61000,13
+"Mercedes-Benz"," New C-Class C 250 CDI Avantgarde",45516,"Diesel","automatic",25559,7
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",11100,"Diesel","automatic",39037,17
+"Mercedes-Benz"," SLK-Class SLK 350",66648,"gasoline","automatic",22732,8
+"Mercedes-Benz"," E-Class 2015-2017 E250 CDI Avantgarde",43200,"Diesel","automatic",34000,7
+"Mercedes-Benz"," M-Class ML 350 4Matic",36000,"Diesel","automatic",120000,10
+"Mercedes-Benz"," New C-Class 220 CDI AT",22800,"Diesel","automatic",86000,12
+"Mercedes-Benz"," E-Class 2015-2017 E250 Edition E",38328,"Diesel","automatic",43368,7
+"Mercedes-Benz"," New C-Class C 200 CGI Avantgarde",18552,"gasoline","automatic",56778,10
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",47364,"Diesel","automatic",36797,6
+"Mercedes-Benz"," A Class A180 CDI",16800,"Diesel","automatic",37000,11
+"Mercedes-Benz"," E-Class 2009-2013 E 220 CDI Avantgarde",18960,"Diesel","automatic",70000,11
+"Mercedes-Benz"," SLK-Class SLK 350",66000,"gasoline","automatic",10000,9
+"Mercedes-Benz"," GLE 250d",67200,"Diesel","automatic",21000,8
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Elegance",16680,"Diesel","automatic",47000,13
+"Mercedes-Benz"," E-Class Facelift",60348,"Diesel","automatic",56652,6
+"Mercedes-Benz"," New C-Class C 200 CGI",11700,"gasoline","automatic",48000,13
+"Mercedes-Benz"," E-Class E250 CDI Avantgrade",26160,"Diesel","automatic",42076,9
+"Mercedes-Benz"," New C-Class C 220 CDI Style",32400,"Diesel","automatic",58205,8
+"Mercedes-Benz"," New C-Class C 200 Avantgarde Edition C",10968,"gasoline","automatic",71703,13
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",36000,"Diesel","automatic",50000,9
+"Mercedes-Benz"," C-Class Progressive C 220d",47400,"Diesel","automatic",8682,6
+"Mercedes-Benz"," CLA 200 CDI Sport",33900,"Diesel","automatic",13689,7
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",19872,"Diesel","automatic",63983,9
+"Mercedes-Benz"," A Class A180 Sport",19200,"gasoline","automatic",11000,9
+"Mercedes-Benz"," GL-Class 350 CDI Blue Efficiency",46500,"Diesel","automatic",85000,10
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",10740,"Diesel","automatic",49000,14
+"Mercedes-Benz"," E-Class E 220 d",61620,"gasoline","automatic",20446,6
+"Mercedes-Benz"," E-Class 2009-2013 E 220 CDI Avantgarde",29400,"Diesel","automatic",34700,11
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",18780,"Diesel","automatic",64000,10
+"Mercedes-Benz"," E-Class 2009-2013 E 250 Elegance",19800,"gasoline","automatic",83000,14
+"Mercedes-Benz"," E-Class 2009-2013 E 200 CGI Avantgarde",36504,"gasoline","manual",35939,8
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",11400,"Diesel","automatic",39000,14
+"Mercedes-Benz"," B Class B180",13884,"gasoline","automatic",42070,10
+"Mercedes-Benz"," E-Class 2015-2017 E350 CDI Avantgrade",83400,"Diesel","automatic",15000,7
+"Mercedes-Benz"," E-Class 2015-2017 E250 CDI Avantgarde",38700,"Diesel","automatic",36884,7
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",20400,"Diesel","automatic",87000,11
+"Mercedes-Benz"," E-Class E250 CDI Avantgrade",28800,"Diesel","automatic",40000,10
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",39000,"Diesel","automatic",51944,8
+"Mercedes-Benz"," M-Class ML 350 4Matic",51600,"Diesel","automatic",33000,10
+"Mercedes-Benz"," New C-Class C250 Avantgarde",16200,"gasoline","automatic",45000,13
+"Mercedes-Benz"," E-Class 2015-2017 E350 Edition E",50400,"Diesel","automatic",41493,9
+"Mercedes-Benz"," GLA Class 200 CDI SPORT",30000,"Diesel","automatic",50000,7
+"Mercedes-Benz"," New C-Class 200 Kompressor",14100,"gasoline","manual",65000,14
+"Mercedes-Benz"," New C-Class C 220CDIBE Avantgarde Command",32400,"Diesel","automatic",51355,10
+"Mercedes-Benz"," S Class 2005 2013 320 CDI",26400,"Diesel","automatic",42000,15
+"Mercedes-Benz"," New C-Class C 200 CGI Avantgarde",17400,"gasoline","automatic",40000,13
+"Mercedes-Benz"," GL-Class 2007 2012 350 CDI Luxury",58800,"Diesel","automatic",52000,10
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Elegance",35976,"Diesel","automatic",38730,8
+"Mercedes-Benz"," New C-Class C 200 Avantgarde Edition C",13800,"gasoline","automatic",29813,13
+"Mercedes-Benz"," E-Class E250 CDI Avantgrade",27900,"Diesel","automatic",46000,10
+"Mercedes-Benz"," E-Class 2009-2013 E350 CDI Avantgarde",12720,"Diesel","automatic",92239,13
+"Mercedes-Benz"," GL-Class 2007 2012 350 CDI Luxury",43200,"Diesel","automatic",46000,11
+"Mercedes-Benz"," New C-Class C 200 Kompressor Elegance AT",12180,"gasoline","automatic",36000,13
+"Mercedes-Benz"," E-Class 2015-2017 E250 CDI Avantgarde",29400,"Diesel","automatic",52000,10
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",41736,"Diesel","automatic",32642,7
+"Mercedes-Benz"," GLE 350d",84960,"Diesel","automatic",40129,6
+"Mercedes-Benz"," M-Class ML 350 CDI",26700,"Diesel","automatic",51000,12
+"Mercedes-Benz"," M-Class ML 350 4Matic",45600,"Diesel","automatic",69000,9
+"Mercedes-Benz"," New C-Class C 200 Kompressor Elegance AT",7200,"gasoline","automatic",220000,17
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Elegance",34800,"Diesel","automatic",29000,11
+"Mercedes-Benz"," M-Class ML 350 CDI",43200,"Diesel","automatic",83000,12
+"Mercedes-Benz"," GLE 350d",77844,"Diesel","automatic",33552,7
+"Mercedes-Benz"," A Class A180 Sport",20700,"gasoline","automatic",17000,8
+"Mercedes-Benz"," GLS 350d Grand Edition",94800,"Diesel","automatic",6000,6
+"Mercedes-Benz"," New C-Class 250 CDI Classic",22188,"Diesel","automatic",41367,12
+"Mercedes-Benz"," E-Class 200 Kompressor Elegance",6600,"gasoline","automatic",85000,20
+"Mercedes-Benz"," S Class 2005 2013 S 350 L",11988,"gasoline","automatic",55000,17
+"Mercedes-Benz"," E-Class 2009-2013 E 220 CDI Avantgarde",27600,"Diesel","automatic",45200,11
+"Mercedes-Benz"," New C-Class 220 CDI AT",36600,"Diesel","automatic",32324,7
+"Mercedes-Benz"," GLA Class 200 d Sport",28200,"Diesel","automatic",35000,7
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",15000,"Diesel","automatic",62000,11
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",28200,"Diesel","automatic",21000,11
+"Mercedes-Benz"," GL-Class 2007 2012 350 CDI Luxury",49200,"Diesel","automatic",79000,10
+"Mercedes-Benz"," E-Class 2009-2013 E 200 CGI Elegance",26400,"gasoline","automatic",25000,13
+"Mercedes-Benz"," SLC 43 AMG",100752,"gasoline","automatic",2526,5
+"Mercedes-Benz"," E-Class E 220 d",25200,"Diesel","automatic",85000,11
+"Mercedes-Benz"," GLE 250d",68076,"Diesel","automatic",25601,7
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",47340,"Diesel","automatic",24465,6
+"Mercedes-Benz"," New C-Class C 250 CDI Avantgarde",46200,"Diesel","automatic",14470,7
+"Mercedes-Benz"," E-Class E250 CDI Launch Edition",35520,"Diesel","automatic",46936,8
+"Mercedes-Benz"," E-Class E270 CDI",12000,"Diesel","automatic",54000,19
+"Mercedes-Benz"," New C-Class 220 CDI AT",17400,"Diesel","automatic",40100,11
+"Mercedes-Benz"," M-Class ML 250 CDI",42000,"Diesel","automatic",52000,8
+"Mercedes-Benz"," M-Class ML 350 CDI Corporate",27096,"Diesel","automatic",63888,12
+"Mercedes-Benz"," E-Class E 350 d",94560,"Diesel","automatic",9312,5
+"Mercedes-Benz"," GLA Class 200 d Sport",34680,"Diesel","automatic",10000,6
+"Mercedes-Benz"," GLA Class 200 Sport Edition",30000,"gasoline","automatic",23000,8
+"Mercedes-Benz"," New C-Class 220 CDI MT",12432,"Diesel","manual",50135,16
+"Mercedes-Benz"," CLA 200 Sport Edition",31200,"gasoline","automatic",25000,8
+"Mercedes-Benz"," M-Class ML 250 CDI",54732,"Diesel","automatic",23218,8
+"Mercedes-Benz"," GLA Class 200 CDI SPORT",21672,"Diesel","automatic",72524,7
+"Mercedes-Benz"," New C-Class C 200 CGI Elegance",13800,"gasoline","automatic",51000,13
+"Mercedes-Benz"," B Class B200 CDI",24336,"Diesel","automatic",43812,7
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",47064,"Diesel","automatic",23152,6
+"Mercedes-Benz"," GLC 220d 4MATIC Sport",54000,"Diesel","automatic",25000,7
+"Mercedes-Benz"," CLA 200 CDI Style",32916,"Diesel","automatic",23106,7
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",46200,"Diesel","automatic",20149,7
+"Mercedes-Benz"," E-Class E 220 d",67800,"Diesel","automatic",11000,6
+"Mercedes-Benz"," New C-Class 230 Avantgarde",12000,"gasoline","automatic",29000,15
+"Mercedes-Benz"," CLA 200 CDI Sport",33444,"Diesel","automatic",20969,7
+"Mercedes-Benz"," E-Class 2015-2017 E350 CDI Avantgrade",84180,"Diesel","automatic",21603,6
+"Mercedes-Benz"," New C-Class 220 CDI AT",13800,"Diesel","automatic",74213,14
+"Mercedes-Benz"," CLA 200 Sport Edition",32580,"gasoline","automatic",24733,7
+"Mercedes-Benz"," New C-Class C 220 CDI CLASSIC",17100,"Diesel","manual",81456,11
+"Mercedes-Benz"," E-Class 2015-2017 E250 Edition E",35400,"Diesel","automatic",39500,8
+"Mercedes-Benz"," GLA Class 200 CDI SPORT",21060,"Diesel","automatic",54000,9
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",47544,"Diesel","automatic",20604,6
+"Mercedes-Benz"," New C-Class C 220 CDI BE Avantgare",23100,"Diesel","automatic",49000,12
+"Mercedes-Benz"," GLE 350d",71148,"Diesel","automatic",30706,6
+"Mercedes-Benz"," GLE 350d",77940,"Diesel","automatic",19863,7
+"Mercedes-Benz"," B Class 2012-2015 B200 Sport CDI",19500,"Diesel","automatic",36000,10
+"Mercedes-Benz"," New C-Class C 220 CDI BE Avantgare",16680,"Diesel","automatic",90000,13
+"Mercedes-Benz"," E-Class 280 CDI",13200,"Diesel","automatic",75000,17
+"Mercedes-Benz"," E-Class 280 CDI",10200,"Diesel","automatic",68333,16
+"Mercedes-Benz"," New C-Class C 250 CDI Elegance",17064,"Diesel","automatic",63000,12
+"Mercedes-Benz"," New C-Class 200 CDI Elegance",22200,"Diesel","manual",51000,11
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",47412,"Diesel","automatic",10714,6
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",18600,"Diesel","automatic",78616,10
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Blue Efficiency",21000,"Diesel","automatic",93000,14
+"Mercedes-Benz"," New C-Class C 220 CDI Style",45000,"Diesel","automatic",11200,7
+"Mercedes-Benz"," GL-Class 350 CDI Blue Efficiency",67200,"Diesel","automatic",16000,8
+"Mercedes-Benz"," E-Class 2009-2013 E350 Petrol",12480,"gasoline","automatic",73000,14
+"Mercedes-Benz"," E-Class E250 CDI Avantgrade",29556,"Diesel","automatic",41057,9
+"Mercedes-Benz"," E-Class E250 CDI Launch Edition",27300,"Diesel","automatic",81000,10
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",34200,"Diesel","automatic",15000,9
+"Mercedes-Benz"," A Class A180 CDI",21000,"Diesel","automatic",48300,9
+"Mercedes-Benz"," M-Class ML 350 4Matic",59064,"Diesel","automatic",22769,8
+"Mercedes-Benz"," E-Class 280 Elegance",8400,"gasoline","automatic",62000,16
+"Mercedes-Benz"," E-Class E250 CDI Avantgrade",28092,"Diesel","automatic",59630,9
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Avantgarde",15600,"Diesel","automatic",70000,13
+"Mercedes-Benz"," E-Class E400 Cabriolet",57600,"gasoline","automatic",7501,9
+"Mercedes-Benz"," GLE 350d",71580,"Diesel","automatic",29277,6
+"Mercedes-Benz"," A Class A180 CDI",13200,"Diesel","automatic",34000,11
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",14388,"Diesel","automatic",107000,14
+"Mercedes-Benz"," CLA 200 CDI Sport",30900,"Diesel","automatic",29836,5
+"Mercedes-Benz"," M-Class ML 320 CDI",12900,"Diesel","automatic",66000,15
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Blue Efficiency",15000,"Diesel","automatic",130923,14
+"Mercedes-Benz"," R-Class R350 CDI 4MATIC",33600,"Diesel","automatic",46000,14
+"Mercedes-Benz"," A Class A180 CDI",23700,"Diesel","automatic",8000,10
+"Mercedes-Benz"," M-Class ML 250 CDI",33300,"Diesel","automatic",58589,9
+"Mercedes-Benz"," New C-Class 220 CDI AT",17400,"Diesel","automatic",80578,11
+"Mercedes-Benz"," S Class 2005 2013 S 350 CDI",30000,"Diesel","automatic",98000,15
+"Mercedes-Benz"," CLA 200 CDI Sport",36924,"Diesel","automatic",13414,5
+"Mercedes-Benz"," GLA Class 200 CDI",23400,"Diesel","automatic",52000,10
+"Mercedes-Benz"," CLS-Class 2006-2010 350 CDI",38400,"Diesel","automatic",29000,14
+"Mercedes-Benz"," New C-Class C250 Avantgarde",15000,"gasoline","automatic",64000,13
+"Mercedes-Benz"," E-Class E270 CDI",5580,"Diesel","automatic",102000,19
+"Mercedes-Benz"," E-Class E250 CDI Avantgrade",42336,"Diesel","automatic",39753,8
+"Mercedes-Benz"," New C-Class C 220 CDI Style",43200,"Diesel","automatic",10000,7
+"Mercedes-Benz"," GLC 220d 4MATIC Style",61164,"Diesel","automatic",29311,5
+"Mercedes-Benz"," E-Class E250 CDI Launch Edition",36864,"Diesel","automatic",73187,9
+"Mercedes-Benz"," M-Class ML 320 CDI",16500,"Diesel","automatic",53000,15
+"Mercedes-Benz"," GLA Class 200 CDI",31200,"Diesel","automatic",30000,10
+"Mercedes-Benz"," E-Class 250 D W 210",4680,"Diesel","automatic",55300,26
+"Mercedes-Benz"," E-Class 280 CDI",11988,"Diesel","automatic",85000,15
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Elegance",34800,"Diesel","automatic",53000,10
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Blue Efficiency",31200,"Diesel","automatic",30000,10
+"Mercedes-Benz"," CLA 200 CDI Sport",29412,"Diesel","automatic",32345,8
+"Mercedes-Benz"," New C-Class 220 CDI AT",15000,"Diesel","automatic",68782,14
+"Mercedes-Benz"," S-Class 320 L",12900,"gasoline","manual",30000,18
+"Mercedes-Benz"," New C-Class C 220 CDI CLASSIC",10200,"Diesel","manual",116000,15
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Elegance",40800,"Diesel","automatic",45000,8
+"Mercedes-Benz"," New C-Class C 220d Avantgarde Edition C",46860,"Diesel","automatic",27467,6
+"Mercedes-Benz"," New C-Class 200 Kompressor",10560,"gasoline","manual",62148,13
+"Mercedes-Benz"," CLA 200 CGI Sport",29400,"gasoline","automatic",40000,8
+"Mercedes-Benz"," E-Class 2015-2017 E250 CDI Avantgarde",41016,"Diesel","automatic",43252,8
+"Mercedes-Benz"," R-Class R350 4Matic Long",20220,"gasoline","automatic",82000,13
+"Mercedes-Benz"," E-Class E350 CDI",33000,"Diesel","automatic",68000,10
+"Mercedes-Benz"," B Class B200 CDI",25044,"Diesel","automatic",48161,7
+"Mercedes-Benz"," B Class B180",13872,"gasoline","automatic",28000,11
+"Mercedes-Benz"," E-Class 2009-2013 E350 Petrol",14100,"gasoline","automatic",68001,15
+"Mercedes-Benz"," E-Class 2015-2017 E250 Edition E",45780,"Diesel","automatic",43477,7
+"Mercedes-Benz"," S-Class 280 AT",7800,"gasoline","automatic",111000,21
+"Mercedes-Benz"," E-Class 200 Kompressor Elegance",22800,"gasoline","automatic",34000,13
+"Mercedes-Benz"," GL-Class 350 CDI Blue Efficiency",67200,"Diesel","automatic",45000,9
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Avantgarde",27000,"Diesel","automatic",34233,10
+"Mercedes-Benz"," M-Class ML 350 4Matic",31200,"Diesel","automatic",63000,12
+"Mercedes-Benz"," S-Class 320 L",20508,"gasoline","manual",84143,17
+"Mercedes-Benz"," E-Class 230 E AT",9072,"gasoline","automatic",28888,15
+"Mercedes-Benz"," A Class A180 CDI",15600,"Diesel","automatic",37000,11
+"Mercedes-Benz"," E-Class 2009-2013 E 250 Elegance",20676,"gasoline","automatic",87073,13
+"Mercedes-Benz"," E-Class 280 CDI",13800,"Diesel","automatic",100000,15
+"Mercedes-Benz"," E-Class 2015-2017 E250 CDI Avantgarde",39276,"Diesel","automatic",65405,8
+"Mercedes-Benz"," S Class 2005 2013 S 350 L",10620,"gasoline","automatic",103000,18
+"Mercedes-Benz"," GLA Class 200 CDI SPORT",27600,"Diesel","automatic",27000,9
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",39600,"Diesel","automatic",20000,8
+"Mercedes-Benz"," New C-Class 220 CDI MT",31200,"Diesel","manual",26000,9
+"Mercedes-Benz"," M-Class ML 350 4Matic",59088,"Diesel","automatic",27833,8
+"Mercedes-Benz"," New C-Class C220 CDI Executive Edition",45588,"Diesel","automatic",17320,5
+"Mercedes-Benz"," New C-Class 220 CDI AT",16212,"Diesel","automatic",38000,12
+"Mercedes-Benz"," GLE 350d",78000,"Diesel","automatic",29000,8
+"Mercedes-Benz"," GL-Class 2007 2012 350 CDI Luxury",38400,"Diesel","automatic",100000,11
+"Mercedes-Benz"," New C-Class C 220 CDI BE Avantgare",25200,"Diesel","automatic",25000,11
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Elegance",30000,"Diesel","automatic",100000,10
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Elegance",20100,"Diesel","automatic",43800,13
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Classic",19200,"Diesel","automatic",55000,13
+"Mercedes-Benz"," New C-Class C 220 CDI Celebration Edition",30600,"Diesel","automatic",34000,8
+"Mercedes-Benz"," GL-Class 2007 2012 350 CDI Luxury",62400,"Diesel","automatic",55000,9
+"Mercedes-Benz"," GLA Class 200 CDI SPORT",25188,"Diesel","automatic",35000,9
+"Mercedes-Benz"," S-Class 280 AT",8520,"gasoline","automatic",119859,20
+"Mercedes-Benz"," SLK-Class 55 AMG",108000,"gasoline","automatic",3000,10
+"Mercedes-Benz"," E-Class 2015-2017 E 200 CGI",20700,"gasoline","automatic",72000,10
+"Mercedes-Benz"," M-Class ML 350 4Matic",56820,"Diesel","automatic",20000,9
+"Mercedes-Benz"," SL-Class SL 500",35400,"gasoline","automatic",35000,14
+"Mercedes-Benz"," E-Class 280 CDI",13188,"Diesel","automatic",76662,18
+"Mercedes-Benz"," GLA Class 200 CDI",29820,"Diesel","automatic",43022,8
+"Mercedes-Benz"," S-Class S 350 d",36000,"Diesel","automatic",47140,13
+"Mercedes-Benz"," B Class B200 CDI",23880,"Diesel","automatic",36610,8
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Blue Efficiency",26400,"Diesel","automatic",48000,11
+"Mercedes-Benz"," GLA Class 200 Sport Edition",31200,"gasoline","automatic",28000,8
+"Mercedes-Benz"," E-Class 280 CDI",12000,"Diesel","automatic",131000,19
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",36360,"Diesel","automatic",16329,9
+"Mercedes-Benz"," New C-Class C 220 CDI Style",40800,"Diesel","automatic",39000,9
+"Mercedes-Benz"," M-Class ML 250 CDI",54000,"Diesel","automatic",50000,10
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",22200,"Diesel","automatic",41000,10
+"Mercedes-Benz"," GLC 220d 4MATIC Style",56340,"Diesel","automatic",24000,7
+"Mercedes-Benz"," M-Class ML 250 CDI",36000,"Diesel","automatic",66000,10
+"Mercedes-Benz"," M-Class ML 250 CDI",35940,"Diesel","automatic",52000,12
+"Mercedes-Benz"," New C-Class C 220 CDI Avantgarde",40368,"Diesel","automatic",26493,7
+"Mercedes-Benz"," E-Class 230 E AT",7800,"gasoline","automatic",77000,16
+"Mercedes-Benz"," E-Class E 200 CGI",26340,"gasoline","automatic",50319,11
+"Mercedes-Benz"," New C-Class C 200 Kompressor Elegance AT",34800,"gasoline","automatic",43627,17
+"Mercedes-Benz"," New C-Class 220 CDI AT",16800,"Diesel","automatic",22000,12
+"Mercedes-Benz"," GLC 220d Celebration Edition",48564,"Diesel","automatic",26192,7
+"Mercedes-Benz"," GLE 250d",58800,"Diesel","automatic",50000,8
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",16788,"Diesel","automatic",119000,12
+"Mercedes-Benz"," GLE 350d",72900,"Diesel","automatic",28541,8
+"Mercedes-Benz"," E-Class 2009-2013 E 220 CDI Avantgarde",18900,"Diesel","automatic",58000,11
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Elegance",29940,"Diesel","automatic",42000,10
+"Mercedes-Benz"," E-Class 2009-2013 E250 CDI Blue Efficiency",13800,"Diesel","automatic",67612,13
+"Mercedes-Benz"," CLA 200 CDI Sport",36360,"Diesel","automatic",20483,5
+"Mercedes-Benz"," CLA 200 CDI Sport",32400,"Diesel","automatic",39000,7
+"Mercedes-Benz"," E-Class 230",13800,"gasoline","automatic",100000,12
+"Mercedes-Benz"," New C-Class C 250 CDI Elegance",20700,"Diesel","automatic",57000,13
+"Mercedes-Benz"," CLA 200 D Sport Edition",30612,"Diesel","automatic",13500,9
+"Mercedes-Benz"," M-Class ML 350 CDI Corporate",17292,"Diesel","automatic",100000,13
+"Mercedes-Benz"," M-Class ML 350 CDI Corporate",26388,"Diesel","automatic",54000,13
+"Mercedes-Benz"," M-Class ML 350 4Matic",27600,"Diesel","automatic",66000,12
+"Mercedes-Benz"," New C-Class C250 Avantgarde",19200,"gasoline","automatic",60000,13
+"Mercedes-Benz"," R-Class R350 4Matic Long",28416,"gasoline","automatic",45710,10
+"Mercedes-Benz"," GLA Class 200 d Style",29352,"Diesel","automatic",26212,8
+"Mercedes-Benz"," E-Class Facelift",38100,"Diesel","automatic",28000,10
+"Mercedes-Benz"," S Class 2005 2013 S 350 CDI",25200,"Diesel","automatic",37000,14
+"Mercedes-Benz"," New C-Class C 200 Kompressor Elegance MT",12000,"gasoline","manual",34000,14
+"Mercedes-Benz"," New C-Class C 220 CDI BE Avantgare",42000,"Diesel","automatic",37944,8
+"Mercedes-Benz"," GLA Class 200 CDI SPORT",40800,"Diesel","automatic",16500,7
+"Mercedes-Benz"," E-Class 2009-2013 E 220 CDI Avantgarde",32400,"Diesel","automatic",60000,11
+"Mercedes-Benz"," CLA 200 D Sport Edition",44112,"Diesel","automatic",15976,5
+"Mercedes-Benz"," E-Class 280 CDI",13200,"Diesel","automatic",70000,17
+"Mercedes-Benz"," S Class 2005 2013 S 300 L",30000,"gasoline","automatic",80000,11
+"Mercedes-Benz"," GLA Class 200 CDI SPORT",21060,"Diesel","automatic",60000,8
+"Mercedes-Benz"," B Class B180",13200,"gasoline","automatic",30000,11
+"Mercedes-Benz"," E-Class 2009-2013 E350 Petrol",12288,"gasoline","automatic",43600,15
+"Mercedes-Benz"," E-Class 2015-2017 E250 Edition E",45576,"Diesel","automatic",41467,6
+"Mercedes-Benz"," B Class B180",13200,"gasoline","automatic",32000,11
+"Mercedes-Benz"," E-Class 2015-2017 E250 CDI Avantgarde",46512,"Diesel","automatic",41082,8
+"Mercedes-Benz"," GL-Class 350 CDI Blue Efficiency",45600,"Diesel","automatic",100000,11
+"Mercedes-Benz"," New C-Class C 220 CDI Elegance AT",12576,"Diesel","automatic",42408,13
+"Mercedes-Benz"," GL-Class 2007 2012 350 CDI Luxury",58200,"Diesel","automatic",48600,9
+"Mercedes-Benz"," E-Class 200 Kompressor Elegance",28800,"gasoline","automatic",40000,10
+"Mercedes-Benz"," C-Class Progressive C 220d",42000,"Diesel","automatic",4000,5
+"Mercedes-Benz"," New C-Class C 250 CDI Avantgarde",19368,"Diesel","automatic",92469,12
+"Mercedes-Benz"," R-Class R350 4Matic Long",18000,"gasoline","automatic",93000,14
+"Mercedes-Benz"," GLC 220",51960,"Diesel","automatic",50794,7
+"Mercedes-Benz"," New C-Class C 200 CGI",19200,"gasoline","automatic",33000,12
+"Mercedes-Benz"," E-Class 2015-2017 E250 CDI Avantgarde",43200,"Diesel","automatic",21000,8
+"Mercedes-Benz"," New C-Class 200 CDI Classic",18600,"Diesel","manual",79000,11
+"Mercedes-Benz"," New C-Class C 200 AVANTGARDE",17820,"gasoline","automatic",25000,11
+"Mercedes-Benz"," New C-Class C 250 CDI Elegance",19200,"Diesel","automatic",65000,12
+"Mercedes-Benz"," GLA Class 200 Sport",32112,"gasoline","automatic",17773,6
+"Mercedes-Benz"," New C-Class C 200 CGI Elegance",15900,"gasoline","automatic",63720,12
+"Mercedes-Benz"," M-Class ML 320 CDI",12900,"Diesel","automatic",102002,15
+"BMW"," 3 Series 320d",22260,"Diesel","automatic",32982,10
+"BMW"," 5 Series 2003-2012 525d",16680,"Diesel","automatic",75000,13
+"BMW"," 3 Series 320d Luxury Line",24900,"Diesel","automatic",56087,9
+"BMW"," 5 Series 2010-2013 525i",8400,"gasoline","automatic",128000,15
+"BMW"," 1 Series 118d Base",20664,"Diesel","automatic",31821,9
+"BMW"," 3 Series Luxury Line",31800,"Diesel","automatic",48000,10
+"BMW"," X5 xDrive 30d",54000,"Diesel","automatic",41000,9
+"BMW"," 5 Series 520d Luxury Line",40200,"Diesel","automatic",51000,10
+"BMW"," X1 sDrive20d",22200,"Diesel","automatic",82002,10
+"BMW"," X3 xDrive30d M Sport",54924,"Diesel","automatic",51982,7
+"BMW"," 5 Series 2003-2012 520d",33600,"Diesel","automatic",64000,9
+"BMW"," 6 Series 640d Gran Coupe",58800,"Diesel","automatic",30000,13
+"BMW"," 3 Series Luxury Line",31188,"Diesel","automatic",30717,9
+"BMW"," X5 3.0d",21300,"Diesel","automatic",90000,15
+"BMW"," 3 Series 320d Sedan",13200,"Diesel","automatic",89616,13
+"BMW"," 5 Series 525d Sedan",40200,"Diesel","automatic",56000,11
+"BMW"," 3 Series Luxury Line",30600,"Diesel","automatic",41000,9
+"BMW"," 5 Series 2003-2012 GT 530d LE",30984,"Diesel","automatic",57832,13
+"BMW"," 3 Series Luxury Line",43800,"Diesel","automatic",19235,8
+"BMW"," 5 Series 2003-2012 523i",16200,"gasoline","automatic",31000,13
+"BMW"," X5 xDrive 30d",33000,"Diesel","automatic",75000,13
+"BMW"," 3 Series 320i Sedan",12588,"gasoline","automatic",48394,14
+"BMW"," 5 Series 2003-2012 520d",22200,"Diesel","automatic",59900,12
+"BMW"," X1 sDrive 20d xLine",35280,"Diesel","automatic",31645,7
+"BMW"," 3 Series 320d Luxury Line",30600,"Diesel","automatic",47000,10
+"BMW"," X1 sDrive 20d Sportline",39600,"Diesel","automatic",21000,8
+"BMW"," X1 sDrive 20d Exclusive",16200,"Diesel","automatic",15200,12
+"BMW"," X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater",52800,"Diesel","automatic",19000,10
+"BMW"," 5 Series 2013-2017 530d M Sport",53472,"Diesel","automatic",20967,8
+"BMW"," 3 Series 320d Prestige",20100,"Diesel","automatic",37500,11
+"BMW"," 3 Series 320d",10800,"Diesel","automatic",137000,15
+"BMW"," 5 Series 2013-2017 520d Luxury Line",43008,"Diesel","automatic",19658,8
+"BMW"," 3 Series 320d Highline",28200,"Diesel","automatic",69330,10
+"BMW"," X5 xDrive 30d Design Pure Experience 5 Seater",64800,"Diesel","automatic",69000,9
+"BMW"," 3 Series 320d Corporate Edition",20400,"Diesel","automatic",38998,11
+"BMW"," 3 Series 320d Luxury Plus",29700,"Diesel","automatic",100000,9
+"BMW"," 3 Series 320d Luxury Line",23832,"Diesel","automatic",58390,9
+"BMW"," 3 Series 320d Luxury Line",42660,"Diesel","automatic",14351,8
+"BMW"," 5 Series 2003-2012 530d Highline",27948,"Diesel","automatic",108640,11
+"BMW"," 3 Series 320d M Sport",28788,"Diesel","automatic",38000,8
+"BMW"," X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater",49800,"Diesel","automatic",47000,10
+"BMW"," 3 Series 320d Highline",12600,"Diesel","automatic",99606,13
+"BMW"," X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater",69600,"Diesel","automatic",76000,8
+"BMW"," 5 Series 520d Luxury Line",21000,"Diesel","automatic",61240,12
+"BMW"," 3 Series 320d Sport Line",19800,"Diesel","automatic",21983,11
+"BMW"," 5 Series 2003-2012 520d",22800,"Diesel","automatic",76000,11
+"BMW"," 5 Series 2003-2012 530d Highline",9588,"Diesel","automatic",112500,16
+"BMW"," X1 sDrive 18i",11400,"gasoline","automatic",80000,12
+"BMW"," 3 Series 320d",13200,"Diesel","automatic",105000,14
+"BMW"," 5 Series 2010-2013 525i",13200,"gasoline","automatic",61000,16
+"BMW"," 5 Series 2013-2017 525d Luxury Line",33000,"Diesel","automatic",58500,11
+"BMW"," 7 Series 2007-2012 740Li",12900,"gasoline","automatic",66000,16
+"BMW"," 3 Series 320d Luxury Line",17400,"Diesel","automatic",62655,11
+"BMW"," 5 Series 2013-2017 530d M Sport",52800,"Diesel","automatic",16900,9
+"BMW"," 3 Series 320d Luxury Line",16800,"Diesel","automatic",65000,12
+"BMW"," 5 Series 2013-2017 520d Luxury Line",27600,"Diesel","automatic",35000,10
+"BMW"," 3 Series 328i Sport Line",22800,"gasoline","automatic",49000,11
+"BMW"," 5 Series 520d Luxury Line",29616,"Diesel","automatic",44450,12
+"BMW"," X1 M Sport sDrive 20d",35400,"Diesel","automatic",31000,8
+"BMW"," 5 Series 2003-2012 525d",19884,"Diesel","automatic",89000,13
+"BMW"," 3 Series 320d Luxury Line",16740,"Diesel","automatic",37613,11
+"BMW"," 7 Series 730Ld",23400,"Diesel","automatic",55000,13
+"BMW"," 3 Series 320d Sport Line",36000,"Diesel","automatic",10000,9
+"BMW"," 5 Series 520d Sport Line",55032,"Diesel","automatic",18373,5
+"BMW"," 3 Series 320d Luxury Line",26400,"Diesel","automatic",30000,11
+"BMW"," X1 sDrive20d",17388,"Diesel","automatic",49000,11
+"BMW"," X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater",52536,"Diesel","automatic",35659,8
+"BMW"," 5 Series 523i Sedan",15000,"gasoline","automatic",69300,14
+"BMW"," 3 Series 320d Highline",9600,"Diesel","automatic",58557,15
+"BMW"," 3 Series 320d Sport Line",21600,"Diesel","automatic",57156,12
+"BMW"," X3 xDrive20d",34548,"Diesel","automatic",41089,10
+"BMW"," X1 sDrive 20d Exclusive",16500,"Diesel","automatic",102000,13
+"BMW"," X1 M Sport sDrive 20d",36348,"Diesel","automatic",32838,7
+"BMW"," 5 Series 520d Luxury Line",44760,"Diesel","automatic",32586,6
+"BMW"," X1 sDrive20d",13140,"Diesel","automatic",62943,13
+"BMW"," 3 Series 320d GT Luxury Line",32100,"Diesel","automatic",32500,9
+"BMW"," 3 Series 320d Sport Line",22800,"Diesel","automatic",69123,9
+"BMW"," X6 xDrive 40d",57600,"Diesel","automatic",58000,11
+"BMW"," 5 Series 2013-2017 520d Luxury Line",36960,"Diesel","automatic",63111,8
+"BMW"," 3 Series 330i",16944,"gasoline","automatic",75871,13
+"BMW"," 3 Series 320d Highline",15300,"Diesel","automatic",83000,14
+"BMW"," X1 xDrive 20d xLine",33300,"Diesel","automatic",7000,8
+"BMW"," 3 Series 320d",13080,"Diesel","automatic",100000,13
+"BMW"," 5 Series 2013-2017 520d Luxury Line",48600,"Diesel","automatic",19543,7
+"BMW"," 5 Series 2007-2010 525d Sedan",18600,"Diesel","automatic",49000,12
+"BMW"," 5 Series 2013-2017 530d M Sport",58356,"Diesel","automatic",27313,7
+"BMW"," X1 sDrive 20d xLine",26688,"Diesel","automatic",42265,9
+"BMW"," X5 xDrive 30d",25200,"Diesel","automatic",66000,12
+"BMW"," 7 Series 740Li",112404,"gasoline","automatic",28060,6
+"BMW"," 7 Series 740Li",111600,"gasoline","automatic",17465,7
+"BMW"," 3 Series 320d Sport",25920,"Diesel","automatic",48000,10
+"BMW"," X1 sDrive 20d xLine",34200,"Diesel","automatic",28143,8
+"BMW"," 7 Series 730Ld Eminence",52320,"Diesel","automatic",29966,9
+"BMW"," X3 xDrive20d Expedition",34800,"Diesel","automatic",65000,9
+"BMW"," 6 Series 640d Coupe",54000,"Diesel","automatic",30000,11
+"BMW"," 3 Series 2005-2011 325i Sedan",13524,"gasoline","automatic",77849,14
+"BMW"," 3 Series 2005-2011 325i Sedan",12360,"gasoline","automatic",70521,15
+"BMW"," 3 Series 320d Sedan",9300,"Diesel","automatic",51000,14
+"BMW"," 5 Series 523i Sedan",15540,"gasoline","automatic",74000,14
+"BMW"," 5 Series 2013-2017 520d M Sport",55200,"Diesel","automatic",7000,6
+"BMW"," 5 Series 2003-2012 520d",23400,"Diesel","automatic",78000,11
+"BMW"," 5 Series 520d Luxury Line",21000,"Diesel","automatic",95000,12
+"BMW"," X6 xDrive30d",51000,"Diesel","automatic",45306,11
+"BMW"," 1 Series 118d Sport Line",20400,"Diesel","automatic",51000,11
+"BMW"," X1 sDrive 20d Sportline",27588,"Diesel","automatic",49000,9
+"BMW"," X5 xDrive 30d",65340,"Diesel","automatic",17738,8
+"BMW"," X5 xDrive 30d M Sport",78000,"Diesel","automatic",6500000,7
+"BMW"," 3 Series 320d",18000,"Diesel","automatic",88000,12
+"BMW"," 3 Series 320d",21588,"Diesel","automatic",25000,11
+"BMW"," 5 Series 520d Luxury Line",26100,"Diesel","automatic",55000,11
+"BMW"," X3 xDrive20d",21000,"Diesel","automatic",108000,12
+"BMW"," 3 Series 320d M Sport",40392,"Diesel","automatic",23806,7
+"BMW"," 3 Series 320i Sedan",12588,"gasoline","automatic",59660,14
+"BMW"," 3 Series 320d Luxury Line",25200,"Diesel","automatic",18600,10
+"BMW"," 6 Series Gran Coupe",52800,"Diesel","automatic",21000,11
+"BMW"," 5 Series 2013-2017 520d Luxury Line",41412,"Diesel","automatic",44001,8
+"BMW"," 5 Series 520d Sedan",21468,"Diesel","automatic",64158,10
+"BMW"," 3 Series 320d",23400,"Diesel","automatic",58000,11
+"BMW"," 3 Series 318i Sedan",18000,"gasoline","automatic",39000,12
+"BMW"," X6 xDrive 40d M Sport",72000,"Diesel","automatic",25000,8
+"BMW"," X1 sDrive 20d Exclusive",15300,"Diesel","automatic",65148,12
+"BMW"," 5 Series 2013-2017 520d Luxury Line",37800,"Diesel","automatic",30000,8
+"BMW"," 3 Series 320d Prestige",21060,"Diesel","automatic",70000,10
+"BMW"," 5 Series 520d Sedan",21600,"Diesel","automatic",95000,12
+"BMW"," X5 3.0d",22152,"Diesel","automatic",101119,14
+"BMW"," 3 Series 320d",12360,"Diesel","automatic",70000,13
+"BMW"," 5 Series 520d Luxury Line",23400,"Diesel","automatic",90000,11
+"BMW"," 7 Series 730Ld Sedan",41448,"Diesel","automatic",73525,11
+"BMW"," X5 X5 M",60000,"Diesel","automatic",69002,9
+"BMW"," 3 Series 2005-2011 325i Sedan",10800,"gasoline","automatic",43706,13
+"BMW"," 3 Series 320d Sport Line",33600,"Diesel","automatic",24000,6
+"BMW"," X3 xDrive 20d Luxury Line",21576,"Diesel","automatic",58000,15
+"BMW"," X3 xDrive20d xLine",39168,"Diesel","automatic",36935,7
+"BMW"," 5 Series 2013-2017 520d Luxury Line",42000,"Diesel","automatic",14000,9
+"BMW"," 5 Series 2003-2012 520d",18000,"Diesel","automatic",79000,15
+"BMW"," 3 Series 320d",11904,"Diesel","automatic",103905,15
+"BMW"," 5 Series 2003-2012 520d",18600,"Diesel","automatic",95995,13
+"BMW"," 3 Series 320d Highline",12600,"Diesel","automatic",64000,13
+"BMW"," X3 xDrive20d Advantage Edition",20400,"Diesel","automatic",51001,12
+"BMW"," 3 Series 320d Luxury Line",34140,"Diesel","automatic",55389,7
+"BMW"," 3 Series 320d",12828,"Diesel","automatic",73336,14
+"BMW"," X5 3.0d",21300,"Diesel","automatic",90000,15
+"BMW"," 5 Series 2013-2017 530d M Sport",57240,"Diesel","automatic",19254,8
+"BMW"," 3 Series 320d Sport",18000,"Diesel","automatic",37000,12
+"BMW"," 3 Series 320d",25188,"Diesel","automatic",48183,11
+"BMW"," 3 Series 320d Luxury Line",8004,"Diesel","automatic",87000,5
+"BMW"," 3 Series 320d",15696,"Diesel","automatic",85846,11
+"BMW"," X1 sDrive 20d Sportline",25800,"Diesel","automatic",45000,10
+"BMW"," 7 Series 730Ld Design Pure Excellence CBU",31800,"Diesel","automatic",41100,12
+"BMW"," 5 Series 520d Sedan",12600,"Diesel","automatic",81000,16
+"BMW"," 7 Series 2007-2012 750Li",31116,"gasoline","automatic",50161,14
+"BMW"," X1 sDrive20d",21000,"Diesel","automatic",43000,11
+"BMW"," 3 Series 320d Highline",10200,"Diesel","automatic",61500,15
+"BMW"," X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater",51600,"Diesel","automatic",29500,9
+"BMW"," X1 sDrive20d",13800,"Diesel","automatic",22000,12
+"BMW"," 3 Series 320d",11100,"Diesel","automatic",67000,14
+"BMW"," 5 Series 2003-2012 530d",54876,"Diesel","automatic",18090,8
+"BMW"," 3 Series 320d Highline",11700,"Diesel","automatic",170000,16
+"BMW"," 5 Series 520d Luxury Line",25512,"Diesel","automatic",65000,11
+"BMW"," 5 Series 520d Sedan",17400,"Diesel","automatic",90000,12
+"BMW"," 3 Series 320d Highline",15000,"Diesel","automatic",74000,13
+"BMW"," X1 sDrive20d",16200,"Diesel","automatic",63000,12
+"BMW"," 3 Series Luxury Line",42000,"Diesel","automatic",27000,8
+"BMW"," 5 Series 2013-2017 530d M Sport",38100,"Diesel","automatic",65266,9
+"BMW"," X6 xDrive30d",26280,"Diesel","automatic",59000,13
+"BMW"," 5 Series 2013-2017 520d Luxury Line",36540,"Diesel","automatic",76467,8
+"BMW"," 3 Series 320d Sport Line",22200,"Diesel","automatic",69000,12
+"BMW"," 5 Series 530d Highline Sedan",21600,"Diesel","automatic",68000,14
+"BMW"," 5 Series 520d Luxury Line",19800,"Diesel","automatic",46000,14
+"BMW"," 3 Series Luxury Line",35940,"Diesel","automatic",31000,8
+"BMW"," 3 Series 320d",17040,"Diesel","automatic",80000,14
+"BMW"," X1 sDrive20d",13800,"Diesel","automatic",66000,12
+"BMW"," 3 Series 320d Prestige",27300,"Diesel","automatic",56000,9
+"BMW"," X1 sDrive 20d Exclusive",20400,"Diesel","automatic",54385,10
+"BMW"," 3 Series 320d",13800,"Diesel","automatic",55598,12
+"BMW"," 3 Series 320d Luxury Line",23400,"Diesel","automatic",38000,11
+"BMW"," 3 Series 320d Corporate Edition",10500,"Diesel","automatic",76000,12
+"BMW"," X1 sDrive20d",19500,"Diesel","automatic",69000,10
+"BMW"," X3 xDrive20d",28800,"Diesel","automatic",52000,12
+"BMW"," X1 sDrive20d",34200,"Diesel","automatic",45000,8
+"BMW"," 5 Series 520d Luxury Line",26940,"Diesel","automatic",60280,10
+"BMW"," X5 xDrive 30d M Sport",68400,"Diesel","automatic",45000,8
+"BMW"," 3 Series 320d Sport",18360,"Diesel","automatic",58000,12
+"BMW"," 7 Series 730Ld Sedan",37200,"Diesel","automatic",58000,14
+"BMW"," X6 xDrive30d",48792,"Diesel","automatic",39626,10
+"BMW"," X1 xDrive 20d M Sport",34800,"Diesel","automatic",27001,7
+"BMW"," 3 Series 320i Sedan",11700,"gasoline","automatic",7000,13
+"BMW"," 6 Series Gran Coupe",82728,"Diesel","automatic",20004,6
+"BMW"," 7 Series 730Ld",62400,"Diesel","automatic",35000,10
+"BMW"," X5 xDrive 30d",26388,"Diesel","automatic",124652,13
+"BMW"," 3 Series GT 320d Luxury Line",39600,"Diesel","automatic",36255,9
+"BMW"," X5 xDrive 30d",32400,"Diesel","automatic",58000,13
+"BMW"," 5 Series 530i Sedan",10500,"gasoline","automatic",24000,14
+"BMW"," 3 Series 320i",11400,"gasoline","automatic",40000,15
+"BMW"," 3 Series 320d Sport Line",23880,"Diesel","automatic",23000,10
+"BMW"," 3 Series 320d Highline",16200,"Diesel","automatic",58000,15
+"BMW"," 3 Series 320d",12600,"Diesel","automatic",51000,13
+"BMW"," 5 Series 520d Luxury Line",20724,"Diesel","automatic",51602,13
+"BMW"," 3 Series 320d Sedan",11100,"Diesel","automatic",74199,17
+"BMW"," 3 Series Luxury Line",32400,"Diesel","automatic",70000,8
+"BMW"," 3 Series 320d GT Luxury Line",40500,"Diesel","automatic",8000,7
+"BMW"," 5 Series 520d Sedan",16620,"Diesel","automatic",72000,12
+"BMW"," X1 sDrive 20d xLine",43968,"Diesel","automatic",15456,5
+"BMW"," X5 3.0d",22500,"Diesel","automatic",150000,15
+"BMW"," X5 X5 M",84000,"Diesel","automatic",15000,7
+"BMW"," 5 Series 525d Sedan",31800,"Diesel","automatic",93000,11
+"BMW"," 6 Series 650i Coupe",24864,"gasoline","automatic",65329,14
+"BMW"," 1 Series 118d Base",19200,"Diesel","automatic",46001,9
+"BMW"," X1 sDrive20d",12000,"Diesel","automatic",85000,12
+"BMW"," 3 Series 320d Sedan",8640,"Diesel","automatic",78000,16
+"BMW"," X3 xDrive30d M Sport",54000,"Diesel","automatic",49000,8
+"BMW"," 7 Series 2007-2012 730Ld",43200,"Diesel","automatic",53000,15
+"BMW"," 3 Series Luxury Line",45504,"Diesel","automatic",21936,6
+"BMW"," X5 3.0d",21600,"Diesel","automatic",110000,15
+"BMW"," 5 Series 2003-2012 540i Sedan",8388,"gasoline","automatic",48000,18
+"BMW"," X5 xDrive 30d",24000,"Diesel","automatic",110000,15
+"BMW"," 6 Series 630i Coupe",57000,"gasoline","automatic",5900,13
+"BMW"," 3 Series 320d",16740,"Diesel","automatic",89000,13
+"BMW"," X1 sDrive20d",15000,"Diesel","automatic",94000,12
+"BMW"," X3 xDrive20d xLine",39336,"Diesel","automatic",41816,7
+"BMW"," Z4 2009-2013 Roadster 2.5i",70248,"gasoline","automatic",9952,6
+"BMW"," X5 xDrive 30d",33600,"Diesel","automatic",55000,13
+"BMW"," 3 Series 320d Prestige",18000,"Diesel","automatic",71000,11
+"BMW"," 5 Series 2003-2012 525d",23988,"Diesel","automatic",101999,13
+"BMW"," 5 Series 530d M Sport",57600,"Diesel","automatic",27000,8
+"BMW"," X3 xDrive20d",50100,"Diesel","automatic",45165,8
+"BMW"," 5 Series 2003-2012 525d",12600,"Diesel","automatic",120000,17
+"BMW"," X3 xDrive 20d xLine",39084,"Diesel","automatic",36723,7
+"BMW"," 3 Series 330 Ci Convertible",37200,"gasoline","automatic",31000,13
+"BMW"," 3 Series 320d Dynamic",9540,"Diesel","automatic",81308,16
+"BMW"," 5 Series 530d M Sport",14100,"Diesel","automatic",58000,14
+"BMW"," 3 Series 330d Convertible",34800,"Diesel","automatic",49000,11
+"BMW"," 3 Series 320d",15000,"Diesel","automatic",73000,12
+"BMW"," 5 Series 2010-2013 530d",30864,"Diesel","automatic",40471,12
+"BMW"," 3 Series 320d Highline",8700,"Diesel","automatic",66000,16
+"BMW"," 3 Series 320d Corporate Edition",7560,"Diesel","automatic",89000,16
+"BMW"," Z4 2009-2013 35i",36000,"gasoline","automatic",25000,13
+"BMW"," X1 sDrive20d",13200,"Diesel","automatic",72000,13
+"BMW"," 3 Series Luxury Line",42000,"Diesel","automatic",21000,7
+"BMW"," 3 Series 320d Luxury Line",35400,"Diesel","automatic",47000,9
+"BMW"," X1 sDrive 20d Exclusive",12000,"Diesel","automatic",115000,12
+"BMW"," 3 Series 320d",9000,"Diesel","automatic",52100,15
+"BMW"," 5 Series 2013-2017 520d Luxury Line",36600,"Diesel","automatic",32000,10
+"BMW"," X3 xDrive 20d Expedition",21000,"Diesel","automatic",98000,11
+"BMW"," 5 Series 2003-2012 520d",14400,"Diesel","automatic",170000,14
+"BMW"," 3 Series Sport",35988,"Diesel","automatic",19000,8
+"BMW"," 3 Series 320d",13800,"Diesel","automatic",58000,14
+"BMW"," 7 Series 730Ld Sedan",11400,"Diesel","automatic",75000,17
+"BMW"," X3 xDrive 20d Luxury Line",73500,"Diesel","automatic",1400,6
+"BMW"," X6 xDrive 40d M Sport",102000,"Diesel","automatic",97003,9
+"BMW"," 5 Series 2013-2017 530d M Sport",32400,"Diesel","automatic",88000,10
+"BMW"," 5 Series 520d Luxury Line",36444,"Diesel","automatic",75637,8
+"BMW"," 3 Series 320d Luxury Line",25596,"Diesel","automatic",62404,8
+"BMW"," 3 Series Luxury Line",43008,"Diesel","automatic",34232,7
+"BMW"," X1 sDrive 20d Sportline",16200,"Diesel","automatic",56683,11
+"BMW"," 5 Series 2013-2017 520d Luxury Line",29700,"Diesel","automatic",40714,11
+"BMW"," X1 xDrive 20d xLine",34500,"Diesel","automatic",23000,7
+"BMW"," 5 Series 520d Sport Line",51300,"Diesel","automatic",16485,7
+"BMW"," 3 Series 320i Sedan",11832,"gasoline","automatic",70749,14
+"BMW"," 7 Series 730Ld",54000,"Diesel","automatic",38000,11
+"BMW"," X1 xDrive 20d xLine",35160,"Diesel","automatic",30733,6
+"BMW"," X5 xDrive 30d M Sport",66000,"Diesel","automatic",21000,7
+"BMW"," 3 Series 320d Prestige",26400,"Diesel","automatic",30000,9
+"BMW"," 6 Series Gran Coupe",54000,"Diesel","automatic",30000,11
+"BMW"," 5 Series 525d Sedan",25200,"Diesel","automatic",35000,11
+"BMW"," 3 Series 330d Convertible",35424,"Diesel","automatic",51240,10
+"BMW"," 5 Series 2013-2017 530d M Sport",57600,"Diesel","automatic",16000,8

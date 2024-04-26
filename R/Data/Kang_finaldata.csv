@@ -1,0 +1,1876 @@
+"car_brand","car_model","car_price","car_fuel","car_transmission","car_mileage","car_age"
+"Hyundai"," Creta",15000,"Diesel","manual",41000,9
+"Hyundai","i20",2244,"gasoline","manual",45807,14
+"Hyundai","i20",5688,"gasoline","manual",35487,10
+"Hyundai"," Elantra",10620,"gasoline","automatic",46374,10
+"Hyundai"," Elantra",5100,"Diesel","manual",58005,16
+"Hyundai"," Xcent",4620,"Diesel","manual",75000,10
+"Hyundai"," Grand",4320,"gasoline","manual",54000,9
+"Hyundai"," i10",2484,"gasoline","manual",32000,14
+"Hyundai"," Creta",12600,"Diesel","manual",13000,6
+"Hyundai"," i10",4176,"gasoline","automatic",45178,12
+"Hyundai"," i10",2700,"gasoline","manual",95980,15
+"Hyundai"," Grand",6900,"gasoline","manual",16000,8
+"Hyundai"," Verna",4140,"Diesel","manual",70002,14
+"Hyundai","i20",4560,"Diesel","manual",78958,13
+"Hyundai","i20",5580,"gasoline","manual",30180,10
+"Hyundai","i20",3240,"gasoline","manual",66000,15
+"Hyundai"," Verna",6300,"Diesel","automatic",40000,10
+"Hyundai"," Verna",13140,"Diesel","manual",10250,6
+"Hyundai"," Verna",13800,"gasoline","automatic",12645,5
+"Hyundai"," EON",5076,"gasoline","manual",14322,5
+"Hyundai"," i10",3300,"gasoline","manual",60000,11
+"Hyundai"," Grand",7800,"gasoline","manual",1000,5
+"Hyundai","i20",10020,"Diesel","manual",29000,10
+"Hyundai"," Verna",5520,"Diesel","manual",62000,12
+"Hyundai"," i10",4848,"gasoline","manual",52340,7
+"Hyundai"," i10",4260,"gasoline","manual",43571,9
+"Hyundai","i20",7200,"gasoline","manual",61012,8
+"Hyundai"," Verna",5700,"Diesel","manual",117837,12
+"Hyundai"," Creta",9780,"gasoline","manual",27057,9
+"Hyundai"," i10",3480,"gasoline","manual",44000,12
+"Hyundai","i20",9864,"gasoline","manual",25166,6
+"Hyundai"," Santa Fe",8400,"Diesel","automatic",67000,13
+"Hyundai","i20",7524,"gasoline","manual",14960,6
+"Hyundai","i20",8640,"Diesel","manual",56847,9
+"Hyundai"," Grand",5700,"Diesel","manual",33000,7
+"Hyundai"," Accent",2160,"Diesel","manual",160538,18
+"Hyundai"," i10",2100,"gasoline","manual",83000,14
+"Hyundai"," Tucson",26388,"Diesel","automatic",51346,6
+"Hyundai"," Grand",4500,"gasoline","manual",16514,10
+"Hyundai"," Verna",3120,"Diesel","manual",143275,16
+"Hyundai","i20",3360,"gasoline","manual",52000,14
+"Hyundai"," Creta",16500,"Diesel","manual",28000,8
+"Hyundai"," i10",3900,"gasoline","manual",36000,14
+"Hyundai"," Verna",5136,"gasoline","manual",54308,12
+"Hyundai","i20",3732,"Diesel","manual",46000,11
+"Hyundai","i20",7152,"gasoline","automatic",45051,10
+"Hyundai"," i10",3720,"gasoline","manual",74000,14
+"Hyundai"," i10",3360,"gasoline","manual",45275,12
+"Hyundai","i20",6600,"Diesel","manual",83000,12
+"Hyundai"," i10",3540,"gasoline","automatic",37000,15
+"Hyundai","i20",3960,"gasoline","manual",79152,13
+"Hyundai","i20",9192,"gasoline","manual",24973,8
+"Hyundai"," EON",4260,"gasoline","manual",27904,8
+"Hyundai"," Verna",6300,"Diesel","manual",80000,12
+"Hyundai"," i10",3240,"gasoline","manual",620000,15
+"Hyundai"," Grand",6924,"gasoline","automatic",37081,9
+"Hyundai"," Xcent",4800,"Diesel","manual",74310,9
+"Hyundai"," Verna",3000,"gasoline","manual",95000,14
+"Hyundai"," EON",3900,"gasoline","manual",37000,10
+"Hyundai"," Verna",5940,"gasoline","manual",49768,13
+"Hyundai"," Accent",960,"gasoline","manual",5834,19
+"Hyundai","i20",8280,"gasoline","manual",40250,7
+"Hyundai"," EON",2700,"gasoline","manual",20800,9
+"Hyundai"," Grand",6600,"gasoline","manual",40322,6
+"Hyundai"," Creta",14436,"gasoline","manual",23163,7
+"Hyundai"," EON",4872,"gasoline","manual",13102,6
+"Hyundai"," EON",3120,"gasoline","manual",20600,10
+"Hyundai"," Creta",16524,"gasoline","automatic",29952,7
+"Hyundai","i20",9576,"gasoline","manual",26185,7
+"Hyundai","i20",8640,"gasoline","manual",6800,8
+"Hyundai"," Xcent",6300,"Diesel","manual",51000,8
+"Hyundai"," Grand",5520,"Diesel","manual",14000,7
+"Hyundai"," Santro",2664,"gasoline","manual",46000,16
+"Hyundai"," Grand",5400,"gasoline","manual",27000,9
+"Hyundai"," Verna",5760,"Diesel","manual",37873,11
+"Hyundai"," Creta",18600,"Diesel","automatic",32000,8
+"Hyundai"," i10",2784,"gasoline","manual",59000,14
+"Hyundai"," Grand",5760,"gasoline","manual",8500,7
+"Hyundai"," Santro",2760,"gasoline","manual",80227,15
+"Hyundai"," Creta",16272,"gasoline","manual",8587,5
+"Hyundai"," Creta",9600,"gasoline","manual",69434,8
+"Hyundai"," Santa Fe",10032,"Diesel","manual",65278,11
+"Hyundai","i20",8100,"Diesel","manual",43900,10
+"Hyundai"," Verna",9972,"Diesel","automatic",77240,5
+"Hyundai","i20",7380,"gasoline","manual",42362,8
+"Hyundai","i20",6900,"gasoline","manual",59000,9
+"Hyundai"," Verna",6960,"Diesel","manual",72000,12
+"Hyundai"," Verna",12840,"Diesel","manual",38056,7
+"Hyundai"," Xcent",5220,"gasoline","manual",7400,10
+"Hyundai"," EON",3480,"gasoline","manual",68764,9
+"Hyundai"," EON",4740,"gasoline","manual",14077,8
+"Hyundai","i20",5580,"Diesel","manual",67407,10
+"Hyundai","i20",4200,"gasoline","manual",48454,11
+"Hyundai"," Xcent",6144,"gasoline","manual",28360,7
+"Hyundai"," i10",3180,"gasoline","manual",25000,11
+"Hyundai"," Verna",11028,"Diesel","manual",37882,8
+"Hyundai","i20",3360,"Diesel","manual",47000,15
+"Hyundai"," Grand",4980,"Diesel","manual",64000,10
+"Hyundai"," Verna",1800,"Diesel","manual",170000,16
+"Hyundai","i20",7560,"gasoline","manual",21000,8
+"Hyundai"," i10",2760,"gasoline","manual",80400,16
+"Hyundai"," Verna",6300,"Diesel","manual",75200,12
+"Hyundai","i20",7800,"Diesel","manual",86157,9
+"Hyundai","i20",4920,"gasoline","manual",64000,15
+"Hyundai"," EON",5256,"gasoline","manual",36700,8
+"Hyundai"," i10",3300,"gasoline","manual",35000,13
+"Hyundai"," Grand",6768,"gasoline","manual",74515,7
+"Hyundai"," Verna",9456,"gasoline","manual",37688,7
+"Hyundai"," Xcent",5640,"gasoline","manual",41721,9
+"Hyundai","i20",3900,"gasoline","manual",67714,14
+"Hyundai"," Verna",3720,"gasoline","manual",51000,14
+"Hyundai"," Grand",5880,"Diesel","manual",14000,7
+"Hyundai"," Accent",2400,"gasoline","manual",72000,16
+"Hyundai"," i10",6096,"gasoline","automatic",41016,10
+"Hyundai"," Verna",7500,"Diesel","manual",67000,12
+"Hyundai"," Creta",13080,"gasoline","manual",21000,8
+"Hyundai"," Verna",6240,"Diesel","manual",98000,13
+"Hyundai","i20",7020,"gasoline","manual",19500,6
+"Hyundai"," Verna",6720,"gasoline","manual",67000,10
+"Hyundai","i20",7620,"gasoline","manual",11000,6
+"Hyundai"," Verna",5400,"gasoline","manual",35000,11
+"Hyundai"," i10",5460,"gasoline","manual",21456,8
+"Hyundai","i20",6300,"gasoline","manual",37000,9
+"Hyundai","i20",8568,"gasoline","manual",58620,7
+"Hyundai","i20",4200,"gasoline","manual",71172,12
+"Hyundai","i20",8760,"Diesel","manual",12000,7
+"Hyundai","i20",9840,"Diesel","manual",43000,7
+"Hyundai"," Grand",5496,"Diesel","manual",52625,8
+"Hyundai"," i10",4908,"gasoline","manual",60138,10
+"Hyundai"," Verna",6840,"Diesel","automatic",66000,11
+"Hyundai"," Santro",2100,"gasoline","manual",31000,11
+"Hyundai"," Verna",8532,"Diesel","manual",72996,9
+"Hyundai","i20",9324,"gasoline","manual",15985,6
+"Hyundai","i20",6420,"gasoline","manual",70089,10
+"Hyundai"," Grand",6684,"gasoline","automatic",61717,9
+"Hyundai"," Xcent",7080,"Diesel","manual",25302,6
+"Hyundai"," Creta",11316,"gasoline","manual",47016,8
+"Hyundai"," i10",3480,"gasoline","manual",69000,14
+"Hyundai"," i10",3120,"gasoline","manual",66770,14
+"Hyundai"," i10",4092,"gasoline","manual",58472,10
+"Hyundai"," EON",4500,"gasoline","manual",23360,7
+"Hyundai"," Creta",11100,"Diesel","manual",43000,9
+"Hyundai"," Creta",16260,"Diesel","manual",63770,7
+"Hyundai"," Elantra",10128,"Diesel","manual",53615,9
+"Hyundai"," Verna",8640,"Diesel","manual",82966,11
+"Hyundai","i20",4380,"gasoline","manual",71000,11
+"Hyundai","i20",4440,"Diesel","manual",71000,12
+"Hyundai"," Xcent",5820,"gasoline","manual",48163,8
+"Hyundai"," Grand",8316,"gasoline","automatic",19168,7
+"Hyundai"," i10",2160,"gasoline","manual",84000,16
+"Hyundai"," Accent",1440,"gasoline","manual",47300,20
+"Hyundai","i20",3960,"gasoline","manual",41980,13
+"Hyundai"," Accent",3000,"gasoline","manual",58000,14
+"Hyundai"," Santro",1740,"gasoline","manual",93000,16
+"Hyundai"," Grand",5400,"gasoline","automatic",37632,10
+"Hyundai"," Verna",6444,"gasoline","automatic",54957,12
+"Hyundai","i20",7440,"Diesel","manual",26000,9
+"Hyundai","i20",2700,"gasoline","manual",18000,14
+"Hyundai"," Verna",8100,"Diesel","manual",63003,10
+"Hyundai","i20",6600,"Diesel","manual",67000,10
+"Hyundai"," Xcent",8388,"Diesel","manual",14656,8
+"Hyundai"," Xcent",4200,"Diesel","manual",80000,8
+"Hyundai"," Grand",7056,"gasoline","manual",44178,8
+"Hyundai","i20",5520,"gasoline","manual",35000,9
+"Hyundai"," Santro",2940,"gasoline","manual",58163,14
+"Hyundai"," i10",2640,"gasoline","manual",51000,12
+"Hyundai"," i10",2304,"gasoline","manual",43002,15
+"Hyundai"," Grand",3840,"gasoline","manual",29000,11
+"Hyundai","i20",4176,"Diesel","manual",93401,14
+"Hyundai","i20",3900,"gasoline","manual",61000,14
+"Hyundai"," Creta",10524,"gasoline","manual",36855,8
+"Hyundai"," i10",4104,"gasoline","manual",46821,11
+"Hyundai"," i10",4140,"gasoline","automatic",64984,13
+"Hyundai"," EON",4380,"gasoline","manual",17729,11
+"Hyundai"," Verna",7212,"Diesel","manual",89614,10
+"Hyundai","i20",4800,"gasoline","manual",50000,12
+"Hyundai"," Verna",6420,"Diesel","manual",94900,12
+"Hyundai"," Verna",7740,"gasoline","manual",52001,8
+"Hyundai"," EON",3000,"gasoline","manual",18000,10
+"Hyundai","i20",8220,"Diesel","manual",33016,8
+"Hyundai"," i10",3588,"gasoline","automatic",60000,15
+"Hyundai"," Grand",6048,"Diesel","manual",57738,8
+"Hyundai"," Grand",6000,"gasoline","manual",8471,7
+"Hyundai"," Grand",7176,"gasoline","manual",20000,7
+"Hyundai"," Grand",5724,"gasoline","manual",50234,6
+"Hyundai"," Xcent",4320,"gasoline","manual",32000,8
+"Hyundai","i20",3600,"gasoline","manual",65000,14
+"Hyundai"," i10",3720,"gasoline","manual",46230,11
+"Hyundai","i20",7800,"gasoline","manual",5000,6
+"Hyundai"," Verna",8640,"gasoline","automatic",40600,9
+"Hyundai"," Verna",7080,"Diesel","automatic",87000,11
+"Hyundai"," i10",2340,"gasoline","manual",27089,14
+"Hyundai"," Verna",13920,"gasoline","automatic",16100,7
+"Hyundai"," Xcent",4800,"Diesel","manual",170000,8
+"Hyundai"," i10",2520,"gasoline","manual",62500,15
+"Hyundai","i20",5580,"Diesel","manual",12400,10
+"Hyundai"," Creta",17784,"Diesel","manual",52383,7
+"Hyundai"," i10",4644,"gasoline","manual",16900,9
+"Hyundai"," i10",3300,"gasoline","manual",62334,11
+"Hyundai"," Accent",2400,"gasoline","manual",52325,14
+"Hyundai"," Xcent",6600,"gasoline","manual",54000,10
+"Hyundai","i20",7740,"Diesel","manual",46950,9
+"Hyundai"," Grand",6480,"gasoline","manual",17125,7
+"Hyundai","i20",2760,"gasoline","manual",18000,14
+"Hyundai"," Grand",7188,"Diesel","manual",35070,6
+"Hyundai"," i10",2040,"gasoline","manual",40000,15
+"Hyundai","i20",2388,"gasoline","manual",43000,15
+"Hyundai"," Grand",5880,"gasoline","automatic",29631,9
+"Hyundai","i20",4404,"gasoline","manual",63777,11
+"Hyundai"," Grand",4188,"Diesel","manual",45000,10
+"Hyundai"," Verna",2280,"Diesel","manual",121097,16
+"Hyundai"," i10",5268,"gasoline","automatic",61517,10
+"Hyundai","i20",5796,"Diesel","manual",66823,9
+"Hyundai","i20",5400,"Diesel","manual",107000,12
+"Hyundai"," Xcent",5988,"gasoline","manual",10200,8
+"Hyundai"," Santro",3336,"gasoline","manual",20842,13
+"Hyundai"," Santa Fe",17280,"Diesel","automatic",110000,10
+"Hyundai"," Grand",9060,"gasoline","automatic",20667,6
+"Hyundai"," Grand",7404,"gasoline","manual",18453,5
+"Hyundai"," Verna",3000,"Diesel","manual",96578,16
+"Hyundai"," Verna",6900,"Diesel","manual",65900,12
+"Hyundai"," Creta",12900,"gasoline","manual",26246,7
+"Hyundai","i20",5280,"Diesel","manual",46566,10
+"Hyundai"," Getz",2160,"Diesel","manual",97359,15
+"Hyundai"," Verna",5136,"Diesel","manual",70707,12
+"Hyundai"," Grand",7440,"gasoline","automatic",3000,6
+"Hyundai"," i10",2700,"gasoline","manual",52000,14
+"Hyundai"," Verna",7200,"Diesel","manual",75000,11
+"Hyundai","i20",7464,"gasoline","manual",18673,7
+"Hyundai"," EON",3300,"gasoline","manual",11583,8
+"Hyundai"," Verna",9612,"Diesel","automatic",44875,8
+"Hyundai","i20",6060,"gasoline","manual",42575,9
+"Hyundai"," Verna",9000,"gasoline","manual",89000,9
+"Hyundai","i20",3900,"gasoline","automatic",72000,15
+"Hyundai"," Elite",10692,"gasoline","manual",13460,7
+"Hyundai"," Verna",8028,"gasoline","automatic",35642,10
+"Hyundai"," Elantra",19620,"gasoline","automatic",9500,7
+"Hyundai","i20",3540,"Diesel","manual",37000,13
+"Hyundai"," Creta",15000,"Diesel","automatic",55000,8
+"Hyundai","i20",6600,"gasoline","manual",42365,10
+"Hyundai"," i10",3600,"gasoline","manual",49000,12
+"Hyundai"," Verna",6240,"gasoline","manual",48000,10
+"Hyundai"," Creta",11820,"gasoline","manual",68000,8
+"Hyundai"," Verna",4500,"Diesel","manual",74000,13
+"Hyundai"," Creta",15120,"Diesel","manual",38767,7
+"Hyundai"," Elantra",10500,"Diesel","automatic",51000,11
+"Hyundai"," Verna",5160,"Diesel","manual",32000,10
+"Hyundai"," Grand",4620,"Diesel","manual",42277,10
+"Hyundai"," Grand",6900,"gasoline","manual",50000,9
+"Hyundai"," i10",1980,"gasoline","manual",62000,16
+"Hyundai"," EON",3984,"gasoline","manual",65060,11
+"Hyundai"," EON",2760,"gasoline","manual",20000,11
+"Hyundai","i20",3900,"gasoline","manual",32200,13
+"Hyundai","i20",5400,"Diesel","manual",60788,12
+"Hyundai","i20",5400,"gasoline","manual",52237,12
+"Hyundai"," Verna",6000,"Diesel","manual",128000,12
+"Hyundai"," i10",2640,"gasoline","manual",54000,13
+"Hyundai"," i10",2400,"gasoline","manual",68000,16
+"Hyundai"," i10",2520,"gasoline","manual",81402,14
+"Hyundai"," Creta",15300,"gasoline","manual",2500,6
+"Hyundai"," Grand",6600,"Diesel","manual",34429,7
+"Hyundai"," Grand",8496,"gasoline","automatic",23576,7
+"Hyundai"," Verna",9336,"gasoline","manual",52191,9
+"Hyundai","i20",8100,"Diesel","manual",77076,8
+"Hyundai"," i10",2820,"gasoline","manual",21000,11
+"Hyundai","i20",5712,"gasoline","manual",55804,10
+"Hyundai"," EON",4380,"gasoline","manual",31829,7
+"Hyundai","i20",9360,"gasoline","manual",22684,6
+"Hyundai"," Grand",5880,"gasoline","manual",12248,7
+"Hyundai"," Grand",5436,"gasoline","manual",81605,8
+"Hyundai"," Verna",7800,"gasoline","automatic",34200,10
+"Hyundai"," Grand",7236,"gasoline","manual",10393,6
+"Hyundai"," i10",4752,"gasoline","automatic",21000,11
+"Hyundai","i20",5520,"Diesel","manual",113562,13
+"Hyundai","i20",7500,"gasoline","manual",58500,7
+"Hyundai"," Verna",5100,"Diesel","manual",108242,13
+"Hyundai"," i10",4440,"gasoline","manual",34697,11
+"Hyundai","i20",4800,"gasoline","manual",58000,12
+"Hyundai"," Accent",1080,"gasoline","manual",45200,19
+"Hyundai"," Grand",6768,"gasoline","manual",36840,9
+"Hyundai"," Elite",10008,"gasoline","manual",32851,6
+"Hyundai"," Grand",6048,"gasoline","manual",19947,8
+"Hyundai","i20",4080,"gasoline","manual",37442,13
+"Hyundai"," Grand",4800,"gasoline","manual",42355,10
+"Hyundai","i20",8340,"gasoline","manual",28470,8
+"Hyundai"," EON",3300,"gasoline","manual",9759,10
+"Hyundai","i20",8100,"gasoline","manual",8000,7
+"Hyundai"," Xcent",4800,"gasoline","automatic",53000,9
+"Hyundai"," Verna",6300,"gasoline","manual",21107,11
+"Hyundai"," Creta",15744,"gasoline","manual",19623,7
+"Hyundai"," Grand",7212,"gasoline","manual",43041,8
+"Hyundai"," Grand",6000,"gasoline","manual",31184,7
+"Hyundai"," Verna",8376,"Diesel","manual",83558,10
+"Hyundai"," EON",2340,"gasoline","manual",36000,11
+"Hyundai"," Xcent",6600,"Diesel","manual",58000,9
+"Hyundai","i20",3300,"gasoline","manual",73000,14
+"Hyundai"," Elantra",7500,"Diesel","manual",98008,12
+"Hyundai","i20",7524,"gasoline","manual",27339,5
+"Hyundai"," Verna",10380,"Diesel","manual",25000,7
+"Hyundai"," Grand",4200,"gasoline","manual",37000,10
+"Hyundai","i20",3180,"gasoline","manual",37000,12
+"Hyundai"," Elantra",10680,"Diesel","automatic",49000,10
+"Hyundai","i20",8400,"Diesel","manual",29000,9
+"Hyundai","i20",3240,"gasoline","manual",82000,13
+"Hyundai"," i10",2520,"gasoline","manual",77000,14
+"Hyundai"," i10",2400,"gasoline","manual",70000,17
+"Hyundai"," Grand",6636,"gasoline","manual",46493,6
+"Hyundai"," i10",2340,"gasoline","manual",68000,15
+"Hyundai"," i10",2400,"gasoline","manual",85445,16
+"Hyundai"," Xcent",4440,"Diesel","manual",54000,9
+"Hyundai"," i10",3900,"gasoline","manual",60000,10
+"Hyundai"," Grand",6120,"gasoline","manual",1800,6
+"Hyundai","i20",3900,"gasoline","manual",100000,12
+"Hyundai"," Grand",6900,"gasoline","manual",9434,6
+"Hyundai"," Creta",13164,"Diesel","automatic",37024,7
+"Hyundai"," EON",2364,"gasoline","manual",26008,10
+"Hyundai","i20",6120,"gasoline","manual",42000,9
+"Hyundai"," i10",3120,"gasoline","automatic",21000,15
+"Hyundai"," Creta",14400,"Diesel","automatic",55100,8
+"Hyundai"," i10",2940,"gasoline","manual",58235,12
+"Hyundai","i20",8760,"Diesel","manual",44487,8
+"Hyundai"," i10",3780,"gasoline","manual",34951,9
+"Hyundai","i20",3960,"gasoline","manual",54000,12
+"Hyundai"," Creta",16020,"Diesel","manual",44865,7
+"Hyundai"," Verna",6300,"gasoline","manual",57478,11
+"Hyundai","i20",4500,"Diesel","manual",75000,13
+"Hyundai"," Verna",9300,"Diesel","automatic",75000,6
+"Hyundai"," i10",2520,"gasoline","manual",62000,14
+"Hyundai"," Grand",6516,"gasoline","manual",26038,8
+"Hyundai"," Elantra",10800,"Diesel","manual",125928,12
+"Hyundai","i20",4740,"Diesel","manual",71360,12
+"Hyundai"," Xcent",4404,"gasoline","manual",64241,10
+"Hyundai"," Verna",7968,"Diesel","manual",37451,8
+"Hyundai"," Grand",6000,"gasoline","manual",25000,8
+"Hyundai"," Grand",8112,"gasoline","automatic",5354,6
+"Hyundai"," Santa Fe",12900,"Diesel","automatic",43000,12
+"Hyundai"," Grand",5856,"Diesel","manual",35000,9
+"Hyundai"," EON",2388,"gasoline","manual",60000,12
+"Hyundai"," i10",3360,"gasoline","manual",70600,14
+"Hyundai"," Grand",9120,"gasoline","automatic",22526,7
+"Hyundai"," Sonata",5880,"Diesel","manual",65000,15
+"Hyundai"," Verna",5400,"gasoline","manual",33425,9
+"Hyundai"," Creta",14280,"Diesel","manual",41000,9
+"Hyundai"," i10",2520,"gasoline","manual",62000,13
+"Hyundai"," Accent",3180,"gasoline","manual",55000,17
+"Hyundai"," Verna",6540,"Diesel","automatic",71000,10
+"Hyundai"," i10",4380,"gasoline","manual",45000,12
+"Hyundai"," Grand",7068,"gasoline","manual",37429,8
+"Hyundai"," Santro",2316,"gasoline","manual",52146,20
+"Hyundai"," Grand",5160,"gasoline","manual",20780,9
+"Hyundai"," Creta",11940,"Diesel","manual",83950,9
+"Hyundai"," Elite",9036,"gasoline","manual",59450,7
+"Hyundai"," i10",3000,"gasoline","manual",84000,16
+"Hyundai"," Santa Fe",11400,"Diesel","automatic",86000,12
+"Hyundai","i20",4680,"Diesel","manual",51000,12
+"Hyundai"," EON",4104,"gasoline","manual",31412,9
+"Hyundai"," EON",4428,"gasoline","manual",54884,11
+"Hyundai"," Creta",13200,"gasoline","manual",24347,8
+"Hyundai","i20",3288,"Diesel","manual",60000,12
+"Hyundai"," Verna",4800,"Diesel","manual",92000,12
+"Hyundai"," Tucson",21300,"gasoline","automatic",13000,8
+"Hyundai","i20",4080,"gasoline","manual",35000,9
+"Hyundai","i20",4740,"Diesel","manual",68000,15
+"Hyundai"," Grand",6480,"gasoline","automatic",18000,8
+"Hyundai","i20",2820,"gasoline","manual",46946,15
+"Hyundai","i20",6024,"Diesel","manual",64399,9
+"Hyundai"," Creta",15000,"Diesel","manual",41713,8
+"Hyundai"," Santa Fe",25200,"Diesel","automatic",59000,9
+"Hyundai"," Verna",7140,"gasoline","automatic",24000,11
+"Hyundai","i20",7560,"gasoline","manual",30292,8
+"Hyundai","i20",6768,"Diesel","manual",55000,10
+"Hyundai"," Creta",14808,"gasoline","manual",36458,7
+"Hyundai"," i10",3480,"gasoline","automatic",54000,13
+"Hyundai"," Elantra",16680,"gasoline","automatic",28000,8
+"Hyundai","i20",5940,"gasoline","manual",50000,9
+"Hyundai"," Elantra",11628,"gasoline","automatic",58239,9
+"Hyundai"," i10",3840,"gasoline","manual",42591,12
+"Hyundai","i20",5400,"Diesel","manual",67000,12
+"Hyundai"," Verna",9600,"Diesel","automatic",97000,10
+"Hyundai"," Verna",6600,"gasoline","manual",73000,12
+"Hyundai"," Grand",2760,"gasoline","manual",44300,10
+"Hyundai"," Xcent",7392,"gasoline","manual",21495,8
+"Hyundai"," i10",3420,"gasoline","manual",59000,12
+"Hyundai"," Verna",5220,"Diesel","manual",47000,11
+"Hyundai"," i10",4404,"gasoline","manual",47003,10
+"Hyundai"," Grand",7608,"gasoline","manual",20492,6
+"Hyundai"," i10",3792,"gasoline","manual",65423,13
+"Hyundai"," EON",4200,"gasoline","manual",52000,7
+"Hyundai"," Grand",4500,"Diesel","manual",25135,10
+"Hyundai","i20",5880,"gasoline","manual",40000,11
+"Hyundai"," Creta",11040,"Diesel","manual",51000,8
+"Hyundai","i20",5100,"Diesel","manual",64000,12
+"Hyundai","i20",7200,"gasoline","manual",29634,9
+"Hyundai"," Verna",7440,"gasoline","manual",24000,12
+"Hyundai"," Grand",7104,"Diesel","manual",20773,7
+"Hyundai"," Santro",3240,"gasoline","manual",41125,10
+"Hyundai"," Verna",4440,"gasoline","manual",68000,13
+"Hyundai","i20",4680,"Diesel","manual",51873,11
+"Hyundai"," Xcent",4200,"gasoline","manual",39871,9
+"Hyundai"," i10",2400,"gasoline","manual",71600,17
+"Hyundai"," Xcent",4140,"gasoline","manual",42000,10
+"Hyundai","i20",7368,"gasoline","manual",61823,8
+"Hyundai"," EON",3600,"gasoline","manual",70000,8
+"Hyundai"," Xcent",7440,"gasoline","manual",65743,9
+"Hyundai"," i10",4752,"gasoline","manual",64466,11
+"Hyundai"," Xcent",4260,"Diesel","manual",69000,7
+"Hyundai"," Creta",12300,"gasoline","manual",29477,8
+"Hyundai"," Grand",5736,"gasoline","manual",59767,8
+"Hyundai","i20",3300,"gasoline","manual",72000,14
+"Hyundai"," Verna",7140,"gasoline","manual",11000,10
+"Hyundai"," i10",2580,"gasoline","manual",70000,13
+"Hyundai"," Santro",2220,"gasoline","manual",69775,17
+"Hyundai"," Verna",2400,"Diesel","manual",120000,16
+"Hyundai"," Grand",4800,"Diesel","manual",116905,10
+"Hyundai"," i10",4596,"gasoline","automatic",32824,13
+"Hyundai"," Santro",1632,"gasoline","manual",35008,14
+"Hyundai"," Verna",9600,"gasoline","manual",36000,8
+"Hyundai","i20",6900,"gasoline","manual",14001,7
+"Hyundai"," EON",4200,"gasoline","manual",12000,7
+"Hyundai"," Santro",3780,"gasoline","manual",65000,13
+"Hyundai"," EON",3000,"gasoline","manual",84600,11
+"Hyundai"," Verna",5400,"Diesel","manual",103814,13
+"Hyundai"," i10",3744,"gasoline","manual",56075,11
+"Hyundai"," Creta",15876,"Diesel","automatic",38593,8
+"Hyundai"," i10",2340,"gasoline","manual",38235,16
+"Hyundai"," i10",2640,"gasoline","manual",37000,13
+"Hyundai"," Grand",4260,"gasoline","manual",90000,11
+"Hyundai"," i10",5424,"gasoline","manual",47324,12
+"Hyundai","i20",6480,"gasoline","manual",20600,8
+"Hyundai","i20",7140,"gasoline","manual",38000,8
+"Hyundai"," i10",3840,"gasoline","manual",60000,13
+"Hyundai","i20",2700,"gasoline","manual",30675,15
+"Hyundai"," EON",3132,"gasoline","manual",55000,9
+"Hyundai"," Verna",13800,"Diesel","manual",50000,7
+"Hyundai"," EON",3300,"gasoline","manual",38000,9
+"Hyundai"," Grand",5400,"Diesel","manual",46522,8
+"Hyundai"," Grand",5952,"Diesel","manual",66337,9
+"Hyundai"," Verna",4080,"gasoline","manual",61000,13
+"Hyundai"," Creta",17100,"Diesel","manual",11554,8
+"Hyundai"," Getz",960,"gasoline","manual",91000,19
+"Hyundai"," Grand",7092,"gasoline","automatic",33931,9
+"Hyundai"," Grand",7728,"gasoline","manual",13916,5
+"Hyundai"," Grand",5520,"gasoline","manual",14000,9
+"Hyundai","i20",8652,"gasoline","manual",17560,8
+"Hyundai","i20",9000,"gasoline","manual",8000,7
+"Hyundai"," Creta",15480,"Diesel","manual",27000,7
+"Hyundai"," i10",3180,"gasoline","manual",60000,12
+"Hyundai"," i10",4092,"gasoline","automatic",37229,12
+"Hyundai"," Creta",15936,"Diesel","manual",40459,7
+"Hyundai"," i10",5160,"gasoline","manual",43766,12
+"Hyundai","i20",11016,"Diesel","manual",18521,6
+"Hyundai"," Verna",6120,"Diesel","automatic",48000,10
+"Hyundai"," Verna",6840,"Diesel","manual",62000,10
+"Hyundai"," Tucson",6000,"Diesel","manual",103515,17
+"Hyundai"," Santro",2700,"gasoline","manual",68282,16
+"Hyundai"," EON",4104,"gasoline","manual",8500,7
+"Hyundai","i20",8700,"gasoline","manual",6000,8
+"Hyundai"," Verna",6120,"Diesel","manual",70000,13
+"Hyundai","i20",7080,"Diesel","manual",81310,9
+"Hyundai"," Grand",5400,"gasoline","manual",23000,7
+"Hyundai"," Verna",10800,"Diesel","manual",31000,8
+"Hyundai"," Creta",17748,"Diesel","automatic",50170,7
+"Hyundai"," Santa Fe",15480,"Diesel","automatic",110000,10
+"Hyundai"," EON",3000,"gasoline","manual",60000,7
+"Hyundai","i20",4380,"gasoline","manual",92408,11
+"Hyundai"," Verna",9000,"gasoline","manual",45000,10
+"Hyundai"," i10",4320,"gasoline","manual",7000,8
+"Hyundai","i20",8880,"Diesel","manual",14061,7
+"Hyundai"," Getz",2100,"gasoline","manual",44000,18
+"Hyundai"," Verna",5040,"gasoline","manual",61600,13
+"Hyundai"," Santro",1920,"gasoline","manual",100000,15
+"Hyundai","i20",7020,"Diesel","manual",82450,10
+"Hyundai"," Grand",7284,"gasoline","manual",20689,6
+"Hyundai","i20",4860,"gasoline","manual",38214,12
+"Hyundai"," Creta",17100,"Diesel","automatic",58671,8
+"Hyundai","i20",4932,"Diesel","manual",90000,12
+"Hyundai"," i10",1908,"gasoline","manual",55000,14
+"Hyundai"," Grand",6660,"gasoline","manual",3958,6
+"Hyundai"," Verna",9396,"Diesel","manual",16159,8
+"Hyundai"," Accent",1020,"Diesel","manual",150000,19
+"Hyundai","i20",9828,"gasoline","manual",35043,7
+"Hyundai"," Verna",7380,"gasoline","manual",66930,11
+"Hyundai"," Santa Fe",17400,"Diesel","automatic",100000,9
+"Hyundai"," Santro",3900,"gasoline","manual",43000,12
+"Hyundai","i20",3360,"gasoline","manual",40300,11
+"Hyundai"," Getz",540,"gasoline","manual",86000,19
+"Hyundai"," i10",3420,"gasoline","manual",51000,12
+"Hyundai"," Grand",7680,"gasoline","manual",61578,8
+"Hyundai"," EON",4428,"gasoline","manual",15334,6
+"Hyundai","i20",6600,"gasoline","manual",39000,9
+"Hyundai","i20",4044,"Diesel","manual",68439,13
+"Hyundai"," Creta",15000,"Diesel","automatic",65800,9
+"Hyundai"," EON",3120,"gasoline","manual",22000,11
+"Hyundai"," Grand",6900,"Diesel","manual",26877,7
+"Hyundai"," Santro",2760,"gasoline","manual",95291,16
+"Hyundai","i20",5760,"gasoline","manual",32000,9
+"Hyundai"," Grand",7020,"gasoline","manual",10000,6
+"Hyundai"," Accent",2280,"gasoline","manual",80000,16
+"Hyundai"," Grand",3420,"gasoline","manual",19500,10
+"Hyundai"," Grand",5880,"gasoline","manual",30000,10
+"Hyundai"," Grand",5700,"gasoline","manual",10770,8
+"Hyundai"," EON",3000,"gasoline","manual",91000,9
+"Hyundai","i20",7140,"gasoline","manual",14000,7
+"Hyundai","i20",3720,"Diesel","manual",94500,14
+"Hyundai"," Creta",17712,"gasoline","automatic",32807,6
+"Hyundai"," Verna",6600,"gasoline","manual",9000,10
+"Hyundai"," i10",3540,"gasoline","automatic",58483,16
+"Hyundai"," i10",3600,"gasoline","manual",50000,14
+"Hyundai"," Verna",5508,"gasoline","manual",58000,10
+"Hyundai","i20",8340,"gasoline","manual",19860,7
+"Hyundai"," Tucson",2100,"Diesel","manual",80000,18
+"Hyundai"," Verna",8988,"Diesel","manual",39791,10
+"Hyundai","i20",7560,"gasoline","manual",39000,9
+"Hyundai"," Verna",3540,"gasoline","manual",36226,13
+"Hyundai"," Santro",1380,"gasoline","manual",60170,15
+"Hyundai"," i10",4884,"gasoline","manual",49045,7
+"Hyundai"," Xcent",4200,"Diesel","manual",50000,8
+"Hyundai"," Verna",3600,"Diesel","manual",150000,16
+"Hyundai"," Verna",7320,"gasoline","manual",11000,10
+"Hyundai"," EON",3540,"gasoline","manual",66510,9
+"Hyundai","i20",4800,"Diesel","manual",75000,12
+"Hyundai"," Verna",5340,"Diesel","manual",72010,14
+"Hyundai","i20",7620,"Diesel","manual",57000,9
+"Hyundai","i20",3900,"gasoline","manual",52359,13
+"Hyundai","i20",5100,"Diesel","manual",55362,12
+"Hyundai"," Creta",17400,"Diesel","automatic",13000,7
+"Hyundai"," Xcent",5040,"Diesel","manual",135000,8
+"Hyundai","i20",10332,"Diesel","manual",32251,5
+"Hyundai"," i10",3720,"gasoline","automatic",60510,15
+"Hyundai"," Verna",6420,"gasoline","manual",34620,11
+"Hyundai"," i10",3420,"gasoline","manual",56000,14
+"Hyundai"," i10",5568,"gasoline","manual",32776,11
+"Hyundai","i20",4056,"gasoline","manual",30754,14
+"Hyundai"," Grand",7008,"gasoline","manual",33284,7
+"Hyundai"," Grand",8208,"gasoline","automatic",12153,5
+"Hyundai"," Grand",5100,"gasoline","manual",22000,8
+"Hyundai"," Grand",6720,"gasoline","manual",14700,7
+"Hyundai"," Verna",4680,"Diesel","manual",34994,13
+"Hyundai"," Creta",17232,"gasoline","automatic",23875,6
+"Hyundai"," Grand",6600,"gasoline","manual",51866,8
+"Hyundai"," Grand",7296,"gasoline","manual",62788,7
+"Hyundai"," EON",2520,"gasoline","manual",30000,11
+"Hyundai"," Elantra",9000,"Diesel","manual",36000,12
+"Hyundai"," Verna",5280,"gasoline","manual",14800,12
+"Hyundai"," Verna",6900,"Diesel","automatic",104000,13
+"Hyundai","i20",5700,"gasoline","automatic",72000,11
+"Hyundai"," Creta",16248,"Diesel","manual",54321,5
+"Hyundai"," Verna",7800,"gasoline","manual",51000,8
+"Hyundai"," Verna",8100,"Diesel","automatic",114000,11
+"Hyundai"," Santro",2256,"gasoline","manual",35268,16
+"Hyundai"," Santro",3984,"gasoline","manual",43337,12
+"Hyundai"," Grand",6540,"gasoline","automatic",9000,8
+"Hyundai"," Verna",4200,"Diesel","manual",120000,14
+"Hyundai"," Creta",16428,"Diesel","manual",37247,7
+"Hyundai"," Sonata",15300,"gasoline","manual",12000,10
+"Hyundai"," Creta",16500,"Diesel","manual",40158,7
+"Hyundai"," Elantra",10200,"Diesel","automatic",48823,11
+"Hyundai"," i10",2652,"gasoline","manual",35082,13
+"Hyundai"," Grand",6840,"Diesel","manual",75700,8
+"Hyundai"," i10",4800,"gasoline","automatic",54348,13
+"Hyundai"," i10",3600,"gasoline","manual",75049,11
+"Hyundai","i20",5280,"gasoline","automatic",58000,12
+"Hyundai"," EON",5340,"gasoline","manual",30711,7
+"Hyundai","i20",2880,"Diesel","manual",38277,13
+"Hyundai","i20",5100,"Diesel","manual",64000,10
+"Hyundai"," Grand",5880,"gasoline","manual",15000,9
+"Hyundai","i20",5400,"Diesel","manual",32720,10
+"Hyundai"," Xcent",6960,"gasoline","automatic",59800,9
+"Hyundai"," Verna",7440,"Diesel","manual",65000,12
+"Hyundai","i20",4800,"Diesel","manual",70000,12
+"Hyundai"," i10",4500,"gasoline","manual",51000,10
+"Hyundai"," Grand",4500,"gasoline","manual",21000,8
+"Hyundai"," Grand",5700,"gasoline","manual",50000,9
+"Hyundai"," i10",5124,"gasoline","manual",42883,7
+"Hyundai"," Verna",10320,"Diesel","automatic",27000,8
+"Hyundai"," i10",4260,"gasoline","manual",45000,11
+"Hyundai","i20",10680,"gasoline","manual",11691,6
+"Hyundai"," Verna",4620,"Diesel","manual",118077,14
+"Hyundai"," Verna",9000,"gasoline","automatic",36300,12
+"Hyundai"," Getz",2160,"gasoline","manual",90000,19
+"Hyundai","i20",5988,"Diesel","manual",42600,12
+"Hyundai","i20",6384,"gasoline","manual",17858,10
+"Hyundai"," i10",3840,"gasoline","manual",53000,12
+"Hyundai"," EON",3600,"gasoline","manual",19000,9
+"Hyundai"," Santro",2760,"gasoline","manual",80931,16
+"Hyundai","i20",4932,"Diesel","manual",129000,11
+"Hyundai"," Getz",2220,"gasoline","manual",63181,18
+"Hyundai"," Elite",7740,"gasoline","manual",13460,8
+"Hyundai"," Elite",7320,"gasoline","manual",30292,8
+"Hyundai"," Grand",5280,"gasoline","manual",61325,10
+"Hyundai"," i10",3600,"gasoline","manual",26966,14
+"Hyundai","i20",9300,"gasoline","manual",12000,7
+"Hyundai"," Grand",5976,"gasoline","manual",48031,10
+"Hyundai"," i10",3600,"gasoline","automatic",50902,15
+"Hyundai"," Elantra",8340,"Diesel","manual",40000,11
+"Hyundai"," Grand",6600,"gasoline","manual",33496,10
+"Hyundai","i20",6780,"gasoline","manual",25000,9
+"Hyundai"," Creta",14400,"Diesel","manual",42244,8
+"Hyundai","i20",8064,"gasoline","manual",44238,8
+"Hyundai"," Sonata",7200,"gasoline","automatic",41000,11
+"Hyundai"," Verna",6600,"Diesel","manual",83678,12
+"Hyundai"," Xcent",5940,"Diesel","manual",58000,9
+"Hyundai","i20",7200,"Diesel","manual",54339,9
+"Hyundai","i20",11016,"Diesel","manual",24153,7
+"Hyundai"," Creta",13740,"gasoline","automatic",27000,8
+"Hyundai"," Santro",3192,"gasoline","manual",66400,12
+"Hyundai"," Verna",6660,"Diesel","manual",93000,12
+"Hyundai"," Grand",8268,"gasoline","automatic",27417,7
+"Hyundai","i20",5580,"gasoline","manual",44525,10
+"Hyundai"," Grand",7140,"Diesel","manual",48000,6
+"Hyundai"," Verna",6300,"gasoline","manual",19000,10
+"Hyundai"," i10",5028,"gasoline","automatic",89000,11
+"Hyundai"," Elantra",8160,"Diesel","automatic",71000,11
+"Hyundai"," Verna",4800,"gasoline","manual",58000,13
+"Hyundai"," Sonata",6300,"Diesel","automatic",94000,15
+"Hyundai"," EON",2160,"gasoline","manual",70000,11
+"Hyundai"," Grand",4452,"Diesel","manual",63210,11
+"Hyundai"," Xcent",6000,"gasoline","manual",31000,6
+"Hyundai"," i10",2388,"gasoline","manual",60000,16
+"Hyundai"," i10",3540,"gasoline","manual",9489,13
+"Hyundai"," Creta",11880,"Diesel","manual",35000,7
+"Hyundai","i20",9096,"gasoline","manual",20632,6
+"Hyundai"," Grand",4788,"Diesel","manual",73042,10
+"Hyundai"," Santa Fe",25644,"Diesel","automatic",28881,8
+"Hyundai"," Verna",4920,"Diesel","manual",38000,12
+"Hyundai"," Verna",7920,"Diesel","manual",57000,9
+"Hyundai"," Creta",17220,"gasoline","automatic",32434,6
+"Hyundai"," Verna",6528,"gasoline","automatic",37086,11
+"Hyundai","i20",4620,"gasoline","automatic",56200,12
+"Hyundai"," Verna",3120,"gasoline","manual",51500,13
+"Hyundai"," Xcent",6588,"Diesel","manual",60500,7
+"Hyundai"," Elantra",19200,"Diesel","automatic",22000,8
+"Hyundai","i20",7740,"gasoline","manual",3900,7
+"Hyundai"," Xcent",5280,"Diesel","manual",106092,8
+"Hyundai"," Xcent",5400,"Diesel","manual",73000,7
+"Hyundai"," i10",4140,"gasoline","manual",29000,14
+"Hyundai"," Xcent",4620,"gasoline","manual",51000,10
+"Hyundai"," Grand",5640,"gasoline","manual",13436,8
+"Hyundai"," Xcent",5400,"Diesel","manual",63141,8
+"Hyundai"," Verna",6768,"Diesel","automatic",51000,11
+"Hyundai"," Creta",17400,"Diesel","automatic",33000,8
+"Hyundai","i20",4140,"Diesel","manual",67914,11
+"Hyundai"," i10",3480,"gasoline","automatic",62282,12
+"Hyundai"," Grand",6960,"gasoline","manual",43698,6
+"Hyundai"," Grand",8664,"gasoline","automatic",28052,7
+"Hyundai"," Grand",5844,"gasoline","manual",29091,8
+"Hyundai"," Verna",9000,"gasoline","automatic",45000,10
+"Hyundai","i20",8532,"gasoline","manual",51612,7
+"Hyundai"," Grand",5532,"Diesel","manual",71904,11
+"Hyundai"," Grand",4860,"Diesel","manual",33000,10
+"Hyundai","i20",6420,"Diesel","manual",44000,9
+"Hyundai","i20",3300,"gasoline","manual",39000,12
+"Hyundai"," Grand",6600,"gasoline","automatic",15000,9
+"Hyundai"," Xcent",4980,"gasoline","manual",12500,10
+"Hyundai"," Verna",7800,"Diesel","manual",52000,12
+"Hyundai"," Verna",2700,"Diesel","manual",90000,16
+"Hyundai"," Creta",12204,"Diesel","manual",42784,8
+"Hyundai"," Verna",17136,"Diesel","manual",30529,5
+"Hyundai"," EON",2760,"gasoline","manual",68128,13
+"Hyundai"," EON",3900,"gasoline","manual",30000,8
+"Hyundai"," i10",4140,"gasoline","manual",59000,11
+"Hyundai"," Grand",6180,"gasoline","manual",13000,7
+"Hyundai","i20",4140,"Diesel","manual",45000,9
+"Hyundai"," Grand",4500,"gasoline","manual",26000,11
+"Hyundai","i20",8340,"gasoline","manual",5000,7
+"Hyundai","i20",2676,"gasoline","manual",38000,14
+"Hyundai"," Xcent",3000,"gasoline","manual",50000,8
+"Hyundai"," Santro",1800,"gasoline","manual",115000,14
+"Hyundai"," Verna",6000,"gasoline","manual",41500,11
+"Hyundai"," Verna",10440,"gasoline","manual",5000,6
+"Hyundai"," Accent",2460,"gasoline","manual",32773,14
+"Hyundai","i20",6300,"gasoline","manual",19008,8
+"Hyundai"," Verna",6924,"gasoline","manual",32542,12
+"Hyundai","i20",3900,"gasoline","manual",72000,13
+"Hyundai"," Sonata",1800,"gasoline","manual",44200,21
+"Hyundai"," i10",4308,"gasoline","manual",7200,8
+"Hyundai"," Grand",7224,"gasoline","manual",23540,7
+"Hyundai","i20",5316,"gasoline","manual",35000,9
+"Hyundai"," EON",3180,"gasoline","manual",47000,10
+"Hyundai"," Grand",6864,"gasoline","automatic",69053,9
+"Hyundai"," Grand",4200,"Diesel","manual",43068,10
+"Hyundai"," i10",4380,"gasoline","manual",50436,13
+"Hyundai"," Grand",6480,"gasoline","automatic",21000,10
+"Hyundai"," Elantra",8400,"Diesel","manual",45000,10
+"Hyundai"," Santro",1920,"gasoline","manual",79000,12
+"Hyundai"," Accent",720,"gasoline","manual",110000,20
+"Hyundai"," EON",4068,"gasoline","manual",45407,10
+"Hyundai"," i10",4608,"gasoline","automatic",50058,13
+"Hyundai"," Creta",12984,"Diesel","manual",41641,6
+"Hyundai","i20",7800,"gasoline","manual",17000,6
+"Hyundai","i20",5100,"gasoline","manual",24000,13
+"Hyundai"," Grand",4500,"gasoline","manual",15305,9
+"Hyundai"," Verna",10836,"gasoline","automatic",33858,6
+"Hyundai","i20",3840,"gasoline","manual",54000,13
+"Hyundai","i20",7188,"Diesel","manual",27000,9
+"Hyundai","i20",6540,"Diesel","manual",60000,11
+"Hyundai"," Verna",6720,"gasoline","automatic",44000,11
+"Hyundai","i20",4440,"gasoline","manual",50000,12
+"Hyundai","i20",4260,"Diesel","manual",25500,11
+"Hyundai","i20",4680,"Diesel","manual",70933,11
+"Hyundai"," Verna",6900,"Diesel","manual",58000,10
+"Hyundai"," Creta",16188,"gasoline","automatic",21363,7
+"Hyundai"," Grand",4200,"Diesel","manual",42000,10
+"Hyundai"," Creta",13500,"Diesel","automatic",14000,6
+"Hyundai","i20",8400,"Diesel","manual",25500,7
+"Hyundai"," Creta",12600,"Diesel","manual",61786,9
+"Hyundai","i20",7140,"gasoline","manual",6000,8
+"Hyundai"," i10",2700,"gasoline","manual",15590,13
+"Hyundai","i20",7356,"gasoline","manual",69681,8
+"Hyundai"," i10",4620,"gasoline","automatic",15200,11
+"Hyundai","i20",7800,"Diesel","manual",74000,8
+"Hyundai"," Verna",7800,"Diesel","manual",62542,9
+"Hyundai","i20",8508,"gasoline","manual",40310,8
+"Hyundai"," Grand",7800,"gasoline","manual",10000,6
+"Hyundai"," EON",3060,"gasoline","manual",25350,8
+"Hyundai"," Verna",8100,"gasoline","manual",45000,10
+"Hyundai"," Creta",14556,"Diesel","manual",44887,7
+"Hyundai"," Creta",14988,"gasoline","manual",15731,7
+"Hyundai","i20",7464,"gasoline","manual",20045,9
+"Hyundai"," i10",2700,"gasoline","manual",31000,12
+"Hyundai"," EON",3192,"gasoline","manual",20000,9
+"Hyundai"," Creta",15000,"gasoline","manual",26000,8
+"Hyundai"," i10",3180,"gasoline","manual",40496,13
+"Hyundai"," Creta",10800,"gasoline","manual",48200,9
+"Hyundai"," EON",3120,"gasoline","manual",60500,12
+"Hyundai"," Creta",13572,"gasoline","manual",47183,7
+"Hyundai"," Elantra",7020,"Diesel","manual",42000,11
+"Hyundai"," i10",3840,"gasoline","manual",49000,11
+"Hyundai"," Verna",7860,"Diesel","manual",65254,12
+"Hyundai"," Verna",8280,"Diesel","manual",95000,10
+"Hyundai"," Creta",13740,"Diesel","manual",101065,7
+"Hyundai"," Verna",6000,"Diesel","manual",72000,13
+"Hyundai","i20",2280,"gasoline","manual",45000,14
+"Hyundai"," Xcent",6300,"gasoline","automatic",69000,10
+"Hyundai"," i10",3288,"gasoline","manual",53213,11
+"Hyundai"," i10",2700,"gasoline","manual",57000,15
+"Hyundai"," Santro",2820,"gasoline","manual",53000,12
+"Hyundai"," Verna",9300,"gasoline","manual",46676,10
+"Hyundai"," Santro",1980,"gasoline","manual",79000,19
+"Hyundai"," i10",2988,"gasoline","manual",43000,13
+"Hyundai"," EON",4812,"gasoline","manual",34063,9
+"Hyundai"," i10",2580,"gasoline","manual",38002,13
+"Hyundai"," Creta",11400,"gasoline","manual",26000,9
+"Hyundai"," Xcent",6528,"gasoline","manual",36216,8
+"Hyundai"," Verna",9300,"Diesel","automatic",57539,10
+"Hyundai","i20",3120,"gasoline","manual",62489,14
+"Hyundai"," Verna",4740,"gasoline","manual",60000,13
+"Hyundai"," Accent",1200,"gasoline","manual",123200,19
+"Hyundai","i20",6912,"gasoline","manual",40901,9
+"Hyundai"," i10",5184,"gasoline","manual",36264,11
+"Hyundai"," i10",2280,"gasoline","manual",60000,15
+"Hyundai"," Santro",2580,"gasoline","manual",61449,12
+"Hyundai"," i10",2160,"gasoline","manual",82203,16
+"Hyundai","i20",4884,"gasoline","manual",44612,10
+"Hyundai"," Grand",6420,"gasoline","automatic",15000,8
+"Hyundai"," Grand",7044,"gasoline","manual",38712,7
+"Hyundai","i20",4380,"gasoline","manual",52000,14
+"Hyundai"," EON",3420,"gasoline","manual",27886,8
+"Hyundai","i20",8436,"Diesel","manual",99362,8
+"Hyundai"," Xcent",7452,"gasoline","manual",38932,7
+"Hyundai"," Xcent",7140,"Diesel","manual",29000,8
+"Hyundai"," i10",5400,"gasoline","manual",19947,8
+"Hyundai"," i10",3720,"gasoline","automatic",70816,13
+"Hyundai"," Grand",7248,"gasoline","manual",47774,7
+"Hyundai","i20",5880,"gasoline","manual",21000,9
+"Hyundai"," i10",3360,"gasoline","manual",90000,10
+"Hyundai"," EON",4608,"gasoline","manual",57759,11
+"Hyundai"," i10",4680,"gasoline","manual",75915,9
+"Hyundai"," Verna",4200,"Diesel","manual",160000,15
+"Hyundai","i20",8400,"Diesel","manual",72495,9
+"Hyundai"," Verna",10440,"Diesel","automatic",33000,8
+"Hyundai"," Grand",5760,"gasoline","manual",4500,6
+"Hyundai"," Grand",6792,"gasoline","manual",51223,7
+"Hyundai"," Elite",7848,"gasoline","manual",56911,8
+"Hyundai"," Elite",7464,"gasoline","manual",37540,8
+"Hyundai"," Grand",7188,"gasoline","manual",22500,7
+"Hyundai","i20",7200,"gasoline","manual",17431,7
+"Hyundai"," Verna",7020,"gasoline","manual",61566,10
+"Hyundai"," Verna",6300,"gasoline","manual",52000,11
+"Hyundai"," Santa Fe",20400,"Diesel","automatic",58000,10
+"Hyundai"," i10",4200,"gasoline","automatic",58000,12
+"Hyundai"," i10",5844,"gasoline","manual",41008,9
+"Hyundai"," Xcent",7200,"Diesel","manual",65000,10
+"Hyundai"," Verna",9564,"gasoline","manual",52378,8
+"Hyundai","i20",5340,"gasoline","manual",445000,11
+"Hyundai"," i10",5388,"gasoline","manual",47439,10
+"Hyundai"," Xcent",7608,"gasoline","automatic",45560,8
+"Hyundai"," Elite",9516,"gasoline","manual",18553,6
+"Hyundai"," Santa Fe",10680,"Diesel","manual",148000,13
+"Hyundai","i20",3600,"gasoline","manual",50000,14
+"Hyundai"," Verna",7800,"Diesel","manual",79663,11
+"Hyundai"," Creta",15300,"gasoline","automatic",25000,7
+"Hyundai"," Xcent",4680,"Diesel","manual",60000,10
+"Hyundai","i20",5400,"Diesel","manual",80000,12
+"Hyundai"," EON",4548,"gasoline","manual",26568,9
+"Hyundai"," Creta",15900,"Diesel","manual",51000,8
+"Hyundai","i20",3000,"gasoline","manual",36000,13
+"Hyundai"," i10",3600,"gasoline","manual",24350,9
+"Hyundai"," EON",3852,"gasoline","manual",8243,7
+"Hyundai"," Santro",1860,"gasoline","manual",136642,15
+"Hyundai"," Santro",3108,"gasoline","manual",60000,13
+"Hyundai","i20",7908,"gasoline","manual",14064,7
+"Hyundai"," i10",2280,"gasoline","manual",72672,16
+"Hyundai","i20",4920,"gasoline","manual",59000,11
+"Hyundai"," Creta",16536,"Diesel","manual",60083,7
+"Hyundai"," Grand",6516,"Diesel","manual",81828,9
+"Hyundai"," Grand",6120,"gasoline","automatic",46000,9
+"Hyundai"," Verna",8040,"Diesel","manual",48158,11
+"Hyundai"," Verna",7200,"Diesel","automatic",83000,12
+"Hyundai","i20",9108,"Diesel","manual",37746,6
+"Hyundai"," EON",3540,"gasoline","manual",45010,11
+"Hyundai"," Santro",2040,"gasoline","manual",75000,14
+"Hyundai"," Santa Fe",19500,"Diesel","automatic",48000,10
+"Hyundai"," Grand",7560,"gasoline","automatic",36139,8
+"Hyundai"," Creta",15000,"Diesel","manual",44000,7
+"Hyundai"," Xcent",5400,"Diesel","manual",100000,8
+"Hyundai"," i10",2700,"gasoline","manual",55980,14
+"Hyundai","i20",5016,"Diesel","manual",49700,12
+"Hyundai"," Verna",7800,"Diesel","manual",79000,11
+"Hyundai"," Verna",11172,"Diesel","automatic",42876,8
+"Hyundai","i20",4140,"gasoline","manual",62020,13
+"Hyundai"," Elite",8784,"gasoline","manual",14223,6
+"Hyundai"," Grand",7440,"gasoline","automatic",21000,8
+"Hyundai","i20",3360,"gasoline","manual",95000,14
+"Hyundai"," Grand",5760,"gasoline","automatic",32000,9
+"Hyundai"," Santro",1080,"gasoline","manual",80000,21
+"Hyundai"," Xcent",5880,"gasoline","manual",23000,9
+"Hyundai"," Accent",2940,"gasoline","manual",56000,12
+"Hyundai"," Xcent",6000,"gasoline","manual",40000,6
+"Hyundai"," Verna",14256,"gasoline","manual",12336,5
+"Hyundai"," Verna",2700,"gasoline","manual",60000,15
+"Hyundai"," Xcent",6540,"gasoline","automatic",41000,9
+"Hyundai"," i10",3300,"gasoline","manual",49000,11
+"Hyundai"," Grand",5700,"gasoline","manual",15356,7
+"Hyundai"," Creta",13080,"Diesel","manual",78046,9
+"Hyundai"," EON",4452,"gasoline","manual",64624,8
+"Hyundai"," Santa Fe",14700,"Diesel","manual",74000,11
+"Hyundai"," Elite",7536,"gasoline","manual",37460,7
+"Hyundai"," Grand",9420,"gasoline","manual",31576,7
+"Hyundai"," Creta",12960,"Diesel","manual",93000,8
+"Hyundai"," Creta",15600,"Diesel","manual",29000,9
+"Hyundai"," Verna",7500,"Diesel","automatic",41000,12
+"Hyundai","i20",5400,"gasoline","manual",47000,13
+"Hyundai"," Xcent",6672,"gasoline","manual",45960,9
+"Hyundai"," i10",3180,"gasoline","manual",41000,13
+"Hyundai"," Verna",7020,"Diesel","manual",69573,11
+"Hyundai"," Elantra",18684,"Diesel","manual",41871,5
+"Hyundai"," Creta",13800,"gasoline","manual",40000,8
+"Hyundai"," Santa Fe",10056,"Diesel","manual",67901,11
+"Hyundai"," EON",4332,"gasoline","manual",46897,7
+"Hyundai"," EON",3000,"gasoline","manual",54680,9
+"Hyundai"," Santro",840,"gasoline","manual",140000,23
+"Hyundai"," Xcent",8196,"Diesel","manual",32257,7
+"Hyundai"," Xcent",4140,"Diesel","manual",82000,7
+"Hyundai","i20",5940,"gasoline","manual",36000,9
+"Hyundai","i20",8148,"gasoline","manual",16725,8
+"Hyundai","i20",5280,"Diesel","manual",68000,12
+"Hyundai"," i10",5592,"gasoline","manual",31446,10
+"Hyundai"," Grand",6600,"gasoline","manual",25000,9
+"Hyundai","i20",7200,"gasoline","manual",57000,8
+"Hyundai","i20",3240,"Diesel","manual",62000,14
+"Hyundai"," i10",4068,"gasoline","manual",65807,11
+"Hyundai"," EON",4968,"gasoline","manual",14799,10
+"Hyundai","i20",8400,"Diesel","manual",68525,9
+"Hyundai"," Creta",14712,"Diesel","manual",52553,8
+"Hyundai"," Xcent",4788,"Diesel","manual",58000,10
+"Hyundai"," Verna",10104,"gasoline","manual",19387,7
+"Hyundai","i20",6900,"gasoline","manual",24001,8
+"Hyundai"," Creta",15900,"gasoline","manual",44383,6
+"Hyundai"," Creta",11640,"gasoline","manual",69000,8
+"Hyundai"," Grand",6252,"Diesel","manual",60993,7
+"Hyundai"," Grand",5664,"Diesel","manual",51134,10
+"Hyundai"," i10",2532,"gasoline","manual",48000,15
+"Hyundai"," Verna",3480,"Diesel","manual",109606,16
+"Hyundai"," Creta",19524,"Diesel","manual",24864,5
+"Hyundai","i20",3300,"gasoline","manual",57500,14
+"Hyundai"," Grand",3900,"Diesel","manual",58000,10
+"Hyundai"," Grand",6600,"Diesel","manual",57824,8
+"Hyundai","i20",8340,"Diesel","manual",62679,8
+"Hyundai"," i10",3420,"gasoline","manual",18000,9
+"Hyundai"," EON",3660,"gasoline","manual",30158,9
+"Hyundai"," Creta",14220,"gasoline","automatic",28000,8
+"Hyundai"," i10",3984,"gasoline","automatic",30566,14
+"Hyundai"," i10",3336,"gasoline","manual",55231,12
+"Hyundai"," Sonata",9480,"gasoline","manual",45000,11
+"Hyundai"," Elite",10536,"gasoline","manual",21134,5
+"Hyundai"," Verna",7488,"Diesel","manual",60519,9
+"Hyundai"," Verna",6600,"Diesel","manual",79225,11
+"Hyundai"," Verna",7560,"Diesel","manual",85000,9
+"Hyundai"," Grand",4752,"Diesel","manual",63776,9
+"Hyundai"," Elite",6720,"gasoline","manual",28133,9
+"Hyundai","i20",6600,"Diesel","manual",55697,9
+"Hyundai","i20",3000,"gasoline","manual",58000,14
+"Hyundai"," Grand",4680,"gasoline","manual",31200,10
+"Hyundai"," EON",3000,"gasoline","manual",45000,12
+"Hyundai"," Verna",4560,"Diesel","manual",67000,13
+"Hyundai","i20",7080,"Diesel","manual",118211,9
+"Hyundai"," i10",4500,"gasoline","manual",20000,9
+"Hyundai"," Getz",1320,"gasoline","manual",143000,17
+"Hyundai","i20",6900,"gasoline","manual",32450,8
+"Hyundai","i20",8244,"gasoline","manual",35441,9
+"Hyundai"," EON",3948,"gasoline","manual",29832,8
+"Hyundai"," Verna",6600,"gasoline","automatic",48656,10
+"Hyundai"," Verna",6300,"Diesel","automatic",79000,12
+"Hyundai"," Grand",4980,"Diesel","manual",79000,10
+"Hyundai","i20",5700,"gasoline","manual",41000,9
+"Hyundai","i20",6444,"gasoline","manual",14925,9
+"Hyundai","i20",5484,"gasoline","manual",62132,11
+"Hyundai"," i10",1980,"gasoline","manual",55410,16
+"Hyundai"," Verna",7500,"Diesel","manual",45000,12
+"Hyundai"," Creta",14556,"gasoline","manual",53322,6
+"Hyundai"," i10",2880,"gasoline","manual",62000,14
+"Hyundai","i20",5460,"gasoline","manual",41681,10
+"Hyundai"," Verna",3120,"gasoline","manual",38000,16
+"Hyundai"," Elantra",9000,"Diesel","manual",170000,11
+"Hyundai"," Xcent",4200,"gasoline","manual",146000,8
+"Hyundai","i20",3540,"Diesel","manual",60000,11
+"Hyundai","i20",3180,"gasoline","manual",28000,15
+"Hyundai"," Santa Fe",9000,"Diesel","manual",58200,12
+"Hyundai"," Creta",14136,"gasoline","manual",17665,6
+"Hyundai"," i10",3864,"gasoline","manual",37333,12
+"Hyundai","i20",9180,"gasoline","manual",48407,6
+"Hyundai"," i10",2760,"gasoline","manual",72400,14
+"Hyundai"," Grand",7536,"Diesel","manual",32663,6
+"Hyundai"," EON",4140,"gasoline","manual",43993,9
+"Hyundai"," Grand",6600,"Diesel","manual",30000,8
+"Hyundai"," Grand",5100,"Diesel","manual",59261,9
+"Hyundai","i20",8700,"gasoline","manual",19000,8
+"Hyundai"," i10",4380,"gasoline","automatic",54534,11
+"Hyundai","i20",4500,"gasoline","automatic",55000,12
+"Hyundai","i20",10320,"gasoline","manual",1000,5
+"Hyundai","i20",6600,"gasoline","manual",53000,9
+"Hyundai"," Creta",15960,"Diesel","manual",50129,7
+"Hyundai"," i10",3540,"gasoline","manual",63265,11
+"Hyundai"," Xcent",4560,"Diesel","manual",76000,8
+"Hyundai"," Xcent",5040,"Diesel","manual",51000,7
+"Hyundai","i20",6960,"gasoline","manual",12000,9
+"Hyundai"," Verna",11376,"Diesel","automatic",36931,7
+"Hyundai","i20",6600,"gasoline","manual",45000,9
+"Hyundai","i20",4260,"gasoline","manual",85155,14
+"Hyundai"," Elantra",9300,"Diesel","manual",65000,9
+"Hyundai"," Grand",2700,"gasoline","manual",45252,14
+"Hyundai"," Verna",11676,"Diesel","automatic",42024,8
+"Hyundai","i20",7800,"gasoline","manual",10000,7
+"Hyundai"," Grand",4800,"Diesel","manual",50000,9
+"Hyundai"," Grand",5340,"gasoline","manual",26946,8
+"Hyundai"," EON",3120,"gasoline","manual",28700,9
+"Hyundai"," Verna",6840,"Diesel","manual",85350,11
+"Hyundai"," Santa Fe",27600,"Diesel","automatic",36000,8
+"Hyundai"," Grand",5880,"Diesel","manual",58397,9
+"Hyundai"," i10",4812,"gasoline","manual",34952,8
+"Hyundai","i20",6180,"gasoline","manual",56127,11
+"Hyundai"," Xcent",6000,"Diesel","manual",26000,8
+"Hyundai"," Accent",900,"gasoline","manual",130000,23
+"Hyundai"," Verna",2220,"gasoline","manual",137148,15
+"Hyundai","i20",2880,"gasoline","manual",69000,15
+"Hyundai"," Grand",5100,"gasoline","manual",26000,9
+"Hyundai","i20",8340,"Diesel","manual",27000,7
+"Hyundai"," Creta",16584,"Diesel","manual",47392,8
+"Hyundai","i20",7440,"Diesel","manual",49716,8
+"Hyundai"," Verna",8700,"Diesel","manual",79000,8
+"Hyundai"," i10",3708,"gasoline","manual",57184,12
+"Hyundai"," Creta",15180,"Diesel","automatic",26000,9
+"Hyundai"," Grand",5100,"gasoline","manual",22129,8
+"Hyundai"," i10",3960,"gasoline","manual",60634,13
+"Hyundai"," Grand",3768,"gasoline","manual",41000,10
+"Hyundai"," i10",3000,"gasoline","manual",62000,12
+"Hyundai","i20",4332,"gasoline","manual",63991,13
+"Hyundai"," Creta",16068,"Diesel","manual",37023,8
+"Hyundai"," Creta",13200,"Diesel","manual",47250,9
+"Hyundai"," Creta",14328,"gasoline","manual",17702,7
+"Hyundai"," Creta",15036,"gasoline","manual",38271,7
+"Hyundai"," Grand",3900,"gasoline","manual",28000,11
+"Hyundai"," Creta",15120,"gasoline","automatic",32854,6
+"Hyundai"," Verna",7800,"Diesel","automatic",97000,12
+"Hyundai"," Creta",14580,"Diesel","manual",55687,8
+"Hyundai","i20",6780,"gasoline","manual",31045,10
+"Hyundai"," Creta",16008,"Diesel","manual",35480,6
+"Hyundai","i20",8376,"Diesel","manual",46162,9
+"Hyundai"," Verna",6900,"gasoline","manual",9200,10
+"Hyundai"," Elantra",18000,"Diesel","manual",35000,6
+"Hyundai"," Verna",2340,"gasoline","manual",80000,17
+"Hyundai"," i10",3780,"gasoline","manual",70000,12
+"Hyundai"," i10",4500,"gasoline","manual",86000,13
+"Hyundai"," Verna",13848,"gasoline","manual",6028,5
+"Hyundai"," i10",3564,"gasoline","manual",65727,12
+"Hyundai"," Verna",5700,"gasoline","manual",70000,11
+"Hyundai","i20",4380,"Diesel","manual",77332,14
+"Hyundai"," Grand",7188,"gasoline","automatic",17489,7
+"Hyundai"," Creta",13140,"gasoline","automatic",22982,8
+"Hyundai"," i10",3540,"gasoline","manual",54500,11
+"Hyundai"," Verna",5100,"gasoline","automatic",75059,12
+"Hyundai"," Elite",9180,"Diesel","manual",6820,6
+"Hyundai"," Verna",5400,"gasoline","manual",49000,11
+"Hyundai"," Creta",15120,"Diesel","manual",29000,8
+"Hyundai","i20",5748,"gasoline","manual",42315,10
+"Hyundai"," Verna",3480,"Diesel","manual",64514,15
+"Hyundai"," Verna",8880,"gasoline","manual",35000,8
+"Hyundai"," Grand",4800,"gasoline","manual",53000,9
+"Hyundai","i20",8220,"gasoline","manual",9000,7
+"Hyundai"," Verna",10788,"Diesel","automatic",65000,10
+"Hyundai"," Verna",8388,"Diesel","manual",60000,9
+"Hyundai"," Grand",5700,"gasoline","manual",46000,7
+"Hyundai"," Creta",12300,"Diesel","manual",32000,9
+"Hyundai"," i10",4260,"gasoline","manual",31965,9
+"Hyundai"," Verna",9588,"gasoline","manual",41534,7
+"Hyundai","i20",7632,"Diesel","manual",40175,6
+"Hyundai"," Xcent",7260,"gasoline","manual",15029,7
+"Hyundai"," Grand",6600,"Diesel","manual",76362,9
+"Hyundai"," i10",3000,"gasoline","automatic",57000,14
+"Hyundai"," Accent",2760,"gasoline","manual",62364,16
+"Hyundai"," Verna",7200,"Diesel","manual",89000,12
+"Hyundai"," i10",3420,"gasoline","manual",84045,15
+"Hyundai","i20",9204,"gasoline","manual",12800,5
+"Hyundai"," Santa Fe",24804,"Diesel","automatic",45794,8
+"Hyundai"," Santro",1740,"gasoline","manual",42000,15
+"Hyundai"," Grand",4788,"Diesel","manual",65000,10
+"Hyundai"," i10",3540,"gasoline","manual",84000,11
+"Hyundai"," Creta",15372,"Diesel","manual",30519,7
+"Hyundai"," Getz",2340,"gasoline","manual",58307,17
+"Hyundai","i20",5880,"gasoline","manual",36000,9
+"Hyundai"," i10",3120,"gasoline","manual",39000,13
+"Hyundai","i20",3900,"Diesel","manual",33249,12
+"Hyundai"," Xcent",4500,"gasoline","manual",52000,10
+"Hyundai"," i10",4200,"gasoline","manual",84912,13
+"Hyundai"," Creta",14700,"Diesel","manual",70000,9
+"Hyundai"," i10",2820,"gasoline","manual",29000,12
+"Hyundai"," Verna",2220,"Diesel","manual",200000,18
+"Hyundai"," i10",4080,"gasoline","manual",28000,9
+"Hyundai"," Grand",7428,"gasoline","manual",22831,7
+"Hyundai"," Grand",4500,"gasoline","manual",21000,9
+"Hyundai","i20",4380,"Diesel","manual",64500,11
+"Hyundai","i20",9300,"Diesel","manual",30000,6
+"Hyundai","i20",7620,"Diesel","manual",55036,8
+"Hyundai"," Santro",2760,"gasoline","manual",60000,11
+"Hyundai"," Grand",6600,"Diesel","manual",50000,8
+"Hyundai"," Grand",6084,"gasoline","manual",28147,8
+"Hyundai"," Grand",4620,"gasoline","manual",20000,9
+"Hyundai"," Elite",9540,"gasoline","manual",11000,8
+"Hyundai"," Grand",4140,"gasoline","manual",37000,10
+"Hyundai","i20",6960,"gasoline","manual",42000,9
+"Hyundai","i20",9300,"Diesel","manual",31000,6
+"Hyundai"," Creta",15840,"gasoline","manual",9900,6
+"Hyundai"," Accent",840,"gasoline","manual",50000,19
+"Hyundai"," Verna",5688,"Diesel","manual",58646,12
+"Hyundai","i20",5220,"Diesel","manual",53340,10
+"Hyundai"," Creta",14280,"Diesel","manual",63738,8
+"Hyundai"," Verna",15420,"gasoline","automatic",8000,6
+"Hyundai"," Santro",1668,"gasoline","manual",65000,16
+"Hyundai"," Verna",5640,"Diesel","manual",53280,11
+"Hyundai","i20",9732,"gasoline","manual",14618,7
+"Hyundai","i20",3288,"gasoline","manual",80561,14
+"Hyundai"," Getz",1020,"gasoline","manual",100000,19
+"Hyundai"," Elantra",9960,"gasoline","manual",55619,10
+"Hyundai","i20",6300,"gasoline","manual",68010,10
+"Hyundai"," Getz",2640,"gasoline","manual",66800,17
+"Hyundai"," Xcent",4800,"Diesel","manual",100000,9
+"Audi"," A4",21288,"Diesel","automatic",40670,11
+"Audi"," A6",28200,"gasoline","automatic",55985,9
+"Audi"," A6",13800,"Diesel","automatic",35000,14
+"Audi"," A4",25716,"Diesel","automatic",13648,9
+"Audi"," A4",16200,"Diesel","automatic",65664,12
+"Audi"," A6",35400,"Diesel","automatic",56000,10
+"Audi"," A6",47496,"Diesel","automatic",48367,6
+"Audi"," A4",11760,"Diesel","automatic",30000,14
+"Audi","RS5",44400,"gasoline","automatic",23000,11
+"Audi"," A4",27984,"Diesel","automatic",48214,9
+"Audi"," A6",22800,"Diesel","automatic",62500,12
+"Audi"," A6",27540,"Diesel","automatic",40000,10
+"Audi"," Q3",23880,"Diesel","automatic",64103,9
+"Audi"," A8",54000,"Diesel","automatic",56000,12
+"Audi"," Q7",84432,"Diesel","automatic",11287,6
+"Audi"," A6",32136,"Diesel","automatic",31652,9
+"Audi"," A6",24924,"Diesel","automatic",61726,10
+"Audi"," A6",26340,"Diesel","automatic",51495,10
+"Audi"," Q7",75204,"Diesel","automatic",97430,7
+"Audi"," Q7",15540,"Diesel","automatic",99000,16
+"Audi"," A3",19800,"Diesel","automatic",79271,10
+"Audi"," Q3",30852,"Diesel","automatic",37542,7
+"Audi"," A6",29400,"gasoline","automatic",47000,8
+"Audi"," Q5",46800,"Diesel","automatic",38000,10
+"Audi"," Q3",24444,"Diesel","automatic",86642,8
+"Audi"," Q7",58692,"Diesel","automatic",51002,8
+"Audi"," A6",45072,"Diesel","automatic",41041,7
+"Audi","TT",35400,"gasoline","automatic",12100,11
+"Audi"," A6",14760,"Diesel","automatic",202082,12
+"Audi"," Q7",35724,"Diesel","automatic",79926,10
+"Audi"," A6",29064,"gasoline","automatic",58953,8
+"Audi"," Q7",14400,"Diesel","automatic",94000,15
+"Audi"," Q3",30000,"Diesel","automatic",61000,9
+"Audi"," A6",28668,"Diesel","automatic",49964,10
+"Audi"," Q7",21600,"Diesel","automatic",120300,16
+"Audi"," A6",34800,"Diesel","automatic",48000,10
+"Audi"," Q5",30552,"Diesel","automatic",13452,11
+"Audi"," A4",23400,"Diesel","automatic",45979,11
+"Audi"," Q7",52020,"Diesel","automatic",46983,9
+"Audi"," Q3",27300,"Diesel","automatic",76927,9
+"Audi"," A6",22740,"Diesel","automatic",31000,11
+"Audi"," A6",14484,"Diesel","automatic",48040,15
+"Audi"," A4",13188,"Diesel","automatic",46000,13
+"Audi"," A4",17400,"Diesel","automatic",47346,12
+"Audi"," A4",15000,"Diesel","automatic",59000,13
+"Audi","TT",42000,"gasoline","automatic",7000,12
+"Audi"," A6",28788,"Diesel","automatic",70181,11
+"Audi"," Q5",52488,"Diesel","automatic",40318,7
+"Audi"," Q3",24000,"Diesel","automatic",60000,10
+"Audi"," A4",11940,"Diesel","automatic",34000,15
+"Audi"," Q3",21300,"Diesel","automatic",84000,11
+"Audi"," A4",30000,"Diesel","automatic",45000,9
+"Audi"," Q3",17400,"Diesel","automatic",60000,11
+"Audi"," Q7",61200,"Diesel","automatic",50000,10
+"Audi"," Q7",46728,"Diesel","automatic",53735,9
+"Audi"," Q7",45600,"Diesel","automatic",65938,9
+"Audi"," Q3",25200,"Diesel","automatic",60000,11
+"Audi"," Q5",54744,"Diesel","automatic",32496,6
+"Audi"," Q3",18300,"Diesel","automatic",45000,11
+"Audi"," A4",17220,"Diesel","automatic",77395,10
+"Audi","TT",32820,"gasoline","automatic",14262,10
+"Audi"," A6",25872,"Diesel","automatic",57456,10
+"Audi"," A4",16800,"Diesel","automatic",36000,11
+"Audi"," Q7",80400,"Diesel","automatic",20002,8
+"Audi"," A7",34500,"Diesel","automatic",42000,13
+"Audi"," Q3",32400,"Diesel","automatic",45000,8
+"Audi"," Q5",47400,"Diesel","automatic",43000,8
+"Audi"," Q5",52800,"Diesel","automatic",25000,10
+"Audi"," Q7",57600,"Diesel","automatic",21000,9
+"Audi"," Q7",87528,"Diesel","automatic",6773,5
+"Audi"," Q7",14388,"gasoline","automatic",71000,16
+"Audi"," A4",29688,"Diesel","automatic",68193,8
+"Audi"," Q5",39540,"Diesel","automatic",11964,9
+"Audi"," Q3",33636,"Diesel","automatic",58661,8
+"Audi"," A4",29400,"Diesel","automatic",21000,10
+"Audi"," Q5",42000,"Diesel","automatic",56000,9
+"Audi"," Q5",46740,"Diesel","automatic",38000,10
+"Audi"," A4",12420,"Diesel","automatic",60000,12
+"Audi"," A7",29928,"Diesel","automatic",60336,10
+"Audi"," A4",19332,"Diesel","automatic",46913,12
+"Audi"," A6",24144,"Diesel","automatic",62012,10
+"Audi"," A4",15828,"Diesel","automatic",45330,11
+"Audi"," Q5",47364,"Diesel","automatic",42747,9
+"Audi"," A4",21600,"Diesel","automatic",70000,10
+"Audi"," A3",27000,"Diesel","automatic",22000,7
+"Audi"," A4",21000,"Diesel","automatic",82002,11
+"Audi"," Q5",27600,"Diesel","automatic",53000,13
+"Audi"," A4",16200,"Diesel","automatic",44555,12
+"Audi"," A4",17400,"Diesel","automatic",67000,11
+"Audi"," A4",30000,"Diesel","automatic",24000,10
+"Audi"," A6",10740,"Diesel","automatic",30000,15
+"Audi"," A4",17400,"Diesel","automatic",105000,13
+"Audi"," A4",16200,"Diesel","automatic",45200,11
+"Audi"," Q3",22800,"Diesel","automatic",110000,9
+"Audi"," A4",30000,"Diesel","automatic",50000,9
+"Audi"," Q7",43800,"Diesel","automatic",88000,12
+"Audi"," Q5",18000,"Diesel","automatic",74500,12
+"Audi"," A6",30024,"Diesel","automatic",66882,10
+"Audi"," A4",14400,"gasoline","automatic",38000,13
+"Audi"," A6",22200,"Diesel","automatic",58000,10
+"Audi"," A4",28800,"Diesel","automatic",60000,10
+"Audi"," A4",18600,"Diesel","automatic",87000,11
+"Audi"," A6",25200,"Diesel","automatic",50000,13
+"Audi"," A4",16740,"Diesel","automatic",85000,13
+"Audi"," Q3",21900,"Diesel","automatic",48000,9
+"Audi"," A4",33600,"Diesel","automatic",11000,8
+"Audi"," Q7",46800,"Diesel","automatic",79000,12
+"Audi"," A4",30900,"Diesel","automatic",39644,8
+"Audi"," Q7",26400,"Diesel","automatic",98000,13
+"Audi"," Q7",63732,"Diesel","automatic",28733,8
+"Audi"," A4",28140,"Diesel","automatic",21979,9
+"Audi"," A4",24048,"Diesel","automatic",57773,10
+"Audi"," Q7",63000,"Diesel","automatic",21000,9
+"Audi"," A4",10200,"gasoline","automatic",38001,14
+"Audi"," Q5",42000,"Diesel","automatic",50000,10
+"Audi"," A6",12600,"gasoline","automatic",41000,16
+"Audi"," A8",16200,"Diesel","automatic",55000,15
+"Audi"," Q3",33000,"Diesel","automatic",51000,9
+"Audi"," A6",13800,"Diesel","automatic",45000,16
+"Audi"," Q3",22500,"Diesel","automatic",48000,9
+"Audi"," Q7",46800,"Diesel","automatic",72132,8
+"Audi"," A6",24684,"Diesel","automatic",70998,11
+"Audi"," A6",28800,"Diesel","automatic",56000,10
+"Audi"," A6",30000,"Diesel","automatic",62000,10
+"Audi"," A4",24600,"Diesel","automatic",53000,10
+"Audi"," A6",27000,"Diesel","automatic",90000,11
+"Audi"," Q7",41856,"Diesel","automatic",51076,10
+"Audi"," A6",34800,"Diesel","automatic",50001,12
+"Audi"," Q5",39000,"Diesel","automatic",44000,11
+"Audi"," A7",33600,"Diesel","automatic",24720,12
+"Audi"," A4",30372,"Diesel","automatic",32205,9
+"Audi"," A4",26076,"gasoline","automatic",61221,7
+"Audi"," A4",12300,"Diesel","automatic",69000,12
+"Audi"," Q3",32400,"Diesel","automatic",31000,7
+"Audi"," A4",17400,"Diesel","automatic",60001,11
+"Audi"," Q3",34800,"Diesel","automatic",38000,9
+"Audi"," A4",11400,"gasoline","automatic",53000,13
+"Audi"," A6",19800,"Diesel","automatic",27090,12
+"Audi"," A6",29100,"Diesel","automatic",42000,9
+"Audi"," A4",27000,"Diesel","automatic",40000,10
+"Audi"," Q7",34260,"Diesel","automatic",91743,12
+"Audi"," A4",22200,"Diesel","automatic",74002,12
+"Audi"," A4",30768,"Diesel","automatic",39237,8
+"Audi"," A6",47808,"Diesel","automatic",36824,7
+"Audi"," A6",9600,"Diesel","automatic",78000,15
+"Audi"," A4",19200,"Diesel","automatic",60000,12
+"Audi"," Q5",44196,"Diesel","automatic",43827,7
+"Audi"," A6",20004,"Diesel","automatic",54862,10
+"Audi"," A4",12000,"Diesel","automatic",59000,14
+"Audi"," A4",21000,"Diesel","automatic",40000,10
+"Audi"," A4",28500,"Diesel","automatic",58970,9
+"Audi"," Q5",30852,"Diesel","automatic",87652,10
+"Audi"," A6",13800,"Diesel","automatic",112719,13
+"Audi"," A6",49800,"gasoline","automatic",22000,6
+"Audi"," A4",21900,"Diesel","automatic",76000,11
+"Audi"," Q7",58512,"Diesel","automatic",32545,8
+"Audi"," Q3",25800,"Diesel","automatic",65000,10
+"Audi","RS5",48600,"gasoline","automatic",23312,11
+"Audi"," Q5",35568,"Diesel","automatic",60146,9
+"Audi"," A4",30024,"Diesel","automatic",35463,9
+"Audi"," Q5",25800,"Diesel","automatic",71000,11
+"Audi"," Q5",43200,"Diesel","automatic",63000,9
+"Audi"," A4",9576,"Diesel","automatic",88000,15
+"Audi"," Q3",28500,"Diesel","automatic",28000,9
+"Audi"," Q5",34800,"Diesel","automatic",53900,10
+"Audi"," Q3",39276,"Diesel","automatic",22060,6
+"Audi"," A4",25992,"Diesel","automatic",13506,9
+"Audi"," Q5",41400,"Diesel","automatic",63000,9
+"Audi"," A6",23760,"Diesel","automatic",56500,11
+"Audi"," Q7",39024,"Diesel","automatic",72469,10
+"Audi"," Q7",60264,"Diesel","automatic",45180,8
+"Audi"," A4",13200,"Diesel","automatic",58000,13
+"Audi"," Q7",57600,"Diesel","automatic",50000,9
+"Audi"," A6",21000,"Diesel","automatic",50000,12
+"Audi"," A4",30000,"Diesel","automatic",60000,9
+"Audi"," Q7",54000,"Diesel","automatic",60000,10
+"Audi"," A6",9696,"Diesel","automatic",52830,15
+"Audi"," Q7",36600,"Diesel","automatic",102865,10
+"Audi"," Q7",57000,"Diesel","automatic",50000,9
+"Audi"," A4",12240,"Diesel","automatic",60000,12
+"Audi"," Q5",46464,"Diesel","automatic",47293,8
+"Audi"," Q7",21012,"Diesel","automatic",73000,14
+"Audi"," Q3",22800,"Diesel","automatic",105000,11
+"Audi"," A4",39492,"Diesel","automatic",38163,5
+"Audi"," Q3",38316,"Diesel","automatic",42366,7
+"Audi"," A4",27600,"Diesel","automatic",13000,9
+"Audi"," A6",9000,"Diesel","automatic",50000,16
+"Audi"," A4",32400,"Diesel","automatic",30000,9
+"Audi"," Q3",28200,"Diesel","automatic",42000,8
+"Audi"," A6",13800,"Diesel","automatic",35010,14
+"Audi"," A3",23100,"Diesel","automatic",20003,8
+"Audi"," Q5",28416,"Diesel","automatic",80127,11
+"Audi"," A4",23400,"Diesel","automatic",52000,11
+"Audi"," A4",51600,"Diesel","automatic",14000,7
+"Audi"," A4",19500,"Diesel","automatic",88000,11
+"Audi"," A4",11700,"Diesel","automatic",17000,16
+"Audi"," A6",43200,"Diesel","automatic",50000,9
+"Audi"," Q7",62028,"Diesel","automatic",56238,9
+"Audi"," A4",29244,"Diesel","automatic",28469,10
+"Audi"," A3",22680,"Diesel","automatic",39000,8
+"Audi"," Q7",81600,"Diesel","automatic",59500,7
+"Audi"," A4",31200,"Diesel","automatic",29000,10
+"Audi"," Q5",12000,"gasoline","automatic",99100,15
+"Audi"," A4",30972,"Diesel","automatic",44811,9
+"Audi"," Q5",30000,"Diesel","automatic",44999,10
+"Audi"," A4",21000,"gasoline","automatic",80000,12
+"Audi"," Q7",37692,"Diesel","automatic",118218,10
+"Audi"," Q3",26400,"Diesel","automatic",60000,11
+"Audi"," A4",21600,"Diesel","automatic",54000,13
+"Audi"," A4",19500,"Diesel","automatic",88000,12
+"Audi"," Q5",34800,"Diesel","automatic",72000,11
+"Audi"," Q7",45480,"Diesel","automatic",45000,10
+"Audi"," A4",18252,"Diesel","automatic",55730,10
+"Audi"," Q7",59748,"Diesel","automatic",31075,8
+"Audi"," Q5",30588,"Diesel","automatic",52000,9
+"Audi"," A6",42600,"Diesel","automatic",20000,9
+"Audi"," Q3",27600,"Diesel","automatic",63716,11
+"Audi"," A4",30900,"Diesel","automatic",29063,10
+"Audi"," Q7",38400,"Diesel","automatic",58000,10
+"Audi"," A4",11940,"Diesel","automatic",46000,15
+"Audi"," A6",38400,"Diesel","automatic",37500,9
+"Audi"," A4",10200,"Diesel","automatic",46000,15
+"Audi"," A4",29400,"Diesel","automatic",30000,10
+"Audi"," Q5",30768,"Diesel","automatic",12467,11
+"Audi"," Q5",21600,"gasoline","automatic",59967,13
+"Audi"," A4",27000,"Diesel","automatic",37600,10
+"Audi"," A6",25200,"Diesel","automatic",85000,11
+"Audi"," Q7",51396,"Diesel","automatic",55662,9
+"Audi"," A4",26400,"Diesel","automatic",40000,10
+"Audi"," A6",43104,"Diesel","automatic",55975,7
+"Audi"," A4",11700,"Diesel","automatic",57000,13
+"Audi"," Q5",54624,"Diesel","automatic",29091,6
+"Audi"," Q3",26100,"Diesel","automatic",65630,10
+"Audi"," A4",19824,"Diesel","automatic",58629,11
+"Audi"," A6",21072,"Diesel","automatic",91903,11
+"Mercedes-Benz"," New C-class",33600,"Diesel","automatic",78500,10
+"Mercedes-Benz"," M-class",33600,"Diesel","automatic",85000,11
+"Mercedes-Benz"," New C-class",32040,"gasoline","automatic",58000,9
+"Mercedes-Benz"," New C-class",12000,"Diesel","manual",65000,13
+"Mercedes-Benz"," C-class",42804,"Diesel","automatic",15369,5
+"Mercedes-Benz"," B class",20100,"Diesel","automatic",53753,10
+"Mercedes-Benz"," New C-class",11220,"gasoline","automatic",28352,15
+"Mercedes-Benz"," SLC",64800,"gasoline","automatic",13372,7
+"Mercedes-Benz"," New C-class",21540,"Diesel","automatic",44965,10
+"Mercedes-Benz"," S class",36000,"gasoline","automatic",35277,14
+"Mercedes-Benz"," B class",13500,"gasoline","automatic",29000,11
+"Mercedes-Benz"," New C-class",40392,"Diesel","automatic",23550,7
+"Mercedes-Benz"," GLC",51000,"Diesel","automatic",44414,8
+"Mercedes-Benz"," E-class",38400,"Diesel","automatic",37382,10
+"Mercedes-Benz"," B class",14352,"gasoline","automatic",37245,10
+"Mercedes-Benz"," New C-class",12600,"gasoline","automatic",30500,14
+"Mercedes-Benz"," New C-class",47292,"Diesel","automatic",29161,6
+"Mercedes-Benz"," New C-class",21744,"Diesel","automatic",55980,9
+"Mercedes-Benz"," GLE",73548,"Diesel","automatic",29819,7
+"Mercedes-Benz"," New C-class",21600,"Diesel","manual",57000,10
+"Mercedes-Benz"," New C-class",22368,"Diesel","automatic",77771,9
+"Mercedes-Benz"," GLA class",24312,"Diesel","automatic",48000,9
+"Mercedes-Benz"," GLE",68400,"Diesel","automatic",29000,7
+"Mercedes-Benz"," GLA class",24000,"Diesel","automatic",38000,9
+"Mercedes-Benz"," New C-class",31200,"Diesel","manual",25000,10
+"Mercedes-Benz"," E-class",31800,"Diesel","automatic",59364,10
+"Mercedes-Benz"," B class",14124,"gasoline","automatic",41380,10
+"Mercedes-Benz"," E-class",44400,"Diesel","automatic",33900,7
+"Mercedes-Benz"," S class",75372,"Diesel","automatic",56451,7
+"Mercedes-Benz"," GL-class",33600,"Diesel","automatic",85001,14
+"Mercedes-Benz"," New C-class",22800,"Diesel","automatic",35299,11
+"Mercedes-Benz"," GLC",85188,"gasoline","automatic",22397,6
+"Mercedes-Benz"," New C-class",10200,"gasoline","automatic",50000,13
+"Mercedes-Benz"," E-class",61716,"gasoline","automatic",26405,6
+"Mercedes-Benz"," New C-class",27600,"Diesel","manual",45000,10
+"Mercedes-Benz"," GLS",67200,"Diesel","automatic",129000,7
+"Mercedes-Benz"," A class",22296,"Diesel","automatic",35437,8
+"Mercedes-Benz"," S class",22200,"Diesel","automatic",137000,14
+"Mercedes-Benz"," E-class",11148,"Diesel","automatic",80464,15
+"Mercedes-Benz"," E-class",12900,"gasoline","automatic",50645,14
+"Mercedes-Benz"," New C-class",46788,"gasoline","automatic",13190,5
+"Mercedes-Benz"," S class",22800,"gasoline","automatic",47088,18
+"Mercedes-Benz"," GLC",58200,"Diesel","automatic",10003,6
+"Mercedes-Benz"," E-class",15000,"gasoline","automatic",61000,13
+"Mercedes-Benz"," New C-class",45516,"Diesel","automatic",25559,7
+"Mercedes-Benz"," New C-class",11100,"Diesel","automatic",39037,17
+"Mercedes-Benz"," SLK-class",66648,"gasoline","automatic",22732,8
+"Mercedes-Benz"," E-class",43200,"Diesel","automatic",34000,7
+"Mercedes-Benz"," M-class",36000,"Diesel","automatic",120000,10
+"Mercedes-Benz"," New C-class",22800,"Diesel","automatic",86000,12
+"Mercedes-Benz"," E-class",38328,"Diesel","automatic",43368,7
+"Mercedes-Benz"," New C-class",18552,"gasoline","automatic",56778,10
+"Mercedes-Benz"," New C-class",47364,"Diesel","automatic",36797,6
+"Mercedes-Benz"," A class",16800,"Diesel","automatic",37000,11
+"Mercedes-Benz"," E-class",18960,"Diesel","automatic",70000,11
+"Mercedes-Benz"," SLK-class",66000,"gasoline","automatic",10000,9
+"Mercedes-Benz"," GLE",67200,"Diesel","automatic",21000,8
+"Mercedes-Benz"," E-class",16680,"Diesel","automatic",47000,13
+"Mercedes-Benz"," E-class",60348,"Diesel","automatic",56652,6
+"Mercedes-Benz"," New C-class",11700,"gasoline","automatic",48000,13
+"Mercedes-Benz"," E-class",26160,"Diesel","automatic",42076,9
+"Mercedes-Benz"," New C-class",32400,"Diesel","automatic",58205,8
+"Mercedes-Benz"," New C-class",10968,"gasoline","automatic",71703,13
+"Mercedes-Benz"," New C-class",36000,"Diesel","automatic",50000,9
+"Mercedes-Benz"," C-class",47400,"Diesel","automatic",8682,6
+"Mercedes-Benz"," CLA",33900,"Diesel","automatic",13689,7
+"Mercedes-Benz"," New C-class",19872,"Diesel","automatic",63983,9
+"Mercedes-Benz"," A class",19200,"gasoline","automatic",11000,9
+"Mercedes-Benz"," GL-class",46500,"Diesel","automatic",85000,10
+"Mercedes-Benz"," New C-class",10740,"Diesel","automatic",49000,14
+"Mercedes-Benz"," E-class",61620,"gasoline","automatic",20446,6
+"Mercedes-Benz"," E-class",29400,"Diesel","automatic",34700,11
+"Mercedes-Benz"," New C-class",18780,"Diesel","automatic",64000,10
+"Mercedes-Benz"," E-class",19800,"gasoline","automatic",83000,14
+"Mercedes-Benz"," E-class",36504,"gasoline","manual",35939,8
+"Mercedes-Benz"," New C-class",11400,"Diesel","automatic",39000,14
+"Mercedes-Benz"," B class",13884,"gasoline","automatic",42070,10
+"Mercedes-Benz"," E-class",83400,"Diesel","automatic",15000,7
+"Mercedes-Benz"," E-class",38700,"Diesel","automatic",36884,7
+"Mercedes-Benz"," New C-class",20400,"Diesel","automatic",87000,11
+"Mercedes-Benz"," E-class",28800,"Diesel","automatic",40000,10
+"Mercedes-Benz"," New C-class",39000,"Diesel","automatic",51944,8
+"Mercedes-Benz"," M-class",51600,"Diesel","automatic",33000,10
+"Mercedes-Benz"," New C-class",16200,"gasoline","automatic",45000,13
+"Mercedes-Benz"," E-class",50400,"Diesel","automatic",41493,9
+"Mercedes-Benz"," GLA class",30000,"Diesel","automatic",50000,7
+"Mercedes-Benz"," New C-class",14100,"gasoline","manual",65000,14
+"Mercedes-Benz"," New C-class",32400,"Diesel","automatic",51355,10
+"Mercedes-Benz"," S class",26400,"Diesel","automatic",42000,15
+"Mercedes-Benz"," New C-class",17400,"gasoline","automatic",40000,13
+"Mercedes-Benz"," GL-class",58800,"Diesel","automatic",52000,10
+"Mercedes-Benz"," E-class",35976,"Diesel","automatic",38730,8
+"Mercedes-Benz"," New C-class",13800,"gasoline","automatic",29813,13
+"Mercedes-Benz"," E-class",27900,"Diesel","automatic",46000,10
+"Mercedes-Benz"," E-class",12720,"Diesel","automatic",92239,13
+"Mercedes-Benz"," GL-class",43200,"Diesel","automatic",46000,11
+"Mercedes-Benz"," New C-class",12180,"gasoline","automatic",36000,13
+"Mercedes-Benz"," E-class",29400,"Diesel","automatic",52000,10
+"Mercedes-Benz"," New C-class",41736,"Diesel","automatic",32642,7
+"Mercedes-Benz"," GLE",84960,"Diesel","automatic",40129,6
+"Mercedes-Benz"," M-class",26700,"Diesel","automatic",51000,12
+"Mercedes-Benz"," M-class",45600,"Diesel","automatic",69000,9
+"Mercedes-Benz"," New C-class",7200,"gasoline","automatic",220000,17
+"Mercedes-Benz"," E-class",34800,"Diesel","automatic",29000,11
+"Mercedes-Benz"," M-class",43200,"Diesel","automatic",83000,12
+"Mercedes-Benz"," GLE",77844,"Diesel","automatic",33552,7
+"Mercedes-Benz"," A class",20700,"gasoline","automatic",17000,8
+"Mercedes-Benz"," GLS",94800,"Diesel","automatic",6000,6
+"Mercedes-Benz"," New C-class",22188,"Diesel","automatic",41367,12
+"Mercedes-Benz"," E-class",6600,"gasoline","automatic",85000,20
+"Mercedes-Benz"," S class",11988,"gasoline","automatic",55000,17
+"Mercedes-Benz"," E-class",27600,"Diesel","automatic",45200,11
+"Mercedes-Benz"," New C-class",36600,"Diesel","automatic",32324,7
+"Mercedes-Benz"," GLA class",28200,"Diesel","automatic",35000,7
+"Mercedes-Benz"," New C-class",15000,"Diesel","automatic",62000,11
+"Mercedes-Benz"," New C-class",28200,"Diesel","automatic",21000,11
+"Mercedes-Benz"," GL-class",49200,"Diesel","automatic",79000,10
+"Mercedes-Benz"," E-class",26400,"gasoline","automatic",25000,13
+"Mercedes-Benz"," SLC",100752,"gasoline","automatic",2526,5
+"Mercedes-Benz"," E-class",25200,"Diesel","automatic",85000,11
+"Mercedes-Benz"," GLE",68076,"Diesel","automatic",25601,7
+"Mercedes-Benz"," New C-class",47340,"Diesel","automatic",24465,6
+"Mercedes-Benz"," New C-class",46200,"Diesel","automatic",14470,7
+"Mercedes-Benz"," E-class",35520,"Diesel","automatic",46936,8
+"Mercedes-Benz"," E-class",12000,"Diesel","automatic",54000,19
+"Mercedes-Benz"," New C-class",17400,"Diesel","automatic",40100,11
+"Mercedes-Benz"," M-class",42000,"Diesel","automatic",52000,8
+"Mercedes-Benz"," M-class",27096,"Diesel","automatic",63888,12
+"Mercedes-Benz"," E-class",94560,"Diesel","automatic",9312,5
+"Mercedes-Benz"," GLA class",34680,"Diesel","automatic",10000,6
+"Mercedes-Benz"," GLA class",30000,"gasoline","automatic",23000,8
+"Mercedes-Benz"," New C-class",12432,"Diesel","manual",50135,16
+"Mercedes-Benz"," CLA",31200,"gasoline","automatic",25000,8
+"Mercedes-Benz"," M-class",54732,"Diesel","automatic",23218,8
+"Mercedes-Benz"," GLA class",21672,"Diesel","automatic",72524,7
+"Mercedes-Benz"," New C-class",13800,"gasoline","automatic",51000,13
+"Mercedes-Benz"," B class",24336,"Diesel","automatic",43812,7
+"Mercedes-Benz"," New C-class",47064,"Diesel","automatic",23152,6
+"Mercedes-Benz"," GLC",54000,"Diesel","automatic",25000,7
+"Mercedes-Benz"," CLA",32916,"Diesel","automatic",23106,7
+"Mercedes-Benz"," New C-class",46200,"Diesel","automatic",20149,7
+"Mercedes-Benz"," E-class",67800,"Diesel","automatic",11000,6
+"Mercedes-Benz"," New C-class",12000,"gasoline","automatic",29000,15
+"Mercedes-Benz"," CLA",33444,"Diesel","automatic",20969,7
+"Mercedes-Benz"," E-class",84180,"Diesel","automatic",21603,6
+"Mercedes-Benz"," New C-class",13800,"Diesel","automatic",74213,14
+"Mercedes-Benz"," CLA",32580,"gasoline","automatic",24733,7
+"Mercedes-Benz"," New C-class",17100,"Diesel","manual",81456,11
+"Mercedes-Benz"," E-class",35400,"Diesel","automatic",39500,8
+"Mercedes-Benz"," GLA class",21060,"Diesel","automatic",54000,9
+"Mercedes-Benz"," New C-class",47544,"Diesel","automatic",20604,6
+"Mercedes-Benz"," New C-class",23100,"Diesel","automatic",49000,12
+"Mercedes-Benz"," GLE",71148,"Diesel","automatic",30706,6
+"Mercedes-Benz"," GLE",77940,"Diesel","automatic",19863,7
+"Mercedes-Benz"," B class",19500,"Diesel","automatic",36000,10
+"Mercedes-Benz"," New C-class",16680,"Diesel","automatic",90000,13
+"Mercedes-Benz"," E-class",13200,"Diesel","automatic",75000,17
+"Mercedes-Benz"," E-class",10200,"Diesel","automatic",68333,16
+"Mercedes-Benz"," New C-class",17064,"Diesel","automatic",63000,12
+"Mercedes-Benz"," New C-class",22200,"Diesel","manual",51000,11
+"Mercedes-Benz"," New C-class",47412,"Diesel","automatic",10714,6
+"Mercedes-Benz"," New C-class",18600,"Diesel","automatic",78616,10
+"Mercedes-Benz"," E-class",21000,"Diesel","automatic",93000,14
+"Mercedes-Benz"," New C-class",45000,"Diesel","automatic",11200,7
+"Mercedes-Benz"," GL-class",67200,"Diesel","automatic",16000,8
+"Mercedes-Benz"," E-class",12480,"gasoline","automatic",73000,14
+"Mercedes-Benz"," E-class",29556,"Diesel","automatic",41057,9
+"Mercedes-Benz"," E-class",27300,"Diesel","automatic",81000,10
+"Mercedes-Benz"," New C-class",34200,"Diesel","automatic",15000,9
+"Mercedes-Benz"," A class",21000,"Diesel","automatic",48300,9
+"Mercedes-Benz"," M-class",59064,"Diesel","automatic",22769,8
+"Mercedes-Benz"," E-class",8400,"gasoline","automatic",62000,16
+"Mercedes-Benz"," E-class",28092,"Diesel","automatic",59630,9
+"Mercedes-Benz"," E-class",15600,"Diesel","automatic",70000,13
+"Mercedes-Benz"," E-class",57600,"gasoline","automatic",7501,9
+"Mercedes-Benz"," GLE",71580,"Diesel","automatic",29277,6
+"Mercedes-Benz"," A class",13200,"Diesel","automatic",34000,11
+"Mercedes-Benz"," New C-class",14388,"Diesel","automatic",107000,14
+"Mercedes-Benz"," CLA",30900,"Diesel","automatic",29836,5
+"Mercedes-Benz"," M-class",12900,"Diesel","automatic",66000,15
+"Mercedes-Benz"," E-class",15000,"Diesel","automatic",130923,14
+"Mercedes-Benz"," R-class",33600,"Diesel","automatic",46000,14
+"Mercedes-Benz"," A class",23700,"Diesel","automatic",8000,10
+"Mercedes-Benz"," M-class",33300,"Diesel","automatic",58589,9
+"Mercedes-Benz"," New C-class",17400,"Diesel","automatic",80578,11
+"Mercedes-Benz"," S class",30000,"Diesel","automatic",98000,15
+"Mercedes-Benz"," CLA",36924,"Diesel","automatic",13414,5
+"Mercedes-Benz"," GLA class",23400,"Diesel","automatic",52000,10
+"Mercedes-Benz"," CLS-class",38400,"Diesel","automatic",29000,14
+"Mercedes-Benz"," New C-class",15000,"gasoline","automatic",64000,13
+"Mercedes-Benz"," E-class",5580,"Diesel","automatic",102000,19
+"Mercedes-Benz"," E-class",42336,"Diesel","automatic",39753,8
+"Mercedes-Benz"," New C-class",43200,"Diesel","automatic",10000,7
+"Mercedes-Benz"," GLC",61164,"Diesel","automatic",29311,5
+"Mercedes-Benz"," E-class",36864,"Diesel","automatic",73187,9
+"Mercedes-Benz"," M-class",16500,"Diesel","automatic",53000,15
+"Mercedes-Benz"," GLA class",31200,"Diesel","automatic",30000,10
+"Mercedes-Benz"," E-class",4680,"Diesel","automatic",55300,26
+"Mercedes-Benz"," E-class",11988,"Diesel","automatic",85000,15
+"Mercedes-Benz"," E-class",34800,"Diesel","automatic",53000,10
+"Mercedes-Benz"," E-class",31200,"Diesel","automatic",30000,10
+"Mercedes-Benz"," CLA",29412,"Diesel","automatic",32345,8
+"Mercedes-Benz"," New C-class",15000,"Diesel","automatic",68782,14
+"Mercedes-Benz"," S-class",12900,"gasoline","manual",30000,18
+"Mercedes-Benz"," New C-class",10200,"Diesel","manual",116000,15
+"Mercedes-Benz"," E-class",40800,"Diesel","automatic",45000,8
+"Mercedes-Benz"," New C-class",46860,"Diesel","automatic",27467,6
+"Mercedes-Benz"," New C-class",10560,"gasoline","manual",62148,13
+"Mercedes-Benz"," CLA",29400,"gasoline","automatic",40000,8
+"Mercedes-Benz"," E-class",41016,"Diesel","automatic",43252,8
+"Mercedes-Benz"," R-class",20220,"gasoline","automatic",82000,13
+"Mercedes-Benz"," E-class",33000,"Diesel","automatic",68000,10
+"Mercedes-Benz"," B class",25044,"Diesel","automatic",48161,7
+"Mercedes-Benz"," B class",13872,"gasoline","automatic",28000,11
+"Mercedes-Benz"," E-class",14100,"gasoline","automatic",68001,15
+"Mercedes-Benz"," E-class",45780,"Diesel","automatic",43477,7
+"Mercedes-Benz"," S-class",7800,"gasoline","automatic",111000,21
+"Mercedes-Benz"," E-class",22800,"gasoline","automatic",34000,13
+"Mercedes-Benz"," GL-class",67200,"Diesel","automatic",45000,9
+"Mercedes-Benz"," E-class",27000,"Diesel","automatic",34233,10
+"Mercedes-Benz"," M-class",31200,"Diesel","automatic",63000,12
+"Mercedes-Benz"," S-class",20508,"gasoline","manual",84143,17
+"Mercedes-Benz"," E-class",9072,"gasoline","automatic",28888,15
+"Mercedes-Benz"," A class",15600,"Diesel","automatic",37000,11
+"Mercedes-Benz"," E-class",20676,"gasoline","automatic",87073,13
+"Mercedes-Benz"," E-class",13800,"Diesel","automatic",100000,15
+"Mercedes-Benz"," E-class",39276,"Diesel","automatic",65405,8
+"Mercedes-Benz"," S class",10620,"gasoline","automatic",103000,18
+"Mercedes-Benz"," GLA class",27600,"Diesel","automatic",27000,9
+"Mercedes-Benz"," New C-class",39600,"Diesel","automatic",20000,8
+"Mercedes-Benz"," New C-class",31200,"Diesel","manual",26000,9
+"Mercedes-Benz"," M-class",59088,"Diesel","automatic",27833,8
+"Mercedes-Benz"," New C-class",45588,"Diesel","automatic",17320,5
+"Mercedes-Benz"," New C-class",16212,"Diesel","automatic",38000,12
+"Mercedes-Benz"," GLE",78000,"Diesel","automatic",29000,8
+"Mercedes-Benz"," GL-class",38400,"Diesel","automatic",100000,11
+"Mercedes-Benz"," New C-class",25200,"Diesel","automatic",25000,11
+"Mercedes-Benz"," E-class",30000,"Diesel","automatic",100000,10
+"Mercedes-Benz"," E-class",20100,"Diesel","automatic",43800,13
+"Mercedes-Benz"," E-class",19200,"Diesel","automatic",55000,13
+"Mercedes-Benz"," New C-class",30600,"Diesel","automatic",34000,8
+"Mercedes-Benz"," GL-class",62400,"Diesel","automatic",55000,9
+"Mercedes-Benz"," GLA class",25188,"Diesel","automatic",35000,9
+"Mercedes-Benz"," S-class",8520,"gasoline","automatic",119859,20
+"Mercedes-Benz"," SLK-class",108000,"gasoline","automatic",3000,10
+"Mercedes-Benz"," E-class",20700,"gasoline","automatic",72000,10
+"Mercedes-Benz"," M-class",56820,"Diesel","automatic",20000,9
+"Mercedes-Benz"," SL-class",35400,"gasoline","automatic",35000,14
+"Mercedes-Benz"," E-class",13188,"Diesel","automatic",76662,18
+"Mercedes-Benz"," GLA class",29820,"Diesel","automatic",43022,8
+"Mercedes-Benz"," S-class",36000,"Diesel","automatic",47140,13
+"Mercedes-Benz"," B class",23880,"Diesel","automatic",36610,8
+"Mercedes-Benz"," E-class",26400,"Diesel","automatic",48000,11
+"Mercedes-Benz"," GLA class",31200,"gasoline","automatic",28000,8
+"Mercedes-Benz"," E-class",12000,"Diesel","automatic",131000,19
+"Mercedes-Benz"," New C-class",36360,"Diesel","automatic",16329,9
+"Mercedes-Benz"," New C-class",40800,"Diesel","automatic",39000,9
+"Mercedes-Benz"," M-class",54000,"Diesel","automatic",50000,10
+"Mercedes-Benz"," New C-class",22200,"Diesel","automatic",41000,10
+"Mercedes-Benz"," GLC",56340,"Diesel","automatic",24000,7
+"Mercedes-Benz"," M-class",36000,"Diesel","automatic",66000,10
+"Mercedes-Benz"," M-class",35940,"Diesel","automatic",52000,12
+"Mercedes-Benz"," New C-class",40368,"Diesel","automatic",26493,7
+"Mercedes-Benz"," E-class",7800,"gasoline","automatic",77000,16
+"Mercedes-Benz"," E-class",26340,"gasoline","automatic",50319,11
+"Mercedes-Benz"," New C-class",34800,"gasoline","automatic",43627,17
+"Mercedes-Benz"," New C-class",16800,"Diesel","automatic",22000,12
+"Mercedes-Benz"," GLC",48564,"Diesel","automatic",26192,7
+"Mercedes-Benz"," GLE",58800,"Diesel","automatic",50000,8
+"Mercedes-Benz"," New C-class",16788,"Diesel","automatic",119000,12
+"Mercedes-Benz"," GLE",72900,"Diesel","automatic",28541,8
+"Mercedes-Benz"," E-class",18900,"Diesel","automatic",58000,11
+"Mercedes-Benz"," E-class",29940,"Diesel","automatic",42000,10
+"Mercedes-Benz"," E-class",13800,"Diesel","automatic",67612,13
+"Mercedes-Benz"," CLA",36360,"Diesel","automatic",20483,5
+"Mercedes-Benz"," CLA",32400,"Diesel","automatic",39000,7
+"Mercedes-Benz"," E-class",13800,"gasoline","automatic",100000,12
+"Mercedes-Benz"," New C-class",20700,"Diesel","automatic",57000,13
+"Mercedes-Benz"," CLA",30612,"Diesel","automatic",13500,9
+"Mercedes-Benz"," M-class",17292,"Diesel","automatic",100000,13
+"Mercedes-Benz"," M-class",26388,"Diesel","automatic",54000,13
+"Mercedes-Benz"," M-class",27600,"Diesel","automatic",66000,12
+"Mercedes-Benz"," New C-class",19200,"gasoline","automatic",60000,13
+"Mercedes-Benz"," R-class",28416,"gasoline","automatic",45710,10
+"Mercedes-Benz"," GLA class",29352,"Diesel","automatic",26212,8
+"Mercedes-Benz"," E-class",38100,"Diesel","automatic",28000,10
+"Mercedes-Benz"," S class",25200,"Diesel","automatic",37000,14
+"Mercedes-Benz"," New C-class",12000,"gasoline","manual",34000,14
+"Mercedes-Benz"," New C-class",42000,"Diesel","automatic",37944,8
+"Mercedes-Benz"," GLA class",40800,"Diesel","automatic",16500,7
+"Mercedes-Benz"," E-class",32400,"Diesel","automatic",60000,11
+"Mercedes-Benz"," CLA",44112,"Diesel","automatic",15976,5
+"Mercedes-Benz"," E-class",13200,"Diesel","automatic",70000,17
+"Mercedes-Benz"," S class",30000,"gasoline","automatic",80000,11
+"Mercedes-Benz"," GLA class",21060,"Diesel","automatic",60000,8
+"Mercedes-Benz"," B class",13200,"gasoline","automatic",30000,11
+"Mercedes-Benz"," E-class",12288,"gasoline","automatic",43600,15
+"Mercedes-Benz"," E-class",45576,"Diesel","automatic",41467,6
+"Mercedes-Benz"," B class",13200,"gasoline","automatic",32000,11
+"Mercedes-Benz"," E-class",46512,"Diesel","automatic",41082,8
+"Mercedes-Benz"," GL-class",45600,"Diesel","automatic",100000,11
+"Mercedes-Benz"," New C-class",12576,"Diesel","automatic",42408,13
+"Mercedes-Benz"," GL-class",58200,"Diesel","automatic",48600,9
+"Mercedes-Benz"," E-class",28800,"gasoline","automatic",40000,10
+"Mercedes-Benz"," C-class",42000,"Diesel","automatic",4000,5
+"Mercedes-Benz"," New C-class",19368,"Diesel","automatic",92469,12
+"Mercedes-Benz"," R-class",18000,"gasoline","automatic",93000,14
+"Mercedes-Benz"," GLC",51960,"Diesel","automatic",50794,7
+"Mercedes-Benz"," New C-class",19200,"gasoline","automatic",33000,12
+"Mercedes-Benz"," E-class",43200,"Diesel","automatic",21000,8
+"Mercedes-Benz"," New C-class",18600,"Diesel","manual",79000,11
+"Mercedes-Benz"," New C-class",17820,"gasoline","automatic",25000,11
+"Mercedes-Benz"," New C-class",19200,"Diesel","automatic",65000,12
+"Mercedes-Benz"," GLA class",32112,"gasoline","automatic",17773,6
+"Mercedes-Benz"," New C-class",15900,"gasoline","automatic",63720,12
+"Mercedes-Benz"," M-class",12900,"Diesel","automatic",102002,15
+"BMW","3 Series",22260,"Diesel","automatic",32982,10
+"BMW","5 Series",16680,"Diesel","automatic",75000,13
+"BMW","3 Series",24900,"Diesel","automatic",56087,9
+"BMW","5 Series",8400,"gasoline","automatic",128000,15
+"BMW","1 Series",20664,"Diesel","automatic",31821,9
+"BMW","3 Series",31800,"Diesel","automatic",48000,10
+"BMW"," X5",54000,"Diesel","automatic",41000,9
+"BMW","5 Series",40200,"Diesel","automatic",51000,10
+"BMW"," X1",22200,"Diesel","automatic",82002,10
+"BMW"," X3",54924,"Diesel","automatic",51982,7
+"BMW","5 Series",33600,"Diesel","automatic",64000,9
+"BMW","6 Series",58800,"Diesel","automatic",30000,13
+"BMW","3 Series",31188,"Diesel","automatic",30717,9
+"BMW"," X5",21300,"Diesel","automatic",90000,15
+"BMW","3 Series",13200,"Diesel","automatic",89616,13
+"BMW","5 Series",40200,"Diesel","automatic",56000,11
+"BMW","3 Series",30600,"Diesel","automatic",41000,9
+"BMW","5 Series",30984,"Diesel","automatic",57832,13
+"BMW","3 Series",43800,"Diesel","automatic",19235,8
+"BMW","5 Series",16200,"gasoline","automatic",31000,13
+"BMW"," X5",33000,"Diesel","automatic",75000,13
+"BMW","3 Series",12588,"gasoline","automatic",48394,14
+"BMW","5 Series",22200,"Diesel","automatic",59900,12
+"BMW"," X1",35280,"Diesel","automatic",31645,7
+"BMW","3 Series",30600,"Diesel","automatic",47000,10
+"BMW"," X1",39600,"Diesel","automatic",21000,8
+"BMW"," X1",16200,"Diesel","automatic",15200,12
+"BMW"," X5",52800,"Diesel","automatic",19000,10
+"BMW","5 Series",53472,"Diesel","automatic",20967,8
+"BMW","3 Series",20100,"Diesel","automatic",37500,11
+"BMW","3 Series",10800,"Diesel","automatic",137000,15
+"BMW","5 Series",43008,"Diesel","automatic",19658,8
+"BMW","3 Series",28200,"Diesel","automatic",69330,10
+"BMW"," X5",64800,"Diesel","automatic",69000,9
+"BMW","3 Series",20400,"Diesel","automatic",38998,11
+"BMW","3 Series",29700,"Diesel","automatic",100000,9
+"BMW","3 Series",23832,"Diesel","automatic",58390,9
+"BMW","3 Series",42660,"Diesel","automatic",14351,8
+"BMW","5 Series",27948,"Diesel","automatic",108640,11
+"BMW","3 Series",28788,"Diesel","automatic",38000,8
+"BMW"," X5",49800,"Diesel","automatic",47000,10
+"BMW","3 Series",12600,"Diesel","automatic",99606,13
+"BMW"," X5",69600,"Diesel","automatic",76000,8
+"BMW","5 Series",21000,"Diesel","automatic",61240,12
+"BMW","3 Series",19800,"Diesel","automatic",21983,11
+"BMW","5 Series",22800,"Diesel","automatic",76000,11
+"BMW","5 Series",9588,"Diesel","automatic",112500,16
+"BMW"," X1",11400,"gasoline","automatic",80000,12
+"BMW","3 Series",13200,"Diesel","automatic",105000,14
+"BMW","5 Series",13200,"gasoline","automatic",61000,16
+"BMW","5 Series",33000,"Diesel","automatic",58500,11
+"BMW","7 Series",12900,"gasoline","automatic",66000,16
+"BMW","3 Series",17400,"Diesel","automatic",62655,11
+"BMW","5 Series",52800,"Diesel","automatic",16900,9
+"BMW","3 Series",16800,"Diesel","automatic",65000,12
+"BMW","5 Series",27600,"Diesel","automatic",35000,10
+"BMW","3 Series",22800,"gasoline","automatic",49000,11
+"BMW","5 Series",29616,"Diesel","automatic",44450,12
+"BMW"," X1",35400,"Diesel","automatic",31000,8
+"BMW","5 Series",19884,"Diesel","automatic",89000,13
+"BMW","3 Series",16740,"Diesel","automatic",37613,11
+"BMW","7 Series",23400,"Diesel","automatic",55000,13
+"BMW","3 Series",36000,"Diesel","automatic",10000,9
+"BMW","5 Series",55032,"Diesel","automatic",18373,5
+"BMW","3 Series",26400,"Diesel","automatic",30000,11
+"BMW"," X1",17388,"Diesel","automatic",49000,11
+"BMW"," X5",52536,"Diesel","automatic",35659,8
+"BMW","5 Series",15000,"gasoline","automatic",69300,14
+"BMW","3 Series",9600,"Diesel","automatic",58557,15
+"BMW","3 Series",21600,"Diesel","automatic",57156,12
+"BMW"," X3",34548,"Diesel","automatic",41089,10
+"BMW"," X1",16500,"Diesel","automatic",102000,13
+"BMW"," X1",36348,"Diesel","automatic",32838,7
+"BMW","5 Series",44760,"Diesel","automatic",32586,6
+"BMW"," X1",13140,"Diesel","automatic",62943,13
+"BMW","3 Series",32100,"Diesel","automatic",32500,9
+"BMW","3 Series",22800,"Diesel","automatic",69123,9
+"BMW"," X6",57600,"Diesel","automatic",58000,11
+"BMW","5 Series",36960,"Diesel","automatic",63111,8
+"BMW","3 Series",16944,"gasoline","automatic",75871,13
+"BMW","3 Series",15300,"Diesel","automatic",83000,14
+"BMW"," X1",33300,"Diesel","automatic",7000,8
+"BMW","3 Series",13080,"Diesel","automatic",100000,13
+"BMW","5 Series",48600,"Diesel","automatic",19543,7
+"BMW","5 Series",18600,"Diesel","automatic",49000,12
+"BMW","5 Series",58356,"Diesel","automatic",27313,7
+"BMW"," X1",26688,"Diesel","automatic",42265,9
+"BMW"," X5",25200,"Diesel","automatic",66000,12
+"BMW","7 Series",112404,"gasoline","automatic",28060,6
+"BMW","7 Series",111600,"gasoline","automatic",17465,7
+"BMW","3 Series",25920,"Diesel","automatic",48000,10
+"BMW"," X1",34200,"Diesel","automatic",28143,8
+"BMW","7 Series",52320,"Diesel","automatic",29966,9
+"BMW"," X3",34800,"Diesel","automatic",65000,9
+"BMW","6 Series",54000,"Diesel","automatic",30000,11
+"BMW","3 Series",13524,"gasoline","automatic",77849,14
+"BMW","3 Series",12360,"gasoline","automatic",70521,15
+"BMW","3 Series",9300,"Diesel","automatic",51000,14
+"BMW","5 Series",15540,"gasoline","automatic",74000,14
+"BMW","5 Series",55200,"Diesel","automatic",7000,6
+"BMW","5 Series",23400,"Diesel","automatic",78000,11
+"BMW","5 Series",21000,"Diesel","automatic",95000,12
+"BMW"," X6",51000,"Diesel","automatic",45306,11
+"BMW","1 Series",20400,"Diesel","automatic",51000,11
+"BMW"," X1",27588,"Diesel","automatic",49000,9
+"BMW"," X5",65340,"Diesel","automatic",17738,8
+"BMW"," X5",78000,"Diesel","automatic",6500000,7
+"BMW","3 Series",18000,"Diesel","automatic",88000,12
+"BMW","3 Series",21588,"Diesel","automatic",25000,11
+"BMW","5 Series",26100,"Diesel","automatic",55000,11
+"BMW"," X3",21000,"Diesel","automatic",108000,12
+"BMW","3 Series",40392,"Diesel","automatic",23806,7
+"BMW","3 Series",12588,"gasoline","automatic",59660,14
+"BMW","3 Series",25200,"Diesel","automatic",18600,10
+"BMW","6 Series",52800,"Diesel","automatic",21000,11
+"BMW","5 Series",41412,"Diesel","automatic",44001,8
+"BMW","5 Series",21468,"Diesel","automatic",64158,10
+"BMW","3 Series",23400,"Diesel","automatic",58000,11
+"BMW","3 Series",18000,"gasoline","automatic",39000,12
+"BMW"," X6",72000,"Diesel","automatic",25000,8
+"BMW"," X1",15300,"Diesel","automatic",65148,12
+"BMW","5 Series",37800,"Diesel","automatic",30000,8
+"BMW","3 Series",21060,"Diesel","automatic",70000,10
+"BMW","5 Series",21600,"Diesel","automatic",95000,12
+"BMW"," X5",22152,"Diesel","automatic",101119,14
+"BMW","3 Series",12360,"Diesel","automatic",70000,13
+"BMW","5 Series",23400,"Diesel","automatic",90000,11
+"BMW","7 Series",41448,"Diesel","automatic",73525,11
+"BMW"," X5",60000,"Diesel","automatic",69002,9
+"BMW","3 Series",10800,"gasoline","automatic",43706,13
+"BMW","3 Series",33600,"Diesel","automatic",24000,6
+"BMW"," X3",21576,"Diesel","automatic",58000,15
+"BMW"," X3",39168,"Diesel","automatic",36935,7
+"BMW","5 Series",42000,"Diesel","automatic",14000,9
+"BMW","5 Series",18000,"Diesel","automatic",79000,15
+"BMW","3 Series",11904,"Diesel","automatic",103905,15
+"BMW","5 Series",18600,"Diesel","automatic",95995,13
+"BMW","3 Series",12600,"Diesel","automatic",64000,13
+"BMW"," X3",20400,"Diesel","automatic",51001,12
+"BMW","3 Series",34140,"Diesel","automatic",55389,7
+"BMW","3 Series",12828,"Diesel","automatic",73336,14
+"BMW"," X5",21300,"Diesel","automatic",90000,15
+"BMW","5 Series",57240,"Diesel","automatic",19254,8
+"BMW","3 Series",18000,"Diesel","automatic",37000,12
+"BMW","3 Series",25188,"Diesel","automatic",48183,11
+"BMW","3 Series",8004,"Diesel","automatic",87000,5
+"BMW","3 Series",15696,"Diesel","automatic",85846,11
+"BMW"," X1",25800,"Diesel","automatic",45000,10
+"BMW","7 Series",31800,"Diesel","automatic",41100,12
+"BMW","5 Series",12600,"Diesel","automatic",81000,16
+"BMW","7 Series",31116,"gasoline","automatic",50161,14
+"BMW"," X1",21000,"Diesel","automatic",43000,11
+"BMW","3 Series",10200,"Diesel","automatic",61500,15
+"BMW"," X5",51600,"Diesel","automatic",29500,9
+"BMW"," X1",13800,"Diesel","automatic",22000,12
+"BMW","3 Series",11100,"Diesel","automatic",67000,14
+"BMW","5 Series",54876,"Diesel","automatic",18090,8
+"BMW","3 Series",11700,"Diesel","automatic",170000,16
+"BMW","5 Series",25512,"Diesel","automatic",65000,11
+"BMW","5 Series",17400,"Diesel","automatic",90000,12
+"BMW","3 Series",15000,"Diesel","automatic",74000,13
+"BMW"," X1",16200,"Diesel","automatic",63000,12
+"BMW","3 Series",42000,"Diesel","automatic",27000,8
+"BMW","5 Series",38100,"Diesel","automatic",65266,9
+"BMW"," X6",26280,"Diesel","automatic",59000,13
+"BMW","5 Series",36540,"Diesel","automatic",76467,8
+"BMW","3 Series",22200,"Diesel","automatic",69000,12
+"BMW","5 Series",21600,"Diesel","automatic",68000,14
+"BMW","5 Series",19800,"Diesel","automatic",46000,14
+"BMW","3 Series",35940,"Diesel","automatic",31000,8
+"BMW","3 Series",17040,"Diesel","automatic",80000,14
+"BMW"," X1",13800,"Diesel","automatic",66000,12
+"BMW","3 Series",27300,"Diesel","automatic",56000,9
+"BMW"," X1",20400,"Diesel","automatic",54385,10
+"BMW","3 Series",13800,"Diesel","automatic",55598,12
+"BMW","3 Series",23400,"Diesel","automatic",38000,11
+"BMW","3 Series",10500,"Diesel","automatic",76000,12
+"BMW"," X1",19500,"Diesel","automatic",69000,10
+"BMW"," X3",28800,"Diesel","automatic",52000,12
+"BMW"," X1",34200,"Diesel","automatic",45000,8
+"BMW","5 Series",26940,"Diesel","automatic",60280,10
+"BMW"," X5",68400,"Diesel","automatic",45000,8
+"BMW","3 Series",18360,"Diesel","automatic",58000,12
+"BMW","7 Series",37200,"Diesel","automatic",58000,14
+"BMW"," X6",48792,"Diesel","automatic",39626,10
+"BMW"," X1",34800,"Diesel","automatic",27001,7
+"BMW","3 Series",11700,"gasoline","automatic",7000,13
+"BMW","6 Series",82728,"Diesel","automatic",20004,6
+"BMW","7 Series",62400,"Diesel","automatic",35000,10
+"BMW"," X5",26388,"Diesel","automatic",124652,13
+"BMW","3 Series",39600,"Diesel","automatic",36255,9
+"BMW"," X5",32400,"Diesel","automatic",58000,13
+"BMW","5 Series",10500,"gasoline","automatic",24000,14
+"BMW","3 Series",11400,"gasoline","automatic",40000,15
+"BMW","3 Series",23880,"Diesel","automatic",23000,10
+"BMW","3 Series",16200,"Diesel","automatic",58000,15
+"BMW","3 Series",12600,"Diesel","automatic",51000,13
+"BMW","5 Series",20724,"Diesel","automatic",51602,13
+"BMW","3 Series",11100,"Diesel","automatic",74199,17
+"BMW","3 Series",32400,"Diesel","automatic",70000,8
+"BMW","3 Series",40500,"Diesel","automatic",8000,7
+"BMW","5 Series",16620,"Diesel","automatic",72000,12
+"BMW"," X1",43968,"Diesel","automatic",15456,5
+"BMW"," X5",22500,"Diesel","automatic",150000,15
+"BMW"," X5",84000,"Diesel","automatic",15000,7
+"BMW","5 Series",31800,"Diesel","automatic",93000,11
+"BMW","6 Series",24864,"gasoline","automatic",65329,14
+"BMW","1 Series",19200,"Diesel","automatic",46001,9
+"BMW"," X1",12000,"Diesel","automatic",85000,12
+"BMW","3 Series",8640,"Diesel","automatic",78000,16
+"BMW"," X3",54000,"Diesel","automatic",49000,8
+"BMW","7 Series",43200,"Diesel","automatic",53000,15
+"BMW","3 Series",45504,"Diesel","automatic",21936,6
+"BMW"," X5",21600,"Diesel","automatic",110000,15
+"BMW","5 Series",8388,"gasoline","automatic",48000,18
+"BMW"," X5",24000,"Diesel","automatic",110000,15
+"BMW","6 Series",57000,"gasoline","automatic",5900,13
+"BMW","3 Series",16740,"Diesel","automatic",89000,13
+"BMW"," X1",15000,"Diesel","automatic",94000,12
+"BMW"," X3",39336,"Diesel","automatic",41816,7
+"BMW"," Z4",70248,"gasoline","automatic",9952,6
+"BMW"," X5",33600,"Diesel","automatic",55000,13
+"BMW","3 Series",18000,"Diesel","automatic",71000,11
+"BMW","5 Series",23988,"Diesel","automatic",101999,13
+"BMW","5 Series",57600,"Diesel","automatic",27000,8
+"BMW"," X3",50100,"Diesel","automatic",45165,8
+"BMW","5 Series",12600,"Diesel","automatic",120000,17
+"BMW"," X3",39084,"Diesel","automatic",36723,7
+"BMW","3 Series",37200,"gasoline","automatic",31000,13
+"BMW","3 Series",9540,"Diesel","automatic",81308,16
+"BMW","5 Series",14100,"Diesel","automatic",58000,14
+"BMW","3 Series",34800,"Diesel","automatic",49000,11
+"BMW","3 Series",15000,"Diesel","automatic",73000,12
+"BMW","5 Series",30864,"Diesel","automatic",40471,12
+"BMW","3 Series",8700,"Diesel","automatic",66000,16
+"BMW","3 Series",7560,"Diesel","automatic",89000,16
+"BMW"," Z4",36000,"gasoline","automatic",25000,13
+"BMW"," X1",13200,"Diesel","automatic",72000,13
+"BMW","3 Series",42000,"Diesel","automatic",21000,7
+"BMW","3 Series",35400,"Diesel","automatic",47000,9
+"BMW"," X1",12000,"Diesel","automatic",115000,12
+"BMW","3 Series",9000,"Diesel","automatic",52100,15
+"BMW","5 Series",36600,"Diesel","automatic",32000,10
+"BMW"," X3",21000,"Diesel","automatic",98000,11
+"BMW","5 Series",14400,"Diesel","automatic",170000,14
+"BMW","3 Series",35988,"Diesel","automatic",19000,8
+"BMW","3 Series",13800,"Diesel","automatic",58000,14
+"BMW","7 Series",11400,"Diesel","automatic",75000,17
+"BMW"," X3",73500,"Diesel","automatic",1400,6
+"BMW"," X6",102000,"Diesel","automatic",97003,9
+"BMW","5 Series",32400,"Diesel","automatic",88000,10
+"BMW","5 Series",36444,"Diesel","automatic",75637,8
+"BMW","3 Series",25596,"Diesel","automatic",62404,8
+"BMW","3 Series",43008,"Diesel","automatic",34232,7
+"BMW"," X1",16200,"Diesel","automatic",56683,11
+"BMW","5 Series",29700,"Diesel","automatic",40714,11
+"BMW"," X1",34500,"Diesel","automatic",23000,7
+"BMW","5 Series",51300,"Diesel","automatic",16485,7
+"BMW","3 Series",11832,"gasoline","automatic",70749,14
+"BMW","7 Series",54000,"Diesel","automatic",38000,11
+"BMW"," X1",35160,"Diesel","automatic",30733,6
+"BMW"," X5",66000,"Diesel","automatic",21000,7
+"BMW","3 Series",26400,"Diesel","automatic",30000,9
+"BMW","6 Series",54000,"Diesel","automatic",30000,11
+"BMW","5 Series",25200,"Diesel","automatic",35000,11
+"BMW","3 Series",35424,"Diesel","automatic",51240,10
+"BMW","5 Series",57600,"Diesel","automatic",16000,8
